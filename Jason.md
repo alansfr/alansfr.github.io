@@ -40,6 +40,11 @@ videogallery:
     title: Gay VN 2020
     excerpt: __Best Director__
     im: GayVN2020.jpg
+  - id: f_BskTnqY8U
+    provider: youtube
+    title: Nearly 8 years
+    excerpt: In this 2013 interview, Jason talks about his business partner.
+    im: sketchy2.jpg
 after_footer_scripts:
   - /assets/js/videogal.js
 ---
@@ -90,7 +95,7 @@ The page just isn't the same without
 Awards
 =========
 
-[![Adrian, Glenn and Jason](assets/images/sketchy2.jpg){: .align-right .jason}](assets/images/sketchy2.jpg)
+<!-- [![Adrian, Glenn and Jason](assets/images/sketchy2.jpg){: .align-right .jason}](assets/images/sketchy2.jpg) -->
 
 Glenn and Jason appear to have stopped working closely together around 2010--11.  
 Jason and his husband Adrian (aka RJ) are pictured here in late 2011 with Glenn and David. 
