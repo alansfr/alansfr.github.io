@@ -40,6 +40,11 @@ videogallery:
     title: Gay VN 2020
     excerpt: __Best Director__
     im: GayVN2020.jpg
+  - id: f_BskTnqY8U
+    provider: youtube
+    title: Nearly 8 years
+    excerpt: In this 2013 interview, Jason talks about his business partner.
+    im: interview.png
 after_footer_scripts:
   - /assets/js/videogal.js
 ---
