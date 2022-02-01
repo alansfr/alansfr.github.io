@@ -5,7 +5,7 @@ excerpt: \"My personal life is complex and sometimes messy.\"
 description: "**greenwald.sobstack.com** hosted by"
 header:
   overlay_image: assets/images/GG-Buzz.jpg
-  og_image: assets/images/dogs.jpeg
+  og_image: assets/images/lies.jpg
 share: true
 permalink: /sobstack/
 ---
