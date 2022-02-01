@@ -14,3 +14,4 @@ gem "minimal-mistakes-jekyll"
 gem "webrick", "~> 1.7"
 gem "jekyll-remote-theme"
 gem 'jekyll-seo-tag'
+gem 'jekyll-redirect-from', group: :jekyll_plugins
