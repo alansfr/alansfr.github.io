@@ -2,8 +2,7 @@
 layout: splash
 title: "greenwald.sobstack.com"
 excerpt: \"My personal life is complex and sometimes messy.\"
-description: "presents Glenn uncensored:"
-canonical_url: https://greenwald.sobstack.com
+description: "aka Glenn uncensored."
 header:
   overlay_image: assets/images/GG-Buzz.jpg
   og_image: assets/images/lies.jpg
