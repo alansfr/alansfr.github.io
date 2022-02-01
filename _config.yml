@@ -32,4 +32,6 @@ analytics:
   google:
     tracking_id: "G-J73QXGV4YW"
     anonymize_ip: false # default
+whitelist:
+  - jekyll-redirect-from
 
