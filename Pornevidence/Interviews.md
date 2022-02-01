@@ -8,7 +8,7 @@ header:
   og_image: assets/images/dogs.jpeg
 share: true
 permalink: /sobstack/
-redirect_from: /interviews/
+redirect_from: /interviews
 ---
 
 # June 26, 2013
@@ -18,6 +18,7 @@ about Glenn's porn companies.
 Between their email, the evening of June 25, and publication less than 36 hours later, Glenn managed to publish two piece of his own, an interview in Buzzfeed and first-person article in The Guardian.  
 Key excerpts from those articles are reproduced here, with links to the full originals.
 
+{{ request.params  }}
 Glenn appears to have carefully phoned the New York Daily News, to find out exactly what they had found out, before writing his own stories. In the Guardian he commented, with evident relief, "So that's the big discovery".
 {: .notice--warning}
 
