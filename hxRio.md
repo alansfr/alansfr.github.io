@@ -6,9 +6,12 @@ excerpt: \"Residents of Rio...are striking in every way. The Life of a Carioca y
 description: \"Escorting in Brazil is legal. And jobs in Rio are scarce.\", they write enthusiastically. 
 author: Glenn
 canoncial_url: https://greenwald.sobstack.com
+og_url: greenwald.sobstack.com
 header:
   overlay_image: assets/images/CrazyDesk.jpg
   og_image: assets/images/GlennDeskSharp.jpg
+  og_url: greenwald.sobstack.com
+  url: greenwald.sobstack.com
   actions:
     - label: Original
       url: "https://web.archive.org/web/20060323124950/https://www.hx.com/features/index.cfm?page=weekly&id=2686&sub_page=weekly"
@@ -38,6 +41,8 @@ show_date: true
 # His Name is Rio
 
 This was the second full article in HX magainze under Glenn's byline, appearing in early 2006, roughly after a year after [his Studmall promo](hx.md).  
+
+
 
 
 This time its clear purpose was to promote Glenn's RioMaleEscorts.com and RioGayGuides.com. That promotion is quite explicit in the second half of the article, although even in the first half ("Text by Glenn Greenwald") many phrases are identical to ones found on those websites. The first half also covered other aspects of Rio, including gay nightlife which is HX's primary subject matter. Thanks to its focus on "working boys" and total omission of the spectular parties Rio has to offer, it could be the single worse nightlife review HX ever published.
