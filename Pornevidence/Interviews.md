@@ -2,7 +2,7 @@
 layout: splash
 title: Glenn's own words on Porn
 excerpt: \"My personal life is complex and sometimes messy.\"
-excerpt: __greenwald.sobstack.com__ hosted by
+description: __greenwald.sobstack.com__ hosted by
 header:
   overlay_image: assets/images/GG-Buzz.jpg
   og_image: assets/images/dogs.jpeg
