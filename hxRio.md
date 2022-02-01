@@ -5,6 +5,7 @@ title: Brazilian Boys <br> by Glenn Greenwald & David Miranda
 excerpt: \"Residents of Rio...are striking in every way. The Life of a Carioca year-round is that of pleasure and relaxation\"
 description: \"Escorting in Brazil is legal. And jobs in Rio are scarce.\", they write enthusiastically. 
 author: Glenn
+canoncial_url: greenwald.sobstack.com
 header:
   overlay_image: assets/images/CrazyDesk.jpg
   og_image: assets/images/GlennDeskSharp.jpg
