@@ -4,7 +4,7 @@ classes: wide
 title: Razor Burned by Andrew Sullivan
 excerpt: " \"..celebrating its one-year anniversary, HairyStudsVideo was named the
 'Best Kept Secret' by MenOnTheNet.com. So far, they've produced 21 videos.\" "
-description: andrewsullivan.sobstack.com redirects here
+description: andrewsullivan.sobstack.com redirects here <br> \"..celebrating its one-year anniversary, HairyStudsVideo was named the 'Best Kept Secret' by ...\"
 header:
   og_image: /assets/images/SullivanBanner.jpg
   overlay_image: assets/images/bodygh2.jpg
