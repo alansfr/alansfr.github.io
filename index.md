@@ -61,12 +61,18 @@ share: true
 ---
 
 
+# Glenn Greenwald's AutoBiography, Uncensored
+
+Glenn complains a lot about what he calls _censorship_. Yet, Glenn's own life history, as told through carefully controlled interviews with friendly unquestioning journalists, is full of elaborate cover-ups, disguisig or ommitting the most extraordinary chapters.  
+The main theme of this site is a litle uncensoring: _What is he hiding and why?_
 
 
-**NEW**{: .new} A second article published by HX, under Glenn Greenwald's own byline, promoting his own companies has been found: [His Name is Rio](hxRio.md){: .btn .btn--danger}.  
-The first article in 2005, promoted Studmall.  
-This article is a shameless plug for their RioMaleEscorts and RioGayGuides agencies; particularly its second half entitled _Brazilian Boys_ and co-authored by his husband David Miranda, The first half, "text by Glenn Greenwald", contains many distinctively prolix descriptions identical to those found in the websites themselves.  
 
+To start, take a look at [His Name is Rio](hxRio.md){: .btn .btn--success} - written under Glenn's own byline in 2006.  
+It took quite some fiding on the Internet Archive.    
+However we already knew that the agencies promoted there (and reproduced here) [Rio Gay Guides](/RioG.md) and [Rio Male Escorts](/RioE.md) were owned and operated by Glenn and David Miranda, his husband.
+
+ 
 
 
 
@@ -85,7 +91,7 @@ This article is a shameless plug for their RioMaleEscorts and RioGayGuides agenc
 
 
 
-# Glenn's Blue Period
+# Glenn's Pornography and Prostitution Businsesses 
 
 Glenn has admitted to co-ownwership of Hairy Studs Video and Studmall
 but has stated in numerous profiles and interviews 
