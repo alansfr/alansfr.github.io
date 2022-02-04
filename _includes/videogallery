@@ -7,23 +7,26 @@
 <div class="feature__wrapper">
 
     {% for f in vid_gal %}
-    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+    <figure class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
+
+        {% if f.title %}
+        <figcaption class="archive__item-title" class="vidtitle">{{ f.title }}</figcaption>
+        {% endif %}
+
           <div class="feature__item-teaser">
-              {% include pop-video id=f.id provider=f.provider im=f.im %}
+              {% include pop-video id=f.id provider=f.provider im=f.im title=f.title %}
           </div>  
 
-          {% if f.title %}
-          <h3 class="archive__item-title">{{ f.title }}</h3>
-          {% endif %}
+      
 
             {% if f.excerpt %}
-              <div class="archive__item-excerpt">
+              <figcaption class="archive__item-excerpt" class="vidcaption">
                 {{ f.excerpt | markdownify }}
-              </div>
+              </figcaption>
             {% endif %}
-        </div>
-      </div>
+            </div>
+          </figure>
 
 
     {% endfor %}
