@@ -8,6 +8,7 @@ header:
   og_image: assets/images/lies.jpg
 share: true
 permalink: /sobstack/
+canonical_url: https://greenwald.sobstack.com
 ---
 
 # June 26, 2013
