@@ -24,7 +24,7 @@ videogallery:
     provider: youtube
     im: Str8Up2017.jpg
     title: Str8UpGayPorn 2017
-    excerpt: __Best Director__ _Rachel Maddow is the first person he mentions in his acceptance speech. Glenn has been forgotten again_. 
+    excerpt: __Best Director__ _Rachel Maddow is mentioned first in his acceptance speech. Glenn has been forgotten again_. 
   - id: 219318053
     provider: vimeo
     title: Grabbys 2017

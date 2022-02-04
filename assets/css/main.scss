@@ -43,6 +43,13 @@ video {
     height: auto   !important;
   }
 
+
+.vidtitle {
+  text-align: center !important; 
+  font-size: $type-size-5;
+  font-weight: bold;
+}  
+
 .new {
   display: inline-block;
   margin-top: 0.2em;
