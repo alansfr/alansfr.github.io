@@ -63,13 +63,13 @@ share: true
 
 # Glenn Greenwald's AutoBiography, Uncensored
 
-Glenn complains a lot about what he calls _censorship_. Yet, Glenn's own life history, as told through carefully controlled interviews with friendly unquestioning journalists, is full of elaborate cover-ups, disguisig or ommitting the most extraordinary chapters.  
+Glenn complains a lot about what he calls _censorship_. Yet, Glenn's own life history, as told through carefully controlled interviews with friendly unquestioning journalists, is full of elaborate cover-ups, disguising or ommitting the most extraordinary chapters.  
 The main theme of this site is a litle uncensoring: _What is he hiding and why?_
 
 
 
 To start, take a look at [His Name is Rio](hxRio.md){: .btn .btn--success} - written under Glenn's own byline in 2006.  
-It took quite some fiding on the Internet Archive.    
+It took quite some finding on the Internet Archive.    
 However we already knew that the agencies promoted there (and reproduced here) [Rio Gay Guides](/RioG.md) and [Rio Male Escorts](/RioE.md) were owned and operated by Glenn and David Miranda, his husband.
 
  
