@@ -123,7 +123,7 @@ David Miranda's porn director career took off at exactly the same time as Glenn 
 [One major porn catalog lists him as director for eight movies](https://gay.aebn.com/gay/directors/19979/david-miranda)  
 The [Gay Erotic Video Index Studmall listing](https://www.gayeroticvideoindex.com/C/7/6277.html) has some interesting surprises.    
 Especially the box covers.
-{: .notice--success}
+{: .notice--success .clf}
 
 
 

@@ -21,7 +21,7 @@ header:
       url: /AboutArchives.html
 sidebar:
   - title: HX magazine
-    image: assets/images/HXPages/JPHXCOVER.JPG
+    image: assets/images/HXPages/JPHXCOVER-thumb.jpg
     imagelink: true
     text: _Their May 2006 cover featuring Marc Jacobs then boyfriend_
     nav: HX

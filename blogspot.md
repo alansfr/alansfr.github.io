@@ -7,6 +7,15 @@ sidebar:
     nav: RioGuides
 header:
   og_image: /stdmbs/web.archive.org/web/20051215143803im_/http:/www.studmall.com/images/New_Logo.gif
+  overlay_image: /assets/images/sketchy1.jpg
+  overlay_filter: linear-gradient(90deg, rgba(50,0,10,0.65), rgba(100,100,100,0.01))
+  actions:
+    - label: Original
+      url: "https://web.archive.org/web/20051215143803/http://studmall.blogspot.com/"
+    - label: Plain View
+      url:  "/studmallblog/index.html"
+    - label: "Wut Dis?"
+      url: /AboutArchives.html
 ---
 
 ## Just One Page

@@ -5,7 +5,7 @@ title: Cheap Trixxx
 description: \"Nothing is worse than the sound of hot sex being drowned out by sirens, passing buses and couples fighting next door.\"
 author: Glenn
 header:
-    og_image: assets/images/HX_Cover1.jpg
+    og_image: assets/images/hxstudmall.jpg
 sidebar:
   - title: HX magazine
     image: assets/images/HX_Cover1.jpg

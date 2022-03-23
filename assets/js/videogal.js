@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $('.popup-youtube, .popup-vimeo').magnificPopup({
+    $('.popup-youtube, .popup-vimeo, .popup-local').magnificPopup({
         type: 'iframe',
         disableOn: 350,
         mainClass: 'mfp-fade',
@@ -11,4 +11,5 @@ $(document).ready(function() {
         enabled:true
         }
     });
+    
 });

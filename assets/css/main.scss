@@ -9,6 +9,10 @@ $right-sidebar-width: 300px;
 $right-sidebar-width-narrow: 200px; 
 $max-width: 1440px; 
 $mfp-iframe-max-width: 1280px;
+$serif: Georgia, Times, serif;
+$sans-serif: "Helvetica Neue","Gill Sans", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+   "Lucida Grande", Arial, sans-serif !default;
+
 
 
 
@@ -46,7 +50,7 @@ video {
 
 .vidtitle {
   text-align: center !important; 
-  font-size: $type-size-5;
+  font-size: $type-size-6;
   font-weight: bold;
 }  
 
@@ -77,6 +81,11 @@ a img {
 
 .author__avatar img {
   max-width: 110px;
+}
+
+
+.clf {
+  @include clearfix;
 }
 
 .cl {
@@ -148,6 +157,12 @@ a.site-logo img{
   max-height: 240px;
   max-width: 360px;
 }
+
+.vidcard {
+  width: 360px;
+  max-height: 240px;
+}
+
 a[href*="//"]:not([href*="masternotions.com"]) {
 
   &:not(.btn){
@@ -184,6 +199,9 @@ a[href*="//"]:not([href*="masternotions.com"]) {
   max-height: 100% !important;
 }
 
+.popup-vimeo {
+  width: 100%;
+}
 
 
 blockquote.twitter-tweet {
