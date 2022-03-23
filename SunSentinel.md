@@ -2,7 +2,14 @@
 layout: single
 classes: wide
 header:
-  image: assets/images/kors3.jpg
+  overlay_image: assets/images/kors3.jpg
+  overlay_filter: linear-gradient(110deg, rgba(0,60,50,0.25), rgba(0,120,75,0.01))
+  islight: true
+  actions:
+    - label: Original
+      url: "https://www.sun-sentinel.com/news/fl-xpm-1985-01-10-8501010874-story.html"
+    - label: "Wut Dis?"
+      url: /AboutArchives.html
 title: Glenn runs for Lauderdale Lakes City Council
 description: Glenn Greenwald will turn 18 on March 6
 sidebar:
