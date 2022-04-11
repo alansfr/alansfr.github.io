@@ -34,4 +34,22 @@ analytics:
     anonymize_ip: false # default
 whitelist:
   - jekyll-redirect-from
-
+defaults:
+  -
+    scope:
+      path: "FloridaReports"
+    values:
+      layout: single
+      classes: wide
+      sidebar:
+        - image: "assets/images/Sentinel.png"
+          title: Running For Office
+          nav: SunS
+        - title: Other Lies
+          nav: Lies
+      header:
+        overlay_image: assets/images/kors3.jpg
+        overlay_filter: linear-gradient(90deg, rgba(200,250,240,0.3), rgba(0,120,75,0.01))
+        islight: true    
+      
+        

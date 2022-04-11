@@ -32,7 +32,7 @@
 {%- endif -%}
 {% endcapture %}
 
-<div class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--overlay{% endif %}"
+<div class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--overlay{% endif %} {% if page.header.islight %}backlight{% endif %}"
   {%- if page_style != "" -%} style="{{ page_style }}" {%- endif -%}>
   {% if page.header.overlay_color or page.header.overlay_image %}
     <div class="wrapper">
