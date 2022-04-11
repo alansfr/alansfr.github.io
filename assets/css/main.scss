@@ -19,10 +19,20 @@ $sans-serif: "Helvetica Neue","Gill Sans", -apple-system, BlinkMacSystemFont, "R
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+
+
 .page__hero {
   max-height: 50vh;
   overflow: hidden;
 }
+
+.page__hero--overlay.backlight .page__title,.page__meta,.page__lead {
+      color: black !important;
+      text-shadow: 2px 3px 9px rgba(#fff, 0.9) !important; 
+    }
+
+
+
 
 .mfp-title {
   text-align: left;

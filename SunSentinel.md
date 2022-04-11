@@ -14,7 +14,7 @@ title: Glenn runs for Lauderdale Lakes City Council
 description: Glenn Greenwald will turn 18 on March 6
 sidebar:
  - image: "assets/images/Sentinel.png"
-   title: Election 1985
+   title: Running For Office
    nav: SunS
  - title: Other Lies
    nav: Lies
