@@ -12,12 +12,23 @@ sidebar:
     nav: evid
   - image: assets/images/StudmallMontage.jpg
     imagelink: true
-
-share: true
+share: true     
+videogallery:
+  - id: 16494687
+    provider: vimeo
+    im: bottle.jpg
+    title: Civil Liberties under Obama
+  - id: 16505647
+    provider: vimeo
+    im: floor.jpg
+    title: "Full Q&A" 
+after_footer_scripts:
+  - /assets/js/videogal.js
 ---
 Many others have devoted webpages, or in some cases entire sites, to pointing out Glenn's faults: his anti-fans.  In fact the only people with more devoted anti-fans than Glenn are, or have at some point been, autocratic dictators of fair-sized nations.  
 Here we catalog some of those pages and similar material, loosely arranged by subject matter.
 {: .notice--success}
+
 
 
 ## All Things Glenn
@@ -88,7 +99,7 @@ In the era of The Intercept, a number of journalists and noted bloggers seem to 
 
 ### Politics
 
- - ``April 20, 2011`` Dana Houle, Rooted Cosmopolitan [Glenn Greenwald: Neither a Liberal Nor a Progressive](https://rootedcosmopolitan.wordpress.com/2011/04/20/glenn-greenwald-neither-a-liberal-nor-a-progressive/)
+- ``April 20, 2011`` Dana Houle, Rooted Cosmopolitan [Glenn Greenwald: Neither a Liberal Nor a Progressive](https://rootedcosmopolitan.wordpress.com/2011/04/20/glenn-greenwald-neither-a-liberal-nor-a-progressive/)
 - ``May 3 2019`` Novak Archive [Why Does Glenn Greenwald Keep Appearing on Tucker Carlson's Show?](https://www.novakarchive.com/foias/2019/4/20/why-does-glenn-greenwald-keep-going-on-tucker-carlsons-show)
 - _New_{: .new} ``Dec 15, 2013`` Daily Kos Community describes GG as a "Koch Libertarian - Faux progressive Ratfucker": [Glenn Greenwald advocates letting Republicans destroy the country](https://www.dailykos.com/stories/2013/12/15/1262880/-Glenn-Greenwald-advocates-letting-Republicans-destroy-the-country). This cites:
     * ``November 7, 2010`` MSNBC with Joe and Mika: [Progressive Glenn Greenwald Vs Socialist Lawrence O'Donnell](https://www.youtube.com/watch?v=aMM9D9ge8uY)
@@ -97,10 +108,11 @@ In the era of The Intercept, a number of journalists and noted bloggers seem to 
     * ``November 4, 2010`` One Video from The Badger Herald is also on YouTube: [Glenn Greenwald on civil liberties and terrorism after Obama (highlights)](https://www.youtube.com/watch?v=xVjuBT5twJ4)
     
     The two main videos which are not on YouTube require a logon to Vimeo if viewed on their website, but not when embedded, thus:
-<div class="vide">
-{% include video id="16494687" provider="vimeo" %}  
-{% include video id="16505647" provider="vimeo" %}
-</div>
+    {% include videogallery %}
+
+
+
+
 
 
 ### Glenn's Defense of Proud Boys
