@@ -5,9 +5,12 @@ main:
   - title: Rio Sites
     description: sites Glenn owned & operated in Brazil
     url: /RioG.html
+  - title: Imagined Wins
+    description: Pulitzers, Elections and Top of His Class.
+    url: /SunSentinel.html    
   - title: Law
-    description: Defending a Nazi and fighting for porn
-    url: /cases/Theissen.html
+    description: Glenn's Legal Cases
+    url: /motley/
   - title: AntiFans
     description: Other sites about Glenn  
     url: /SitesAboutGlenn.html  
@@ -20,9 +23,6 @@ main:
   - title: Jake Jaxson
     description: Glenn's business partner 
     url: /Jason.html
-  - title: Other Lies 
-    description: Pulitzers, Elections and other imagined victories. 
-    url: /SunSentinel.html
   - title: Twitter Threads
     description: Links to Twitter threads with more details
     url: /TwitterThreads.html
@@ -220,9 +220,9 @@ Legal:
   - title: Scanlon v Kessler
     children:
       - title: S/M copyright
-        url: https://cite.case.law/f-supp-2d/11/444/
+        url: https://www.courtlistener.com/opinion/2289118/scanlon-v-kessler/
       - title: Exorbitant fees
-        url: https://cite.case.law/f-supp-2d/23/413/
+        url: /motley/
   - title: Two Queens v Scoza
     url: https://caselaw.findlaw.com/ny-supreme-court-appellate-division/1328137.html
   - title: Theissen v Two Queens
