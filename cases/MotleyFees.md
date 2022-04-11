@@ -3,6 +3,7 @@ layout: single
 classes: wide
 header:
   image: /assets/images/motleygreenwald.jpg
+  og_image: /assets/images/motleyog.jpg
 title: Glenn's Claim For Fees meets Judge Constance Baker Motley
 excerpt: \"The court finds it patently unreasonable that he can demand such an exorbitant rate.\"
 sidebar:
