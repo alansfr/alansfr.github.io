@@ -45,7 +45,7 @@ This was the second full article in HX magainze under Glenn's byline, appearing 
 
 
 
-This time its clear purpose was to promote Glenn's RioMaleEscorts.com and RioGayGuides.com. That promotion is quite explicit in the second half of the article, although even in the first half ("Text by Glenn Greenwald") many phrases are identical to ones found on those websites. The first half also covered other aspects of Rio, including gay nightlife which is HX's primary subject matter. Thanks to its focus on "working boys" and total omission of the spectular parties Rio has to offer, it could be the single worse nightlife review HX ever published.
+This time its clear purpose was to promote Glenn's [RioMaleEscorts.com](RioE.md) and [RioGayGuides.com](RioG.md). That promotion is quite explicit in the second half of the article, although even in the first half ("Text by Glenn Greenwald") many phrases are identical to ones found on those websites. The first half also covered other aspects of Rio, including gay nightlife which is HX's primary subject matter. Thanks to its focus on "working boys" and total omission of the spectular parties Rio has to offer, it could be the single worse nightlife review HX ever published.
 
 
  
