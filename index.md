@@ -257,9 +257,15 @@ The Sun Sentinel in 1985 [reported](SunSentinel.md) on Glenn's attempts to win h
 That's the _self-taught, deprived childhood_ myth, shattered.
 
 # Further Info
+**UPDATED**{: .new .align-left  }  
 
-_This site is incomplete_.
-For those in search of further details and evidence, here are some starting points with [threads about Glenn on Twitter](TwitterThreads.md){: .btn .btn--success}. 
+  _This site is incomplete_.  
+
+For those in search of further details and evidence, here are some starting points with [threads about Glenn on Twitter](TwitterThreads.md){: .btn .btn--success}.
+
+Includes information about Glenn's very revealing old accounts on Male4Male escort review chat like Doug69 and HairyDomBraz27 - shortly to have a dedicated section on this site.   
+{: .notice--danger} 
+
 
 
 

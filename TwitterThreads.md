@@ -6,15 +6,15 @@ header:
   overlay_image: assets/images/rios.jpg
 share: true
 gallery:
+  - url: https://twitter.com/AlanVRK/status/1471869604343521288
+    image_path: /assets/tweetcards/doug69.png
+    title: "The Male4Male Escort chat alt"
   - url: https://twitter.com/DavidNeiwert/status/1130547049949122560
     image_path: /assets/tweetcards/Hale.png
     title: "Questions for Glenn"
   - url: https://twitter.com/AlanVRK/status/1380665708170870792
     image_path: assets/tweetcards/Beach.png
     title: "Beach Meeting"
-  - url: https://twitter.com/wokyleeks/status/1359674245815541760
-    image_path: /assets/tweetcards/64347-Ipanema-Beach.jpg
-    title: "Yet More Implausible Beach Meetings"
 
 gal2:
   - url: https://twitter.com/robertcaruso/status/1363403187210899460
@@ -51,7 +51,7 @@ Links to some relevant Twitter threads. Expect more to be added here very soon.
 
 They do not necessarily link to the start of the thread. If a thread bifurcates a lot, it is sometimes much easier to link to the end and let the reader work backwards.
 {: .notice--warning}
-{% include gallery caption="David Newiwert's mammoth 110-tweet thread about Matthew Hale. And two threads about an alleged meeting on a real beach" %}
+{% include gallery caption="Glenn's very revealing 2003-7 account; David Newiwert's mammoth 110-tweet thread about Matthew Hale; and an alleged meeting on a real beach" %}
 
 
 
