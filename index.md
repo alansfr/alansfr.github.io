@@ -97,13 +97,16 @@ Few are praiseworthy and quite have an expressly stated goal of warning abouut G
 
 ## First US-Published Articles about Greenwald's porn empire
 
-In 2013 _NY Daily News_, apparently in response to a tip-off, uncovered an acrimonious court case from 2002-4 showing Master Notions, which operated HairyStudsVideo and Studmall, was a joint enterprise of Glenn Greenwald and Jason Buchtel.
+In 2013 _NY Daily News_, apparently in response to a tip-off, uncovered an acrimonious court case from 2002-4.  
+Master Notions, which operated HairyStudsVideo and Studmall, was a joint enterprise of Glenn Greenwald and Jason Buchtel.  
+
+_One of the very few updates since then we've put here too._{: .notice--info}
 
 {% include feature_row id="feature_row2" %}
 [Alternative Link to NY Daily News article](https://www.pressreader.com/usa/new-york-daily-news/20130627/281616712946068)
 
 
-> ## DomMascHry31 aka HairyDomBraz27 aka Doug69
+> ## DomMascHry31 aka HairyDomBraz27 aka Doug69 **NEW**{: .new}
 > 
 > Before delving further into Glenn's involvement with Studmall, and the manifest lie that he was the legal coffee boy who left the porn business behind in 2004 before leaving for Brazil, note one detail that leads to a whole lot more.
 >   {: .notice--success}
