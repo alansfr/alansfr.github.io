@@ -26,10 +26,11 @@ $sans-serif: "Helvetica Neue","Gill Sans", -apple-system, BlinkMacSystemFont, "R
   overflow: hidden;
 }
 
-.page__hero--overlay.backlight .page__title,.page__meta,.page__lead {
+.page__hero--overlay.backlight { .page__lead,.page__meta,.page__title {
       color: black !important;
-      text-shadow: 2px 3px 9px rgba(#fff, 0.9) !important; 
+      text-shadow: 3px 3px 9px rgba(#fff, 0.9) !important; 
     }
+  }
 
 
 
