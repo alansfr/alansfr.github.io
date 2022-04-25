@@ -47,16 +47,16 @@ feature_row:
     btn_label: "StudMall.Blogspot.com"
     btn_class: "btn--warning"
 feature_row2:
-  - image_path: assets/images/Babylon.png
-    url: "https://washingtonbabylon.com/you-remember-carlos-danger-right-meet-hairy-studs-glenn-greenwalds-alter-ego-it-matters/"
-    btn_label: "Meet Hairy Studs"
-    btn_class: "btn--info"
-    title: "Washington Babylon 2021"
   - image_path: assets/images/NYDN.jpg
     url: "https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448"
     btn_label: "Secrets of Mr Secret"
     btn_class: "btn--danger"
     title: "NY Daily News, 2013"
+  - image_path: assets/images/Babylon.png
+    url: "https://washingtonbabylon.com/you-remember-carlos-danger-right-meet-hairy-studs-glenn-greenwalds-alter-ego-it-matters/"
+    btn_label: "Meet Hairy Studs"
+    btn_class: "btn--info"
+    title: "Washington Babylon 2021"
 share: true
 ---
 
@@ -79,12 +79,13 @@ However we already knew that the agencies promoted there (and reproduced here) [
 ## Other Sites About Glenn
 
 
->![Boys From Brazil](assets/images/boysbrazil.jpg){: .align-right .jason} Glenn has inspired a remarkable number of web pages - even entire sites - specifically about him.  Some of the earliest were about Glenn's famous sock-puppets, in 2006. Others cover material from Edward Snowden, to porn production, to his whole history of lies.  Few are praiseworthy and quite have an expressly stated goal of warning abouut Glenn, such as this from 2013.
+>![Boys From Brazil](assets/images/boysbrazil.jpg){: .align-right .jason} Glenn has inspired a remarkable number of web pages - even entire sites - specifically about him.  Some of the earliest were [about Glenn's famous sock-puppets](https://www.outsidethebeltway.com/glenn_greenwalds_ip_address_stolen/), in 2006. Others cover material from Edward Snowden, to porn production, to his whole history of lies.   
+Few are praiseworthy and quite have an expressly stated goal of warning abouut Glenn, such as [this from 2013](https://joshuafoust.com/pathetic-slap-from-lying-bully/):
 > > It is inexplicable that so few have ever called him out by name for such deplorable, unethical behavior.
 > > So I am doing it as plainly as I possibly can. Glenn Greenwald is a serial liar.
 > > He is a bully. And he has no business being taken seriously ever again.  
 > 
-> See our _UPDATED_{: .new} collection of [pages by Glenn's Antifans.](SitesAboutGlenn.md){: .btn .btn--danger}
+> We have collected many of these antif-fan pages [here.](SitesAboutGlenn.md){: .btn .btn--danger}
 {: .notice--primary} 
 
 
@@ -93,20 +94,41 @@ However we already knew that the agencies promoted there (and reproduced here) [
 
 # Glenn's Pornography and Prostitution Businsesses 
 
-Glenn has admitted to co-ownwership of Hairy Studs Video and Studmall
-but has stated in numerous profiles and interviews 
-that his involvement in the porn industry ended in 2004, 2-3 years after it started.
-[Key Excerpts and links](/interviews/){: .btn .btn--danger}
 
-## US-Published Articles about Greenwald's porn empire
+## First US-Published Articles about Greenwald's porn empire
+
+In 2013 _NY Daily News_, apparently in response to a tip-off, uncovered an acrimonious court case from 2002-4 showing Master Notions, which operated HairyStudsVideo and Studmall, was a joint enterprise of Glenn Greenwald and Jason Buchtel.
 
 {% include feature_row id="feature_row2" %}
 [Alternative Link to NY Daily News article](https://www.pressreader.com/usa/new-york-daily-news/20130627/281616712946068)
 
+
+> ## DomMascHry31 aka HairyDomBraz27 aka Doug69
+> 
+> Before delving further into Glenn's involvement with Studmall, and the manifest lie that he was the legal coffee boy who left the porn business behind in 2004 before leaving for Brazil, note one detail that leads to a whole lot more.
+>   {: .notice--success}
+> 
+> Glenn's email address is quoted by _NY Daily News_ (from court depositions) as **DomMascHry31@aol.com**. This can also be found in the [domain records of Studmall](/DNS/#complete-reports-for-studmall-hairystudsvideo-and-bareback-inc) alongside the mailing address for Glenn's old law firm.  
+> [![DomEscort31NYC](assets/images/HerrDom.png){: .align-right .modcard}](/assets/images/HerrDom.png)
+> There's one other place we have found this email address. It belongs to an account called [DomEscort31NYC](https://www.companyofmen.org/topic/3656-hairy-athlete-types/#comment-35977) who [invites](https://www.companyofmen.org/topic/3656-hairy-athlete-types/?do=findComment&comment=35979) interested users to email him. The offer is pretty extreme even for the male4male escort review chat site, where it was posted. 
+>
+> With a bit more work, other accounts of Glenn's can be found on that site, including HairyDomBraz27 and his political alt from 2003-5, the Iraq War loving Doug69.
+
+
+
+
+
+It appears Glenn tried to get ahead of the _NY Daily News_ revelations by publishing his account,
+which he has repeated with multiple variations in profiles and interviews since.
+He admitted to co-ownwership of Hairy Studs Video and Studmall
+but stated that his involvement in the porn industry ended in 2004, 2-3 years after it started.
+See [Key Excerpts and links](/interviews/){: .btn .btn--danger} for some of these.
+
+
 ## But is Glenn's claim true?
 If it is, then Glenn's Blue Period would be exactly 100 years after Picasso's.  
 {: .notice--warning}
-Had _New York Daily News_, _Buzzfeed_, _The Guardian_ and others not been too shy to check, they might have quickly realized there is overwhelming evidence against Glenn's version of events.
+Had _New York Daily News_, _Buzzfeed_, _The Guardian_ and others not been too shy to check, they might have quickly realized there is overwhelming evidence against Glenn's version of events. 
 
 ### Documentary evidence
 
