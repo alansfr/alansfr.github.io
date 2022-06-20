@@ -24,7 +24,6 @@ This judgement can also be found on some publicly accessible legal sites, such a
 # Scanlon v. Kessler, 23 F. Supp. 2d 413
 
 
-
 ### U.S. District Court for the Southern District of New York - No. 97 CIV. 1140(CBM)
 
 

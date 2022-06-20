@@ -75,7 +75,8 @@ Amongst other allegations, it says:
 - ``January 9, 2013`` Matthew Hale timeline from History Commons: [White Supremacist Church Leader Arrested for Soliciting Murder of a Judge'](https://web.archive.org/web/20130214223104/http://www.historycommons.org/context.jsp?item=a0103halearrest)
 - ``January 26 2001`` Glenn was the subject of a _Nazi Alert_. [Jewish Attorney Represents Jew-hater](https://web.archive.org/web/20020701035631/http://www.jdl.org/enemies/nazi/greenwald.shtml)
 - ``October 9, 2014`` Daily Banter report on Weev's release from jail . [iPad Hacker Released From Jail, Parties with Glenn Greenwald, Publishes Neo-Nazi Screeds](https://thedailybanter.com/2014/10/09/ipad-hacker-released-jail-parties-glenn-greenwald-publishes-neo-nazi-screeds/)
-- _NEW_{: .new} ``July 12, 2006`` Classical Values blog on Glenn's description of Neo-Nazi shooting victims as "odious and repugnant". [Classical Wisdom Of Opportunistic Repugnance](http://www.classicalvalues.com/archives/2006/07/funny_wisd.html).
+- ``July 12, 2006`` Classical Values blog on Glenn's description of Neo-Nazi shooting victims as "odious and repugnant". [Classical Wisdom Of Opportunistic Repugnance](http://www.classicalvalues.com/archives/2006/07/funny_wisd.html).
+- _NEW_{: .new} ``January 26, 2012`` Jeffrey Goldberg for The Atlantic: [More on Glenn Greenwald, 'Israel-Firsters,' and Idiot Editors](https://www.theatlantic.com/national/archive/2012/01/more-on-glenn-greenwald-israel-firsters-and-idiot-editors-updated/251852/)
 
 
 ## The Intercept
