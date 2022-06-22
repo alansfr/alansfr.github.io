@@ -75,7 +75,8 @@ Amongst other allegations, it says:
 - ``January 9, 2013`` Matthew Hale timeline from History Commons: [White Supremacist Church Leader Arrested for Soliciting Murder of a Judge'](https://web.archive.org/web/20130214223104/http://www.historycommons.org/context.jsp?item=a0103halearrest)
 - ``January 26 2001`` Glenn was the subject of a _Nazi Alert_. [Jewish Attorney Represents Jew-hater](https://web.archive.org/web/20020701035631/http://www.jdl.org/enemies/nazi/greenwald.shtml)
 - ``October 9, 2014`` Daily Banter report on Weev's release from jail . [iPad Hacker Released From Jail, Parties with Glenn Greenwald, Publishes Neo-Nazi Screeds](https://thedailybanter.com/2014/10/09/ipad-hacker-released-jail-parties-glenn-greenwald-publishes-neo-nazi-screeds/)
-- _NEW_{: .new} ``July 12, 2006`` Classical Values blog on Glenn's description of Neo-Nazi shooting victims as "odious and repugnant". [Classical Wisdom Of Opportunistic Repugnance](http://www.classicalvalues.com/archives/2006/07/funny_wisd.html).
+- ``July 12, 2006`` Classical Values blog on Glenn's description of Neo-Nazi shooting victims as "odious and repugnant". [Classical Wisdom Of Opportunistic Repugnance](http://www.classicalvalues.com/archives/2006/07/funny_wisd.html).
+- _NEW_{: .new} ``January 26, 2012`` Jeffrey Goldberg for The Atlantic: [More on Glenn Greenwald, 'Israel-Firsters,' and Idiot Editors](https://www.theatlantic.com/national/archive/2012/01/more-on-glenn-greenwald-israel-firsters-and-idiot-editors-updated/251852/)
 
 
 ## The Intercept
@@ -140,6 +141,10 @@ _Better not forget_:
 A number of web pages are something of the opposite: not about Glenn at all, but noteworthy for the references to Glenn in the replies.
 
 ``July 23, 2020`` Replying to Ezra Klein: _Wow, there are more sockpuppets here than a Glenn Greenwald slumber party._ [When Tucker Carlson asked to join Journolist](http://voices.washingtonpost.com/ezra-klein/2010/07/when_tucker_carlson_asked_to_j.html)
+
+``July 7, 2017`` Mona Holland at great length in the replies to Glenn in The Intercept. [Rachel Maddow’s Exclusive Scoop About a Fake NSA Document Raises Several Key Questions](https://web.archive.org/web/20210418040623/https://theintercept.com/2017/07/07/rachel-maddows-exclusive-scoop-about-a-fake-nsa-document-raises-several-key-questions/?comments=1)
+
+
 
 
 # Thanking You Back
