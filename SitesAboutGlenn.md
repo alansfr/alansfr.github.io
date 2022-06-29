@@ -85,10 +85,10 @@ In the era of The Intercept, a number of journalists and noted bloggers seem to 
 {: .notice--info}
 
 ![Investigative Journalist](assets/images/Kermit.gif){: .align-right}
-- ``November 27, 2013`` Pando Daily by Mark Ames: [Keeping Secrets: Pierre Omidyar, Glenn Greenwald and the privatization of Snowden's leaks](https://pando.com/2013/11/27/keeping-secrets/)
+- ``November 27, 2013`` Pando Daily by Mark Ames: [Keeping Secrets: Pierre Omidyar, Glenn Greenwald and the privatization of Snowden's leaks](https://web.archive.org/web/20210622232517/https://pando.com/2013/11/27/keeping-secrets/)
 - ``February 27, 2015`` Ken Silverstein for Politico: [Where Journalism Goes to Die](https://www.politico.com/magazine/story/2015/02/ken-silverstein-the-intercept-115586/)
 - ``December 15, 2014``   Was Taibbi's firing related to comments about Glenn?: [They can tell you’re an enormous asshole](https://www.wired.com/2014/12/life-and-death-of-the-racket/)
-- ``February 3, 2016`` Pando Daily by Mark Ames: [All the billionaire's men (Or: Shattered Glenn)](https://pando.com/2016/02/03/all-billionaires-men-or-shattered-glenn/)
+- ``February 3, 2016`` Pando Daily by Mark Ames: [All the billionaire's men (Or: Shattered Glenn)](https://web.archive.org/web/20210118093615/https://pando.com/2016/02/03/all-billionaires-men-or-shattered-glenn/)
 - ``March 15, 2019`` Columbia Journalism Review [The Intercept Cuts Back](https://www.cjr.org/business_of_news/layoffs-the-intercept.php)
 - ``December 11, 2013`` JP Sottile in Shadow-Proof: [Greenwald's Twitter War over PayPal-NSA Allegations](https://shadowproof.com/2013/12/11/twitter-hosts-epic-war-of-words-over-paypal-nsa-allegations/)
 - _New_{: .new} ``February 25, 2014`` Charles Johnson's political blog, Little Green Footballs asks _Misleading, hyperbolic headlines totally unsupported by evidence — is this the future of journalism?_ :  [If You Read Down to Paragraph 18, You Discover That Glenn Greenwald’s Latest Article Has No Evidence](http://littlegreenfootballs.com/article/43112_If_You_Read_Down_to_Paragraph_18_You_Discover_That_Glenn_Greenwalds_Latest_Article_Has_No_Evidence). There was a follow-up:
