@@ -19,7 +19,10 @@
 <!-- Courtesy of embedresponsively.com //-->
 {% unless video_src == "" %}
 
-  <a href="{{ video_src }}" class="popup-{{include.provider}}" >
+  <a href="{{ video_src }}" class="popup-{{include.provider}} videolink" >
     <img src="/assets/images/{{include.im}}" class="modcard">
+    <div class="video__overlay">
+      <img src="assets/images/playbutton.png" class="videobutton">
+    </div>
   </a>
 {% endunless %}

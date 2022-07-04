@@ -291,3 +291,35 @@ blockquote.twitter-tweet a:focus {
 .mfp-fade.mfp-wrap.mfp-removing .mfp-content {
 	opacity: 0;
 }
+
+
+.video__overlay {
+   /* Position */
+   left: 0;
+   position: absolute;
+   top: 0;
+
+   /* Take full size */
+   height: 100%;
+   width: 100%;
+
+   /* Center the content */
+   align-items: center;
+   display: flex;
+   justify-content: center;
+
+   /* Add a dark background */
+   background-color: rgba(0, 0, 0, 0.25);
+
+}
+
+.videolink {
+  position: relative;
+}
+
+.videobutton {
+
+  max-height: 50%;
+  width: auto;
+  opacity: 0.45;
+}
