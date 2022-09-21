@@ -46,6 +46,9 @@ Here we catalog some of those pages and similar material, loosely arranged by su
 - ``May 2013`` Discussion related to preceding article.[defend the indefensible: glenn fucking greenwald](https://www.ilxor.com/ILX/ThreadSelectedControllerServlet?action=showall&boardid=40&threadid=96478) 
 - ``January 2020`` This repeats a lot of lies from Glenn's 2013 Buzzfeed Interview. But it has much better photos. 
 [Milionário, Glenn Greenwald advogou para líder nazista, Goldman Sachs e vendeu até filme pornô.](https://ricardoantunes.com.br/exclusivo-milionario-glenn-greenwald-advogou-para-lider-nazista-goldman-sachs-e-vendeu-ate-filme-porno-conheca-sua-trajetoria/) 
+- ``April 2014`` Bob Cesca on Glenn's integrity in The Daily Banter: [Glenn Greenwald Tweets Link to Hate-Site and Faked Graphic](https://thedailybanter.com/2014/04/pulitzer-winner-glenn-greenwald-tweets-link-to-hate-site-with-faked-graphic/)
+- ``Feburary 2014`` Blogger _Rancid Tarzie_, noted as a Glenn antagonist, accurately describes Glenn's bullying follwoers, including Mona: [Friends of Glenn](https://ohtarzie.wordpress.com/2014/02/24/the-friends-of-glenn/)
+
 
 ## Porn and Master Notions
 
