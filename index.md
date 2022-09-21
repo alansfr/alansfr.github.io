@@ -57,14 +57,21 @@ feature_row2:
     btn_label: "Meet Hairy Studs"
     btn_class: "btn--info"
     title: "Washington Babylon 2021"
+pop-video:
+  - id: davidcor.mp4
+    im: oz.jpg
+    title: "David is Canceled"
+    provider: local
 share: true
+after_footer_scripts:
+  - /assets/js/videogal.js
 ---
 
 
 # Glenn Greenwald's AutoBiography, Uncensored
 
 Glenn complains a lot about what he calls _censorship_. Yet, Glenn's own life history, as told through carefully controlled interviews with friendly unquestioning journalists, is full of elaborate cover-ups, disguising or ommitting the most extraordinary chapters.  
-The main theme of this site is a litle uncensoring: _What is he hiding and why?_
+The main theme of this site is a litt le uncensoring: _What is he hiding and why?_
 
 
 
@@ -73,6 +80,19 @@ It took quite some finding on the Internet Archive.
 However we already knew that the agencies promoted there (and reproduced here) [Rio Gay Guides](/RioG.md) and [Rio Male Escorts](/RioE.md) were owned and operated by Glenn and David Miranda, his husband.
 
  
+# Breaking News
+
+<figure class="feature__item">
+<div class="feature_item-teaser">
+{% include pop-video id="davidcor.mp4" provider="local" im="oz.jpg" %}
+</div>
+</figure>
+On September 20, 2022, Glenn's announced that David's candidacy for re-election has been withdrawn.  
+David allegedly remains in ICU, where he has been for the past six weeks,  
+although the only source for thie is Glenn.
+{: .notice--danger .text-right}
+
+{: .cl}
 
 
 
