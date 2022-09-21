@@ -64,7 +64,7 @@ share: true
 # Glenn Greenwald's AutoBiography, Uncensored
 
 Glenn complains a lot about what he calls _censorship_. Yet, Glenn's own life history, as told through carefully controlled interviews with friendly unquestioning journalists, is full of elaborate cover-ups, disguising or ommitting the most extraordinary chapters.  
-The main theme of this site is a litle uncensoring: _What is he hiding and why?_
+The main theme of this site is a litt le uncensoring: _What is he hiding and why?_
 
 
 
