@@ -1,6 +1,7 @@
 ---
 layout: single
 title: The White God Factor
+header:
   og_image: /assets/images/TaibbiAmesSnow.jpg
 sidebar:
  - title: Extras  
