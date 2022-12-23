@@ -8,7 +8,7 @@ whitelist:
   - jekyll-redirect-from
 remote_theme: mmistakes/minimal-mistakes
 title: Master Notions
-description: "Behind The Mythology of Glenn Greenwald, Seu Ladir do Intercept"
+description: "Behind The Mythology of Glenn Greenwald"
 header:
   image: assets/images/twitter-cardbr.jpg
   og_image: assets/images/twitter-card2.jpg
