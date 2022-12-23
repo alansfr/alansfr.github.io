@@ -112,7 +112,7 @@ _One of the very few updates since then we've put here too._{: .notice--info}
 [Alternative Link to NY Daily News article](https://www.pressreader.com/usa/new-york-daily-news/20130627/281616712946068)
 
 
-> ## DomMascHry31 aka HairyDomBraz27 aka Doug69 **NEW**{: .new}
+> ## DomMascHry31 aka HairyDomBraz27 aka Doug69 **UPDATED**{: .new}
 > 
 > Before delving further into Glenn's involvement with Studmall, and the manifest lie that he was the legal coffee boy who left the porn business behind in 2004 before leaving for Brazil, note one detail that leads to a whole lot more.
 >   {: .notice--success}
@@ -121,7 +121,13 @@ _One of the very few updates since then we've put here too._{: .notice--info}
 > [![DomEscort31NYC](assets/images/HerrDom.png){: .align-right .modcard}](/assets/images/HerrDom.png)
 > There's one other place we have found this email address. It belongs to an account called [DomEscort31NYC](https://www.companyofmen.org/topic/3656-hairy-athlete-types/#comment-35977) who [invites](https://www.companyofmen.org/topic/3656-hairy-athlete-types/?do=findComment&comment=35979) interested users to email him. The offer is pretty extreme even for the male4male escort review chat site, where it was posted. 
 >
-> With a bit more work, other accounts of Glenn's can be found on that site, including HairyDomBraz27 and his political alt from 2003-5, the Iraq War loving Doug69.
+> With a bit more work, other accounts of Glenn's can be found on that site, including HairyDomBraz27 and his political alt from 2003-5, the Iraq War loving Doug69.  
+> The search function of that site is currently broken, so here are some highlights from the postings of Glenn Greeenwald aka Doug69 aka HairyDomBraz27.
+> - [The visa I've obtained is an Investor's visa](https://www.companyofmen.org/topic/27614-serious-immigration-danger/#comment-258675)
+> - [Here's an interesting article](https://www.companyofmen.org/topic/8309-recommendations-for-a-good-site-for-mail-order-porn-dvds/#comment-87107) It is indeed despite the disappointment noted two replies later; and although the link is dead, it is not hard to verifty from the id parameter that it once led to [this article by Glenn](hx.md)
+> - [Looking for a lawyer in Rio](https://www.companyofmen.org/topic/27565-looking-for-a-lawyer-in-rio/#comment-258560) in which Glenn forgets he is supposed to be using an Alt.
+> - [Iraq Sheltered Terrorists](https://www.companyofmen.org/topic/29712-iraq-sheltered-terrorists/), writes a shocked Glenn in April 2003 when he was a cheerleader for the Iraq War.
+
 
 
 
