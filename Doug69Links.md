@@ -3,15 +3,16 @@ layout: single
 classes: wide
 title: The Forgotten Posts of Glenn Greenwald
 excerpt: \"There is absolutely no more justification for murdering a baby if it's conceived due to rape or incest as there is in any other case.\"
-description: Threads with contributions from Doug68
+description: Threads with contributions from Doug69
 page_css:
  - assets/css/links.css
 ---
 
-# Doug69 Links
+## List of Links
 
 Just a list of links for now. Included because the search facility on the forum is broken.  
-Some of the threads where Glenn aka Doug69 makes especially interesting contributions are highlighted in the list in green.
+Some of the threads where Glenn aka Doug69 makes especially interesting contributions are highlighted in the list in green.  
+Note this is currrent address of the chat forum for the site formerly known as male4malescorts.com.
 {: .notice--primary}
 
 - <https://companyofmen.org/topic/2003-fewer-posts-here>
