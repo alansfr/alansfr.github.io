@@ -1,7 +1,9 @@
 ---
 layout: single
 classes: wide
-title: Threads with contributions from Doug68
+title: The Forgotten Posts of Glenn Greenwald
+excerpt: \"There is absolutely no more justification for murdering a baby if it's conceived due to rape or incest as there is in any other case.\"
+description: Threads with contributions from Doug68
 page_css:
  - assets/css/links.css
 ---
@@ -126,7 +128,7 @@ Some of the threads where Glenn aka Doug69 makes especially interesting contribu
 - <https://companyofmen.org/topic/8148-god-bless-rick-munroe>
 - <https://companyofmen.org/topic/8184-i-do-not-understand-the-phenomenon>
 - <https://companyofmen.org/topic/8232-new-strain-full-blown-aids-in-3-months>
-- <https://companyofmen.org/topic/8309-recommendations-for-a-good-site-for-mail-order-porn-dvds>
+- **<https://companyofmen.org/topic/8309-recommendations-for-a-good-site-for-mail-order-porn-dvds>**
 - <https://companyofmen.org/topic/8324-be-cautious-with-phone-chat-lines>
 - <https://companyofmen.org/topic/8386-sex-with-an-underaged-boy-in-canada>
 - <https://companyofmen.org/topic/8396-does-the-rev-jesse-jackson-po-you-too>
