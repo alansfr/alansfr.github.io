@@ -100,6 +100,12 @@ Awards
 Glenn and Jason appear to have stopped working closely together around 2010--11.  
 Jason and his husband Adrian (aka RJ) are pictured here in late 2011 with Glenn and David. 
 
+### See Also
+
+[He, He & He](https://nymag.com/news/features/sex/2012/benny-morecock-throuple/), an article in NY Magazine about Jason, Adrian and Benny, aka The Morecocks.
+
+[The Island of Misfit Boys](http://digitalissue.villagevoice.com/publication/?m=6001&i=184713&p=8&ver=html5) from the Village Voice, 2013.
+
 
 Shortly after that, Jason started winning awards.
 

@@ -3,8 +3,8 @@ layout: single
 classes: wide
 title: The Forgotten Posts of Glenn Greenwald
 header:
-  og_image: assets/images/RT.jpg
-excerpt: \"There is absolutely no more justification for murdering a baby if it's conceived due to rape or incest as there is in any other case.\"
+  og_image: /assets/images/RT.jpg
+excerpt: There is absolutely no more justification for murdering a baby if conceived due to rape or incest as...
 description: Threads with contributions from Doug69
 page_css:
  - assets/css/links.css
@@ -12,10 +12,40 @@ page_css:
 
 ## List of Links
 
+<div markdown="1">
 Just a list of links for now. Included because the search facility on the forum is broken.  
 Some of the threads where Glenn aka Doug69 makes especially interesting contributions are highlighted in the list in green.  
-Note this is currrent address of the chat forum for the site formerly known as male4malescorts.com.
+Note this is currrent address of the chat forum for the site formerly known as male4malescorts.com.  
+**UPDATED**{: .vnew} We have added some links for Glenn's earlier profiles: 
+- DomEscort31NYC whose email address led us to this forum, and
+- HairyDomBraz27 who was even publicly identified on the site as being the same person as Doug69, marketed himself as a Brazilian from HairyStudsVideo who didn't speak English, and went off on extended rants sounding exactly like Glenn.
+</div>
 {: .notice--primary}
+
+[![DougMising](assets/images/DougMissing.png){: .align-right .jason}](assets/images/DougMissing.png)  
+As of February 14, 2023, the political topics have been deleted on the forum. We are working to link to archived versions where these are available, and to make our backup copies online in other cases. This is not totally trivial to do and is in the early stages.   
+The real reason for this deletion is unclear, but combined with a number of other changes, the timing is extremely suspicious.
+{: .notice--danger}
+
+### DomEscort31NYC Links
+
+- [Hairy Athlete Types](https://www.companyofmen.org/topic/3656-hairy-athlete-types/) 
+
+Note that the email address used by "Guest DomEscort31NYC" is one identified as belonging to Glenn by the [New York Daily News](https://www.pressreader.com/usa/new-york-daily-news/20130627/281616712946068) from court records.
+{: .notice--primary}
+
+
+### HairyDomBraz27 Links
+
+- [IRAQ sheltered terrorists](https://web.archive.org/web/20220621201635/https://www.companyofmen.org/topic/29712-iraq-sheltered-terrorists/) archive version.
+- <https://www.companyofmen.org/topic/4840-only-one-good-thing-can-be-said-about-the-barebacker-sites/>
+- <https://www.companyofmen.org/topic/5536-thats-a-first/>
+- <https://www.companyofmen.org/topic/5561-judge-doesnt-punish-gaybashers/> Glenn's really _off_ here.
+- **<https://www.companyofmen.org/topic/13513-role-playing/>** He reveals himself to be "Max" of HairyStudsVideo, an escort represented by Glenn.
+- <https://www.companyofmen.org/topic/5530-a-yankee-in-shea-stadium/>
+
+
+### Doug69 Links
 
 - <https://companyofmen.org/topic/2003-fewer-posts-here>
 - <https://companyofmen.org/topic/5892-escort-rates>
@@ -60,7 +90,7 @@ Note this is currrent address of the chat forum for the site formerly known as m
 - <https://companyofmen.org/topic/6297-french-rugby-team>
 - <https://companyofmen.org/topic/6333-pnp-what-does-it-mean>
 - **<https://companyofmen.org/topic/6334-almost-certainly-a-stupid-question>**
-- <https://companyofmen.org/topic/6386-appreciate-life>
+- **<https://companyofmen.org/topic/6386-appreciate-life>**
 - **<https://companyofmen.org/topic/6388-does-mentioning-a-potential-review-impact-an-escorts-performance>**
 - <https://companyofmen.org/topic/6394-cupcakeescorts>
 - <https://companyofmen.org/topic/6400-barebacking>
@@ -353,7 +383,7 @@ Note this is currrent address of the chat forum for the site formerly known as m
 - <https://companyofmen.org/topic/29935-still-more-of-eu-policies>
 - <https://companyofmen.org/topic/29938-janklow-guilty-on-all-counts>
 - <https://companyofmen.org/topic/29939-good-editorial-about-dean-in-the-times>
-- **<https://companyofmen.org/topic/29940-why-are-you-here-and-not-over-there>**
+- **[why are you here and not over there??????????](https://web.archive.org/web/20220504185846/https://www.companyofmen.org/topic/29940-why-are-you-here-and-not-over-there/)** archive version
 - <https://companyofmen.org/topic/29945-gores-endorsement>
 - <https://companyofmen.org/topic/29958-was-saddam-already-a-captive-before-his-capture>
 - <https://companyofmen.org/topic/29959-we-finally-got-our-frankenstein>
@@ -410,7 +440,7 @@ Note this is currrent address of the chat forum for the site formerly known as m
 - <https://companyofmen.org/topic/30146-the-wizard-of-oz-letter>
 - <https://companyofmen.org/topic/30148-books>
 - <https://companyofmen.org/topic/30149-if-minnesota-votes-this-way-how-are-the-rest-of-the-states-voting>
-- <https://companyofmen.org/topic/30150-abortions-cause-babies-pain>
+- **[Abortions cause babies pain](https://web.archive.org/web/20211217044208/https://www.m4m-forum.org/topic/30150-abortions-cause-babies-pain)**  archive version
 - <https://companyofmen.org/topic/30159-this-says-a-lot>
 - <https://companyofmen.org/topic/30160-the-brown-shirts-are-coming>
 - <https://companyofmen.org/topic/30161-bush-thanks-veterans-then-cuts-their-health-care>
@@ -544,3 +574,6 @@ Note this is currrent address of the chat forum for the site formerly known as m
 - <https://companyofmen.org/topic/51291-it-gets-bigger>
 - <https://companyofmen.org/topic/51418-missing-posters>
 - <https://companyofmen.org/topic/57110-forum-hilarity-at-daddys>
+
+### Also Noteworthy
+- <https://www.companyofmen.org/topic/27656-hx-article-on-rio/#comment-259038>
