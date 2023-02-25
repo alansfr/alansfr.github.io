@@ -270,16 +270,16 @@ blockquote.twitter-tweet a:focus {
 // .pdfcontainer {
 //   position: relative;
 //   overflow: hidden;
-//   height: 0;
 //   height: 100%;
 //   width: 100% !important;
+//   max-height: 70vh;
 //   padding-top: 150%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
 // }
 
 .pdfcontainer {
+  position: relative;
   height: 70vh;
-  max-height: 85%;
-  width: 20vh !important;
+  width: 95% !important;
 }
 .responsive-iframe {
   position: absolute;
