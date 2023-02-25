@@ -247,6 +247,16 @@ KK:
    children:
    - title: In Exile, Chap. 6
      url: /Exile6
+   - title: Opening & Chapter 1
+     url: /assets/pdfs/InExile-Chapter1.pdf
+   - title: Chapter 2
+     url: /assets/pdfs/InExile-Chapter2.pdf
+   - title: Chapter 3
+     url: /assets/pdfs/InExile-Chapter3.pdf
+   - title: Chapter 5
+     url: /assets/pdfs/InExile-Chapter5.pdf
+   - title: Chapter 6
+     url: /assets/pdfs/InExile-Chapter6.pdf
  - title: Keira Knightley
    children:
    - title: that Kimmel interview
