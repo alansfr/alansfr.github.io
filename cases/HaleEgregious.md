@@ -20,13 +20,14 @@ show_date: true
 
 
 > ## Glenn's Court Filing as attorney for Matthew Hale, a Nazi denied a law license.
-> 
+>
 > Even in 2001, Glenn's stated his case in unusually strong terms --- to put it generously --- as is clear just from Paragraph 1.
 {: .notice--primary}
 
 <br>
 
 # IN THE UNITED STATES DISTRICT COURT
+
 ## FOR THE NORTHERN DISTRICT OF ILLINOIS <br> EASTERN DIVISION
 
 <br>
@@ -35,11 +36,9 @@ MATTHEW F. HALE,     :
 
 Plaintiff,   : Case No. ________________
 
-
 v.
 
-
-COMMITTEE ON CHARACTER AND FITNESS FOR    
+COMMITTEE ON CHARACTER AND FITNESS FOR
 THE STATE OF ILLINOIS; BOARD OF ADMISSIONS  
 TO THE BAR; COMMITTEE ON CHARACTER AND  
 FITNESS, STATE OF ILLINOIS, THIRD JUDICIAL  
@@ -71,7 +70,6 @@ Now comes Plaintiff Matthew F. Hale, by and through his attorneys, and alleges a
 4. But for the patent constitutional abuses of the Committee on Character and Fitness and its individual members, Matthew Hale would be practicing law in Illinois today. Independently, but for the facially unconstitutional procedural and substantive rules governing the admissions process, Hale would be practicing law in Illinois today.  The members of the Committee on Character and Fitness, acting under color of law, knowingly and/or recklessly violated Matthew Hale's constitutional rights to free statement, free association, due process of law, and equal protection. Hale is thus entitled to compensatory damages, punitive damages, and the declaratory and injunctive relief sought herein.
 
 ### THE PARTIES
-
 
 {:start="5"}
 5. Plaintiff Matthew F. Hale is a resident of the State of Illinois who, at all relevant times herein, resided in East Peoria, Illinois. In 1998, Hale graduated Southern Illinois University at Carbondale School of Law with a Juris Doctor degree, and thereafter sat for and passed the State of Illinois' Bar examination conducted in the summer of 1998. Despite his law school degree and successful Bar examination, Hale was denied a licence to practice law in Illinois by the Board of Admissions, the Committee of Character and Fitness, and its individual members, on June 30, 1999, when they purportedly concluded that Hale did not possess the requisite character and fitness to practice law in the State of Illinois.
@@ -158,7 +156,7 @@ Now comes Plaintiff Matthew F. Hale, by and through his attorneys, and alleges a
 38. At the hearing, defendant Lustfeldt, the Chairman of the Hearing Panel, while denying that the inquiry was confined to Hale's beliefs and insisting that it instead was focused on his "character," simultaneously acknowledged that the focus of the Hearing Panel's assessment of Hale's "character" was the views and beliefs he espoused. As defendant Lustfeldt put it:
 
     > As far as I'm concerned, this is really not about your beliefs except as they might be indicative of your character and fitness to be a member of the bar . . . . The question is whether you are credible when you say [that you can take the attorney oath], and I think the difficulty from that is that when someone says every day I believe this, I believe this, I believe this and they publicly advocate these positions repeatedly and encourage others to take them up and then for you to come in here today and say well, I know I say that Jews all have to be shipped out of the country and I know I say that blacks are like apes, but I'll tell you what, I can do this job, and that's the difficulty, you see, in trying to sort this out, and that's been the sources of these questions. . . .  
-    > It's not about your beliefs, it's about your character and fitness, and one of the windows into somebody's character is what they will say, along with what they do, and I think that's the purpose of this as far as I'm concerned. 
+    > It's not about your beliefs, it's about your character and fitness, and one of the windows into somebody's character is what they will say, along with what they do, and I think that's the purpose of this as far as I'm concerned.
     > Thus, even at the hearing, the Chairman of the Hearing Panel made perfectly clear that the reason that so much of the hearing was devoted to Hale's political and religious beliefs, rather than his conduct, was because -- in the view of the Hearing Panel -- Hale's political and religious beliefs were, by themselves, sufficient to question Hale's fitness to practice law, as such views provided a "window" into his character.
 
 {:start="39"}
@@ -204,9 +202,11 @@ Now comes Plaintiff Matthew F. Hale, by and through his attorneys, and alleges a
 **As Applied Constitutional Challenges:**
 
 ### COUNT I
+
 {: .text-center}
 
-#### Claim Pursuant to 42 U.S.C. * 1983 for Violation <br> of Plaintiff's First Amendment Right of Freedom of statement 
+#### Claim Pursuant to 42 U.S.C. * 1983 for Violation <br> of Plaintiff's First Amendment Right of Freedom of statement
+
 {: .text-center}
 
 {:start="54"}
@@ -227,9 +227,10 @@ Now comes Plaintiff Matthew F. Hale, by and through his attorneys, and alleges a
 **WHEREFORE**, Plaintiff prays that the Court enter judgment in his favor against Defendants on this Count I and award plaintiff an amount equal to all of the damages he has suffered as a result of these defendants' actions, attorneys' fees and costs, and, because these defendants acted maliciously, wilfully, wantonly and/or with reckless disregard for plaintiff's rights, award punitive damages and other relief as may be appropriate.
 
 ### COUNT II
+
 {: .text-center}
 
-#### Claim Pursuant to 42 U.S.C. * 1983 For Violations <br> of Plaintiff's First Amendment Right of Freedom of Association 
+#### Claim Pursuant to 42 U.S.C. * 1983 For Violations <br> of Plaintiff's First Amendment Right of Freedom of Association
 
 {:start="61"}
 61. Plaintiff repeats and realleges paragraphs 1 through 53, and 55 through 60, as if fully set forth herein.
@@ -249,9 +250,10 @@ Now comes Plaintiff Matthew F. Hale, by and through his attorneys, and alleges a
 **WHEREFORE**, Plaintiff prays that the Court enter judgment in his favor against Defendants on this Count II and award plaintiff an amount equal to all of the damages he has suffered as a result of defendants' actions, attorneys' fees and costs, and, because these defendants acted maliciously, wilfully, wantonly and/or with reckless disregard for plaintiff's rights, award punitive damages and other relief as may be appropriate.
 
 ### COUNT III
+
 {: .text-center}
 
-#### Claim Pursuant to 42 U.S.C. * 1983 For Violations <br> of Plaintiff's Fourteenth Amendment Right to Due Process of Law 
+#### Claim Pursuant to 42 U.S.C. * 1983 For Violations <br> of Plaintiff's Fourteenth Amendment Right to Due Process of Law
 
 {:start="68"}
 68. Plaintiff repeats and realleges paragraphs 1 through 53, 55 through 60, 62 through 67, as if fully set forth herein.
@@ -273,9 +275,10 @@ Now comes Plaintiff Matthew F. Hale, by and through his attorneys, and alleges a
 **WHEREFORE**, Plaintiff prays that the Court enter judgment in his favor against Defendants on this Count III and award plaintiff an amount equal to all of the damages he has suffered as a result of defendants' actions, attorneys' fees and costs, and, because these defendants acted maliciously, wilfully, wantonly and/or with reckless disregard for plaintiff's rights, award punitive damages and other relief as may be appropriate.
 
 ### COUNT IV
+
 {: .text-center}
 
-#### Claim Pursuant to 42 U.S.C. * 1983 For Violations <br> of Plaintiff's Fourteenth Amendment Right to Equal Protection Under the Law 
+#### Claim Pursuant to 42 U.S.C. * 1983 For Violations <br> of Plaintiff's Fourteenth Amendment Right to Equal Protection Under the Law
 
 {:start="76"}
 76. Plaintiff repeats and realleges paragraphs 1 through 53, 55 through 60, 62 through 67, and 69 through 75, as if fully set forth herein.
@@ -294,11 +297,11 @@ Now comes Plaintiff Matthew F. Hale, by and through his attorneys, and alleges a
 
 **WHEREFORE**, Plaintiff prays that the Court enter judgment in his favor against Defendants on this Count IV and award plaintiff an amount equal to all of the damages he has suffered as a result of defendants' actions, attorneys' fees and costs, and, because these defendants acted maliciously, wilfully, wantonly and/or with reckless disregard for plaintiff's rights, award punitive damages and other relief as may be appropriate.
 
-__Facial Constitutional Challenges:__
+**Facial Constitutional Challenges:**
 
 ### COUNT V
 
-#### Claim for Judgment Declaring Rule 8.4(a)5 of the Illinois <br> Rules of Professional Conduct Facially Unconstitutional in Violation <br> of the First Amendment Right to Freedom of Association and for Injunctive Relief 
+#### Claim for Judgment Declaring Rule 8.4(a)5 of the Illinois <br> Rules of Professional Conduct Facially Unconstitutional in Violation <br> of the First Amendment Right to Freedom of Association and for Injunctive Relief
 
 {:start="83"}
 83. Plaintiff repeats and realleges paragraphs 1 through 53, 55 through 60, 62 through 67, 69 through 75, and 77 through 82, as if fully set forth herein.
@@ -316,11 +319,13 @@ __Facial Constitutional Challenges:__
 **WHEREFORE**, Plaintiff prays that the Court enter judgment in his favor against Defendants on this Count V, declaring Rule 8.4(a)5 to be unconstitutional on its face in violation of the First and Fourteenth Amendments, and permanently enjoining future application of this Rule to prohibit or punish the exercise of freedom of association.
 
 ### COUNT VI
+
 {: .text-center}
 
 #### Claim for Judgment Declaring Rule 8.4(a)5 of the Illinois  
+
 Rules of Professional Conduct Unconstitutional as Violative of the  
-First Amendment Right to Freedom of statement and for Injunctive Relief 
+First Amendment Right to Freedom of statement and for Injunctive Relief
 
 {:start="89"}
 89. Plaintiff repeats and realleges paragraphs 1 through 53, 55 through 60, 62 through 67, 69 through 75, 77 through 82, and 84 through 88, as if fully set forth herein.
@@ -338,9 +343,10 @@ First Amendment Right to Freedom of statement and for Injunctive Relief
 **WHEREFORE**, Plaintiff prays that the Court enter judgment in his favor against Defendants on this Count VI, declaring Rule 8.4(a)5 to be unconstitutional on its face in violation of the First and Fourteenth Amendments, and permanently enjoining future application of this Rule to prohibit or punish the exercise of freedom of statement.
 
 ### COUNT VII
+
 {: .text-center}
 
-#### Claim for Judgment Declaring Illinois Supreme Court Rule 708 <br> and Rule 4 of the Committee's Rules of Procedure Unconstitutional in Violation <br> of the Fourteenth Amendment Right To Due Process of Law and for Injunctive Relief 
+#### Claim for Judgment Declaring Illinois Supreme Court Rule 708 <br> and Rule 4 of the Committee's Rules of Procedure Unconstitutional in Violation <br> of the Fourteenth Amendment Right To Due Process of Law and for Injunctive Relief
 
 {:start="95"}
 95. Plaintiff repeats and realleges paragraphs 1 through 53, 55 through 60, 62 through 67, 69 through 75, 77 through 82, 84 through 88, and 90 through 94, as if fully set forth herein.
@@ -363,14 +369,13 @@ First Amendment Right to Freedom of statement and for Injunctive Relief
 
 **WHEREFORE**, Plaintiff prays that the Court enter judgment in his favor against Defendants on this Count VII: (a) declaring Supreme Court Rule 708 and Rule 4 of the Rules of Procedure of the Board of Admissions and the Committee on Character and Fitness to be unconstitutional on their face in violation of the Fourteenth Amendment to the extent that they allow the denial of admission to practice law without providing an opportunity to have constitutional challenges to said denial actually heard and adjudicated in a court of general jurisdiction authorized to hear and adjudicate such challenges, and (b) permanently enjoining future application of these Rules to deny applicants admission without providing the constitutionally mandated opportunity to be heard.
 
-Dated: June 27, 2001 
+Dated: June 27, 2001
 
-MATTHEW F. HALE 
- 
+MATTHEW F. HALE
 
 By ______________________________________
 
-One of his attorneys 
+One of his attorneys
 
 Glenn Greenwald
 
@@ -384,11 +389,10 @@ New York, NY 10019
 
 Telephone: (212) 489-6359
 
-Fax: (212) 246-2698 
- 
+Fax: (212) 246-2698
+
  <br>
 
- 
 OF COUNSEL PURSUANT
 
 TO LOCAL RULE 83.15:  
@@ -402,17 +406,16 @@ Chicago, IL 60625
 Telephone: (773) 334-0498
 
 <br>
- 
-### DEMAND FOR JURY TRIAL 
 
-Pursuant to Rule 38 of the Federal Rules of Civil Procedure, Plaintiff Matthew F. Hale hereby demands a trial of the above-entitled action by Jury. 
+### DEMAND FOR JURY TRIAL
 
-MATTHEW F. HALE 
- 
+Pursuant to Rule 38 of the Federal Rules of Civil Procedure, Plaintiff Matthew F. Hale hereby demands a trial of the above-entitled action by Jury.
+
+MATTHEW F. HALE
 
 By ______________________________________
 
-One of his attorneys 
+One of his attorneys
 
 Glenn Greenwald
 
@@ -423,12 +426,12 @@ GREENWALD, CHRISTOPH & HOLLAND, P.C.
 New York, NY 10019
 
 Telephone: (212) 489-6359  
-Fax: (212) 246-2698 
+Fax: (212) 246-2698
 
 <br>
- 
 
 #### OF COUNSEL PURSUANT
+
 #### TO LOCAL RULE 83.15:  
 
 Jason Gylling

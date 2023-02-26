@@ -23,9 +23,6 @@ Translated from _Um Sexual Predador Chamado Glenn Greenwald Ato II_
 <!-- ## Original source (in Portuguese)
 [BetterCallGlen.com archive](https://web.archive.org/web/20190803233836/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-ii/) -->
 
-
-
-
 If you didn’t read the [first part](predator-part-1.md), we suggest you read it to find out about the case in general, and how Glenn Greenwald still responds in the US for Hairy Jocks activities, and for practicing Law even with his expired license, better known as BAR EXAM; equivalent to the OAB exam in Brazil.
 
 After speaking with his Dominican friend, who was dating a member of the infamous Dominicans Don't Play (DDP), RZ, he feared that the promise of just 'a scare' to Glenn Greenwald and his partner Buchtel (aka Jake Jax, later Jake Jaxson) descended into brute violence.
@@ -40,11 +37,9 @@ RZ, was especially annoyed by the vast amount of material linking Nazi images wi
 
 ## How Glenn Greenwald and Jason Buchtel cheated their 'slaves' in the absence of better terms
 
-
 ![Showboy](assets/images/ShowBoy-GlennGreenwald-JasonBuchtel.jpg){: .align-left}
 
 To try to seduce me, Jason showed content from the Showboy footage, had Whoopi Goldberg. He came up with that talk that if I knew how many Hollywood stars before major studios had acted in pornographic productions, I would lose my fear.
-
 
 __Showboy is actually a terrible LGBT comedy, it was Jason Buchtel's first attempt to be taken seriously as a director.__
 

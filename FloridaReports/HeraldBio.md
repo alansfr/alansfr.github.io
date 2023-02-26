@@ -113,8 +113,3 @@ As the drama unfolds in the coming weeks, Greenwald watches from his home in Rio
 From his early start in Lauderdale Lakes, Greenwald has hoped to show others not to fear power, but to challenge it.
 
 “I’m very proud of him,” said mom Arlene Greenwald, who still works every day. “He has great principles and he’s sticking to his principles. He’s not afraid to speak out. I think that’s what changes people and the world, people who are not afraid to speak out.”
-
-
-
-
-

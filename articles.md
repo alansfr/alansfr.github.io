@@ -13,7 +13,6 @@ header:
 
 **To be sorted**
 
-
 - ``Jun 26, 2013`` Jessica Testa for BuzzFeed News: [How Glenn Greenwald Became Glenn Greenwald](https://www.buzzfeednews.com/article/jtes/how-glenn-greenwald-became-glenn-greenwald)
 - ``Nov 14, 2013`` Natasha Vargas-Cooper for BuzzFeed News: [David Miranda Is Nobody's Errand Boy](https://www.buzzfeed.com/natashavc/david-miranda-is-nobodys-errand-boy) _Updated Aug 21, 2020_
 - ``Jun 26, 2013`` Gay Pride in 2013 [In Light of DOMA Ruling, Glenn Greenwald May Move Back to the United States](https://slate.com/news-and-politics/2013/06/supreme-court-doma-ruling-glenn-greenwald-may-move-back-to-u-s.html)

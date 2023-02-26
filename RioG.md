@@ -17,7 +17,6 @@ and what is evidently his email address appears on the Contact Us page.
 The site was also linked to from other sites belonging to Glenn and Jason, including the early version of [the Studmall Blogspot](/blogspot.md) which in turn was reachable from the main Studmall page.
 {: .notice--primary}
 
-
 <style type="text/css">
   iframe {
     max-width: 100%;

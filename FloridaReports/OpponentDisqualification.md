@@ -49,7 +49,7 @@ Greenwald, 23, who works in an accounting office, said he is not taking the acti
 
 Greenwald first started scrutinizing the resign-to-run law when Michael Sims, a candidate for one of the three two-year seats open on the council, was told he would have to resign from the Code Enforcement Board to run for office.
 
-City Attorney Jim Brady wrote a letter on Jan. 11 to City Clerk Audrey Tolle saying that a member of the Code Enforcement Board would have to resign in order to run for public office because the board had sovereign power, or *quasi-judicial* powers that allow the board to impose fines for violations.
+City Attorney Jim Brady wrote a letter on Jan. 11 to City Clerk Audrey Tolle saying that a member of the Code Enforcement Board would have to resign in order to run for public office because the board had sovereign power, or _quasi-judicial_ powers that allow the board to impose fines for violations.
 
 Sims, 37, who works as a manager for a gas station, resigned from the board.
 

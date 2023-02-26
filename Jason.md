@@ -63,31 +63,26 @@ refers to Glenn and Jason.
 
 ## I am Jake Jaxson
 
-
 ![I am Jake Jaxson](assets/images/jj.jpg){: .align-left .jason} When [NY Daily News linked Glenn and Jason](https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448) through court documents in June 2013,  
 Jason published the biographical article
 [I am Jake Jaxson.](IamJJ.md){: .btn .btn--info}  
 
-He explains Master Notions was "cofounded with Glenn", where 
+He explains Master Notions was "cofounded with Glenn", where
 they "really enjoyed being able to work in a strategic space that had no boundaries".  
 He was involved in "helping to launch, market, and manage his original blog Unclaimed Territory".  
 That's a little strange for a short-term business partner Glenn left behind in NYC a year earlier.
 {: .notice}
-
 
 ## About "Us"
 
 Glenn gets a big mention in the second sentence of the
 [About Us](https://cockyboys.com/pages.php?id=meet-the-morecocks) page on Cockyboys.com.
 
-
 ![Benny Morecock](assets/images/bioBMC.jpg){: .align-left  .jason}
 We've reproduced [the superior 2015 version.](morecocks/web.archive.org/web/20151128034652if_/https:/cockyboys.com/pages-meet-the-morecocks.html){: .btn .btn--primary}
-The page just isn't the same without   
+The page just isn't the same without
 **Benny** "I do porn things, but I also do so much more" **Morecock**  
 {: .notice--warning }  
-
-
 
 <br>
 {: .cl}
@@ -98,7 +93,7 @@ Awards
 [![Adrian, Glenn and Jason](assets/images/sketchy2.jpg){: .align-right .jason}](assets/images/sketchy2.jpg)
 
 Glenn and Jason appear to have stopped working closely together around 2010--11.  
-Jason and his husband Adrian (aka RJ) are pictured here in late 2011 with Glenn and David. 
+Jason and his husband Adrian (aka RJ) are pictured here in late 2011 with Glenn and David.
 
 ### See Also
 
@@ -106,21 +101,11 @@ Jason and his husband Adrian (aka RJ) are pictured here in late 2011 with Glenn 
 
 [The Island of Misfit Boys](http://digitalissue.villagevoice.com/publication/?m=6001&i=184713&p=8&ver=html5) from the Village Voice, 2013.
 
-
 Shortly after that, Jason started winning awards.
-
-
 
 {% include videogallery %}
 The elegance and professionalism of the ceremonies seemed to remain fairly consistent,
 although the stages grow ever larger.
 {: .notice--danger}
-
-
-
-
-
-
-
 
 <!-- <script src="/assets/js/videogal.js" defer>  </script>  -->

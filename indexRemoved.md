@@ -12,7 +12,6 @@ After two years of cohabitation they become common-law married.
 GG claims DM was 19 when they met at the beach. But the movie credits tell a different story.
 [link](https://twitter.com/wokyleeks/status/1303174798214795264)
 
-
 July 2005, GG's company _StudMall_ films _Sauna Boys 3_ in Rio. DM is listed as director.
 [link](https://twitter.com/AlanVRK/status/1298727516736233472)
 [link](https://twitter.com/AlanVRK/status/1299105381910802445)

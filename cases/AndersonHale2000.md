@@ -19,16 +19,16 @@ show_date: true
 
 ## United States District Court for the Northern District of Illinois · No. 00 C 2021
 
-
 ### Reverend Stephen Tracy ANDERSON, Plaintiff, v. <br>  Matthew F. HALE, the World Church of the Creator, an unincorporated association, and the Estate of Benjamin Nathaniel Smith, Defendants
+
 {: .text-center}
 
 > ## Attorneys
+>
 > Mary Rose Alexander, Sylvia A. Stein, Paula W. Render, Stephen A. Swedlow, Katherine Davis Vega, Amy J. Kappeler, Latham & Watkins, Janine L. Hoft, People’s Law Offices, Chicago, IL, for plaintiff.
-> 
+>
 > Glenn Greenwald, Greenwald, Christoph & Holland, P.C., New York City, for defendants.
 {: .notice--info}
-
 
 ## MEMORANDUM OPINION AND ORDER
 

@@ -29,8 +29,6 @@ Just one of at least three cases in which Glenn represented the owners of HX mag
 As we know [HX](/hxpromo/) promoted Glenn's company in at least four prominent articles -- not an easy endorsement to get.
 {: .notice--success}
 
-
-
 # Model Release Saves _HX_ Magazine and The Roxy From Privacy and Defamation Claims by Bodybuilder Model
 
 First published in [Lesbian/Gay Legal News](http://www.qrd.org/qrd/www/legal/lgln/06.00.html) .

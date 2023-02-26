@@ -21,17 +21,13 @@ _This page is in the early stages of development and should be regarded as a rou
 
 Some of the the allegations made on the Brazilian Web Site _BetterCallGlenn_ in 2019 naturally provoke skepticism, and without some further evidence might be dismissed as far-fetched. It is possible the authors - who appear to have interviews certainly key players - had access to such evidence but they did not reveal it.
 
-
 However the articles are full of many unusual background details which are not publicly known, going far beyond the 2013   _NY Daily News_ [article](/sobstack/) and in places contradicting it.
 
 The details are specific enough that if they were pure invention one would expect some to be disprovable. Some are also so unusual that, if accurate, they are highly unlikely to be the result of mere lucky guesswork.
 
 We have found strong supporting evidence for many of these details, in some cases quite conclusive.
 
-
 ## Non-public Background informaiton in BetterCallGlenn allegations.
-
-
 
 | Assertion Made | Evidence | Status | Notes |
 | --- | --- | --- | --- |
@@ -50,20 +46,11 @@ We have found strong supporting evidence for many of these details, in some case
 | Glenn's aim in Rio in early 2005 was to find Studmall actors | Video output in Mid-2005 | Proven beyonnd a doubt | not at all what Glenn told _NY Daily News_ |
 | Glenn felt he would struggle in Rio in 2005 with full-time assistance of a trustworhy assistant who could recruit and blend in | Very very plausible, but something only a gay gringo would know, unlikely to have been invented by a BCG journalist | Strong evidence this wasn't casually invented but not consistent with having David's full-time support guaranteed | |
 
-
 ---
-
-
-
 
 More details fleshing out this table coming soon.
 
-
-
-
-
 Some expositions of the reasons we find this site to be credible are on Twitter.
-
 
 ## Sample Twitter Thread
 

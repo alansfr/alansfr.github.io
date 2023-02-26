@@ -18,7 +18,6 @@ sidebar:
 
 by Luc Michel
 
-
 Let's talk about the subject that infuriates Glenn Greenwald: his involvement in the porn industry. Which is still going on. Since 2002, Greenwald is a partner and screenwriter for several adult film producers and other ventures reserved for people over 18 years of age.
 
 Nothing illegal, but of very dubious taste. We still don't quite understand Verdevaldo's irritation.
@@ -83,6 +82,4 @@ As was said in the beginning: either we fall, or you fall. There is no chance of
 
 Until then, we will turn over your dark world 2002-2013...
 
-
 -------------
-

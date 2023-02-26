@@ -51,9 +51,6 @@ sidebar:
 _Yes, Glenn's first domain name record really did mispell the name of his own company as "Masters Notion" rather than Master Notions._
 {: .notice--warning}
 
-
-
-
 # Domain reports
 
 Although a lot of current information is freely available --- some is even necessary for sites to be able to be found --- there is no single definitive source for historical domain information. <br>  <br>
@@ -61,11 +58,7 @@ Below are __the complete reports produced by domaintools.com__  , a leading comm
 In pdf format, they contain fairly complete histories of domain registration, as well as home page screenshots and hosting information.  
 {: .notice--primary}
 
-
 The most revealing and least anonymous information is often the oldest.
-
-
-
 
 _The 2002 record has HairyStudsVideo.com registered to Werner Achatz at the address of
 Glenn's own law firm._  

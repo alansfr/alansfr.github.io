@@ -53,10 +53,7 @@ They do not necessarily link to the start of the thread. If a thread bifurcates 
 {: .notice--warning}
 {% include gallery caption="Glenn's very revealing 2003-7 account; David Newiwert's mammoth 110-tweet thread about Matthew Hale; and an alleged meeting on a real beach" %}
 
-
-
 {% include gallery id="gal2" caption="A Whistleblower, A Lawsuit, and the great Constance Baker Motley" %}
-
 
 {% include gallery id="gal3" caption="No Coffee Boy, No Pulitzer and No Place to Buy an Airline Ticket" %}
 

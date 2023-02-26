@@ -23,14 +23,13 @@ author_profile: true
   }
 </style>
 
-## Intro 
+## Intro
 
 A number of allegations appeared on the Brazilian site BetterCallGlenn.com in 2019.
 The site is no longer active but most of the articles are preserved on the Internet Archive.  
 Although we have been unable to confirm key parts of these,
 they contain many details which we have verified and were not at all widely known.
 {: .notice--}
-
 
 ## Reproduction of The _Better Call Glenn_ Landing Page
 

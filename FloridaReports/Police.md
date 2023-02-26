@@ -19,7 +19,6 @@ By TAO WOOLFE, Staff Writer
 This article was first published in the _South Florida Sun Sentinel_ in October 1990.
 {: .notice--warning}
 
-
 LAUDERDALE LAKES -- The grandson of a former City Council member was physically escorted from a council meeting by Broward sheriff's deputies on Tuesday night after refusing to leave the podium.
 
 Glenn Greenwald, 23, stepped up to the podium during the public portion of the meeting to decry the city's committee form of government, which, Greenwald said, prevents working people from participating in city affairs.

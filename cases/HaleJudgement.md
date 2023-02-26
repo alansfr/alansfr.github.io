@@ -23,6 +23,5 @@ show_date: true
   }
 </style>
 
-
 <iframe src="Hale2003.pdf" width="1200" height="1800">
  </iframe>

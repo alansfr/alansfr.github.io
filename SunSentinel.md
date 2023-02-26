@@ -29,7 +29,6 @@ show_date: true
 
 ## Kimberly Lifton, Staff Writer
 
-
 This article was first published in the _South Florida Sun Sentinel_ in 1985.
 {: .notice--warning}
 

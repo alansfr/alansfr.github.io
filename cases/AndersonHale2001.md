@@ -26,18 +26,18 @@ show_date: true
 
 **Case No. 00 C 2021.**
 
-
 ### Reverend Stephen Tracy ANDERSON, Plaintiff, v. <br> Matthew F. HALE; the World Church of the Creator, an unincorporated association; the Estate of Benjamin Nathaniel Smith, Defendants
+
 {: .text-center}
 
-
 > ## Attorneys
+>
 > MARY ROSE ALEXANDER, Esq., STEPHEN A. SWEDLOW, Esq., AMY J. KAPPELER, Esq., KATHERINE D. VEGA, Esq., Latham Watkins, 233 South Wacker Drive Suite 5800, Chicago, IL 60606.
-> 
+>
 > NANCY CHANG, Esq., WILLIAM H. GOODMAN, Esq., Center for Constitutional Rights, 666 > Broadway, 7th Floor, New York, N.Y. 10012
 >
 > JANINE L. HOFT, Esq., People's Law Office, 1180 North Milwaukee Avenue Chicago, IL 60622, Attorneys for Plaintiff.
-> 
+>
 > GLENN GREENWALD, Esq., Greenwald, Christoph Holland, P.C. 1370 Avenue of the Americas, 32nd Floor, New York, N.Y. 10019, Attorneys for Defendants
 {: .notice--info}
 
@@ -47,14 +47,13 @@ show_date: true
 
 **Magistrate Judge, Martin C. Ashman**
 
-
-
 Plaintiff, Reverend Stephen Tracy Anderson, filed a complaint against Defendants, Matthew F. Hale, The World Church of the Creator (the "WCOTC"), and the Estate of Benjamin Nathaniel Smith, seeking relief under various federal and state laws for violating his rights by physically injuring him. The complaint arose out of Smith's widely publicized July 1999 shooting spree and its connection, as alleged by Plaintiff, to Hale and the WCOTC. Presently before this Court are Plaintiff's Motion to Compel and Motion for a Protective Order. The motions pertain to surreptitious tape recordings made by Defendants' counsel, who has been admitted pro hac vice to practice before this Court. For the reasons that follow, Plaintiff's Motion to Compel is granted in part and denied in part, and Plaintiff's Motion for a Protective Order is granted.
 
 While Defendants filed their Consolidated Memorandum in Opposition to Plaintiff's Motion to Compel and for a Protective Order late without leave of court, this Court, sua sponte, grants Defendants an extension of time nunc pro tunc as of March 5, 2001. However, this Court will not overlook Defendants' transgression of Standing Order II.(3), which limits briefs to fifteen pages. Accordingly, Defendants' brief ends at page fifteen. See Standing Order at II.(3) (citing Local R. 9(d)).
 {: .notice}
 
 ## I. Background
+
 On October 13, 2000, Defendants' counsel's telephone rang. To Defendant's counsel's apparent pleasure, Kenneth Dippold, one of Plaintiff's witnesses, was on the line. Dippold voluntarily called Defendants' counsel in New York from a location in Illinois to answer any questions regarding Dippold's involvement in the underlying litigation. Dippold had received a subpoena from Defendants' counsel earlier that day.
 
 Defendants' counsel served the subpoena on Dippold immediately upon discovering his identity on October 7, 2000. At that time, Plaintiff identified Dippold as the sole witness to support the allegation that Hale encouraged Smith to engage in the July 1999 shooting spree. Before that date, Plaintiff had not identified a witness to support this allegation.
@@ -97,6 +96,7 @@ In response to the parties' arguments regarding the applicability of the Illinoi
 {: .notice}
 
 ### B. Assertion of Work-Product Doctrine
+
 The remaining initiatory matter — whether Defendants timely and properly asserted the work-product doctrine as a basis for withholding disclosure of the tapes — can be ruled on almost as easily as the first. As Plaintiff correctly points out, the protection afforded by the work-product doctrine is not self-executing. See Marx v. Kelly, Hart Hallman, P.C., 929 F.2d 8, 12 (1st Cir. 1991); Applied Sys., Inc. v. N. Ins. Co. of N.Y., No. 97 C 1565, 1997 WL 639235, at *2-3 (N.D.Ill. 1997). Instead, parties asserting an objection to discovery on the ground of work-product doctrine must present that objection in a timely and proper manner as defined by the Rules. See Peat Marwick, Mitchell Co. v. West, 748 F.2d 540, 542 (10th Cir. 1984).
 
 Rule 34(b) provides that parties served with a document request must respond within thirty days after service of the request; and, if any request is objected to, the reason for the objection must be stated. Additionally, Rule 26(b)(5) requires the objecting party to expressly make the claim of privilege and "describe the nature of the documents, communications, or things not produced . . . in a manner that, without revealing information itself privileged or protected, will enable [the] other part[y] to assess the applicability of the privilege or protection."
@@ -114,9 +114,11 @@ Plaintiff himself spells out the possible legal and ethical problems associated 
 In no way do we suggest that Defendants' method — whichever one of the two is considered — of apprising Plaintiff of the basis for withholding the tapes constitutes perfect compliance under the Rules. But an express claim of work-product protection was made (actually within a shorter time than required), the basis for that claim was sufficiently articulated to put Plaintiff on notice, and Plaintiff suffered no prejudice by the way in which Defendant communicated the information. For those reasons, Defendants' good faith compliance with the Rules precludes a finding of waiver.
 
 ### C. Work-Product Doctrine
+
 That brings us to the substance of the instant dispute. Defendants contend that any tapes they possess are protected by the work-product doctrine and therefore need not be produced. Plaintiff questions the applicability of the doctrine to the tapes, and argues that, even if work-product protection applies, it has been vitiated by Defendants' counsel's unethical conduct in procuring the tapes. These arguments are addressed below.
 
 #### 1. Purpose of the Work-Product Doctrine
+
 The work-product doctrine strikes a balance between the benefits of an adversary system and liberal discovery rules. See Upjohn Co. v. United States, 449 U.S. 383, 397-403 (1981); Hickman v. Taylor, 329 U.S. 495, 507-12 (1947). On the one hand, liberal discovery rules provide parties with the fullest possible knowledge of the operative facts of the case before trial to reduce surprise and ensure that cases are decided on the merits. See Hickman, 329 U.S. at 507; Onwuka v. Fed. Express Corp., 178 F.R.D. 508, 516 (D. Minn. 1997). On the other hand, to arrive at the truth, the adversary system pits attorneys against each other and charges them with gathering information, sifting through it, and developing strategy.
 
 Taken to the extreme, full disclosure could discourage good lawyering. Attorneys would have little incentive to gather information and develop strategy if everything they wrote down would have to be disclosed. Some attorneys would simply "borrow the wits of another." See Hickman, 329 U.S. at 516. Or "unfair and sharp practices" would "inevitably develop in the giving of legal advice and in the preparation of cases for trial." Id. at 511. In the end, "the cause of justice would be poorly served." Id.
@@ -201,6 +203,7 @@ Finally, with regard to the minority's position that ABA Formal Opinion 337 is p
 In sum, because we agree that Defendants' counsel engaged in unethical conduct by surreptitiously taping conversations with witnesses, any work-product protection that otherwise may have existed is vitiated and Defendants' tapes must be disclosed to Plaintiff.
 
 ##### b. Local Rule 83.54.4
+
 Notwithstanding the above, Plaintiff also argues that Local Rule 83.54.4 provides an independent basis for vitiating the work-product doctrine in this case. Local Rule 83.54.4 proclaims that, while representing a client, "a lawyer shall not use . . . methods of obtaining evidence that violate the legal rights of \[another\] person." By expressly referencing the rights of others, the Rule imposes one of many necessary ethical limits on zealous representation. Whether a violation of the Rule occurs, of course, requires the application of substantive law.
 
 In Illinois, a person violates the rights of another person by recording a telephone conversation without the consent of that other person. See People v. Siwek, 671 N.E.2d 358, 363 (Ill.App.Ct. 1996). Such conduct is expressly prohibited by the Illinois eavesdropping statute. See id. (recognizing that the 1994 amendment to the statute "extended the coverage of the eavesdropping statute to all conversations, regardless of whether [the conversations] were intended to be private"); see also Archer Daniels Midland Co. v. Whitacre, 60 F. Supp.2d 819, 830-31 (C.D.Ill. 1999) (same). The statute not only imposes criminal penalties, but also provides individuals who are surreptitiously taped with a private cause of action. See 720 ILCS 5/14-2, 6.
@@ -221,10 +224,11 @@ The ethical rules serve many beneficial purposes, one of which is to maintain a 
 In sum, because Defendants' counsel violated the Illinois eavesdropping statute and thereby transgressed Local Rule 83.54.4 by violating the rights of third persons, any work-product protection that would have otherwise applied to the tapes is vitiated. On this ground alone, the tapes should be turned over to Plaintiff.
 
 ### D. Protective Order and Attorney's Fees
+
 We deal summarily with the final two issues raised by Plaintiff. First, pursuant to Rule 26(c), we grant Plaintiff's request for a protective order. See Fed.R.Civ.P. 26(c). For the remainder of this litigation, Defendants' counsel is prohibited from recording any conversation, whether by tapes or other electronic device, without the consent or prior knowledge of all parties to the conversation. Plaintiff has adequately demonstrated that a protective order is necessary to protect third persons.
 
 To the contrary, Plaintiff's request for attorney's fees and other expenses in bringing this motion is denied because Defendants' position was substantially justified. See Fed.R.Civ.P. 37(a)(4). Defendants may not have prevailed but each of the arguments they presented had a reasonable basis in law and fact. Cf. Jones, 1989 WL 152352, at *5 (finding party's position not substantially justified).
 
 ## III. Conclusion
-For the foregoing reasons, Plaintiff's Motion to Compel is granted in part and denied in part, and Plaintiff's Motion for a Protective Order is granted, all as stated above.
 
+For the foregoing reasons, Plaintiff's Motion to Compel is granted in part and denied in part, and Plaintiff's Motion for a Protective Order is granted, all as stated above.

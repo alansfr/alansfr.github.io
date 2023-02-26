@@ -16,24 +16,23 @@ page_css:
 Just a list of links for now. Included because the search facility on the forum is broken.  
 Some of the threads where Glenn aka Doug69 makes especially interesting contributions are highlighted in the list in green.  
 Note this is currrent address of the chat forum for the site formerly known as male4malescorts.com.  
-**UPDATED**{: .vnew} We have added some links for Glenn's earlier profiles: 
+**UPDATED**{: .vnew} We have added some links for Glenn's earlier profiles:
 - DomEscort31NYC whose email address led us to this forum, and
 - HairyDomBraz27 who was even publicly identified on the site as being the same person as Doug69, marketed himself as a Brazilian from HairyStudsVideo who didn't speak English, and went off on extended rants sounding exactly like Glenn.
 </div>
 {: .notice--primary}
 
 [![DougMising](assets/images/DougMissing.png){: .align-right .jason}](assets/images/DougMissing.png)  
-As of February 14, 2023, the political topics have been deleted on the forum. We are working to link to archived versions where these are available, and to make our backup copies online in other cases. This is not totally trivial to do and is in the early stages.   
+As of February 14, 2023, the political topics have been deleted on the forum. We are working to link to archived versions where these are available, and to make our backup copies online in other cases. This is not totally trivial to do and is in the early stages.
 The real reason for this deletion is unclear, but combined with a number of other changes, the timing is extremely suspicious.
 {: .notice--danger}
 
 ### DomEscort31NYC Links
 
-- [Hairy Athlete Types](https://www.companyofmen.org/topic/3656-hairy-athlete-types/) 
+- [Hairy Athlete Types](https://www.companyofmen.org/topic/3656-hairy-athlete-types/)
 
 Note that the email address used by "Guest DomEscort31NYC" is one identified as belonging to Glenn by the [New York Daily News](https://www.pressreader.com/usa/new-york-daily-news/20130627/281616712946068) from court records.
 {: .notice--primary}
-
 
 ### HairyDomBraz27 Links
 
@@ -43,7 +42,6 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://www.companyofmen.org/topic/5561-judge-doesnt-punish-gaybashers/> Glenn's really _off_ here.
 - **<https://www.companyofmen.org/topic/13513-role-playing/>** He reveals himself to be "Max" of HairyStudsVideo, an escort represented by Glenn.
 - <https://www.companyofmen.org/topic/5530-a-yankee-in-shea-stadium/>
-
 
 ### Doug69 Links
 
@@ -576,4 +574,5 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/57110-forum-hilarity-at-daddys>
 
 ### Also Noteworthy
+
 - <https://www.companyofmen.org/topic/27656-hx-article-on-rio/#comment-259038>

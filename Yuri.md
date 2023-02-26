@@ -20,7 +20,6 @@ share: true
 
 or _When Mark Zuckberberg and Harvey Weinstein threw a party at Yuri Milner's Place_.
 
-
 This interview took place November 10, 2014.  
 Otherwise we wouldn't know this ever happened.
 
@@ -28,24 +27,21 @@ Otherwise we wouldn't know this ever happened.
 <source src="assets/video/JKcut1.mp4" type="video/mp4">
 </video>
 
-
 > ### Update
+>
 > This was a brief report in [Deadline](https://deadline.com/2014/11/oscar-facebooks-mark-zuckerberg-weinstein-imitation-game-1201279538/) one day earlier.  
 > The event seems to have taken place on Saturday November 8.
 
 ### Attendees included:
 
-* Nathan Blecharczyk 
+* Nathan Blecharczyk
 * Elizabeth Holmes
 * Reid Hoffman
 * Sheryl Sandberg
 
-
-
 ## Why here?
 
 For convenience - hard to find this vid anyplace else.
-
 
 As far as we know this is not directly connected to Glenn in any way,
 but if we find out otherwise,

@@ -28,8 +28,6 @@ This is as it appears on the HX website but most readers will have read the prin
 HX magazine was also a [legal client](/cases/Theissen.html) of Glenn's on multiple occasions.
 {: .notice--primary}
 
-
 <div>
 <iframe src="hxn/web.archive.org/web/20050221102140if_/http:/www.hx.com/features/indexgreen.html" width="800px" height="3100px" allow-forms="false"></iframe>
 </div>
-

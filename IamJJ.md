@@ -23,16 +23,14 @@ _I'm Jake Jaxson -- filmmaker, artist, hopeless romantic &amp; insatiable flirt.
 I live in New York with my two partners &amp; our four pups - Raif, Sebastian, Bailey &amp; Jackson -
 Our God Dog Bella &amp; a snake named Samson._
 {: .text-center}
-           
-[Ask]("https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/ask"){: .btn} 
+
+[Ask]("https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/ask"){: .btn}
 [Archive]("https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/archive"){: .btn}
 [Twitter]("https://web.archive.org/web/20130904130429/http://twitter.com/cockyboys"){: .btn}
 [CockyBoys]("https://web.archive.org/web/20130904130429/http://signup.cockyboys.com/track/[[MzAwMDE5MS4yNC4xLjcuMS4wLjAuMC4w"){: .btn}
 [Search]("javascript:;"){: .btn}
 [RSS]("https://web.archive.org/web/20130904130429/http://www.jakejaxson.com/rss"){: .btn}
 {: .text-center}
-
-
 
 ![Jake Jaxson portrait](/assets/images/jj.jpg){: .align-center}
 

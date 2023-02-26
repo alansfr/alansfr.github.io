@@ -19,7 +19,6 @@ permalink: /results85/
 
 ### By Alan Cherry, Staff Writer
 
-
 This article was first published in the _South Florida Sun Sentinel_ in 1985.
 {: .notice--warning}
 
@@ -45,15 +44,7 @@ Rosenkrantz thanked all the people who voted for him and said he would "continue
 
 Junious said he expected the results of his campaigning "to be a bit better. I didn`t think I would come in fifth place."
 
-
-
-
 Junious said the city`s at-large election favored the incumbents because they all live in the largest condominium complex in the city -- Hawaiian Gardens -- and are heavily supported by those voters.
 
 **Greenwald, an 18-year-old candidate, said he was "disappointed a little bit" in not winning a seat.  
 "I think a large part (of the loss) was due to my age."**
-
-
-
-
-

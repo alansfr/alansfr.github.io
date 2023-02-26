@@ -26,14 +26,11 @@ show_date: true
 
 <!-- markdownlint-disable MD036 -->
 
-
 <!-- by room16 -->
 
 ## Translated from: _Um Sexual Predador Chamado Glenn Greenwald Ato I_  
+
 {: .notice--success}
-
-
-
 
 <!-- ![image-center](/assets/images/Predador1.jpg){: .align-center} -->
 
