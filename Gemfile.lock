@@ -263,13 +263,11 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll
   jekyll-include-cache
   jekyll-redirect-from
   jekyll-remote-theme
   jekyll-seo-tag
   minimal-mistakes-jekyll
-  rouge
   webrick
 
 BUNDLED WITH
