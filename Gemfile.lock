@@ -262,15 +262,15 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (= 228)
-  jekyll (= 3.9.3)
+  github-pages
+  jekyll
   jekyll-include-cache
   jekyll-redirect-from
   jekyll-remote-theme
   jekyll-seo-tag
   minimal-mistakes-jekyll
-  rouge (= 3.26.0)
-  webrick (~> 1.8.1)
+  rouge
+  webrick
 
 BUNDLED WITH
    2.2.22
