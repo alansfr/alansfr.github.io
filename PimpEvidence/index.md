@@ -6,6 +6,10 @@ description: two Americans who began traveling to Rio several years ago as "sex 
 header:
   image: assets/images/sketchy2.jpg
 permalink: /PimpEvidence/
+sidebar:
+  - title: Evidence collectons
+    image: /assets/images/FBI_investigation_board.png
+    nav: evid
 ---
 
 RioMaleEscorts is **NSFW**. RioGayGuides, the companion site, is closer to PG-13.
