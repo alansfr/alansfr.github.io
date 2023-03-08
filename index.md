@@ -77,36 +77,34 @@ We are here to chronicle the life of our antihero, Glenn Greenwald, especially t
 
 ## Glenn's own forgotten websites, articles and forum posts
 
-To start, take a look at [His Name is Rio](hxRio.md){: .btn .btn--success} - written under Glenn's own byline in 2006.  It was one of the hardest things to find on the Internet Archive, and by the time we did so we already knew that the owner and operator of the agencies it describes, named Curtis Jacobs in that article, was really Glenn.
+To start, take a look at [His Name is Rio](hxRio.md){: .btn .btn--success} written under Glenn's own byline in 2006.
 
+Even after we knew it existed, it was one of the hardest things to find on the Internet Archive, By then, we already knew that the owner and operator of RioGayGuides and RioMaleEscorts which it promotes [was really Glenn](/PimpEvidence/) **NEW**{: .vnew}.
+{: .notice--warning}
 
-
-
-There are plenty of reasons we know that Rio Gay Guides and Rio Male Escorts were founded by Glenn and his NYC-based business partner, Jake Jaxson. For example a prototype version of the site existed some months earlier within Hairy Studs Video, whose ownership was [documented in 2013  by NY Daily News] (#first-us-published-articles-about-greenwalds-porn-empire), although largely forgotten.
 
 We host our own reconstructions of some of Glenn's lost websites, almost entirely based on material from the [Wayback Machine](https://archive.org) but with faster and more reliable navigation, and fewer dead links.
-
-The sites themselves describe the owners, and David Miranda's email address and photo appeared prominently on the sites as a kind of front-of-house manager. 
 
 
 ### RioGayGuides and RioMaleEscorts 
 _A reconstruction of sites Glenn and David set up in Brazil in 2005_.
 
+The sites themselves describe the owners, and David Miranda's email address and photo appeared prominently on the sites as a kind of front-of-house manager.
+{: .notice--info}
 
 {% include feature_row %}
-
 
 
 <br>{: .cl}
 
 
-Before delving further into Glenn's involvement with Studmall, and the manifest lie that he was the legal coffee boy who left the porn business behind in 2004 before leaving for Brazil, we note one detail that leads to a whole lot more.
+Before delving further into Glenn's involvement with Studmall, and the manifest lie that he was the legal coffee boy who left the porn business behind in 2004 before leaving for Brazil, we note one detail that leads to a whole lot more, including **Glenn's cheering on the Iraq War as it happened**.
 
 
 
 
 
-### DomMascHry31 aka HairyDomBraz27 aka Doug69 **UPDATED**{: .vnew} 
+### DomMascHry31 aka HairyDomBraz27 aka Doug69
 
 <div markdown="1">
 Glenn's email address is quoted by _NY Daily News_ (from court depositions) as **DomMascHry31@aol.com**. This can also be found in the [domain records of Studmall](/DNS/#complete-reports-for-studmall-hairystudsvideo-and-bareback-inc) alongside the mailing address for Glenn's old law firm.  
@@ -120,7 +118,7 @@ Highlights include:
 - [Looking for a lawyer in Rio](https://www.companyofmen.org/topic/27565-looking-for-a-lawyer-in-rio/#comment-258560) in which Glenn forgets he is supposed to be using an Alt.
 - [Iraq Sheltered Terrorists](https://www.companyofmen.org/topic/29712-iraq-sheltered-terrorists/), writes a shocked Glenn in April 2003 when he was a cheerleader for the Iraq War.  
 
-**NEW**{: .vnew .align-left} The search facility on the forum seems to currently be broken so we have included a list of links to all 527 topics with a contribution from Doug69 [here](/Doug69Links.html){: .btn  .btn--large .btn--danger}.
+**UPDATED**{: .vnew .align-left} The search facility on the forum seems to currently be broken so we have included a list of links to all 527 topics with a contribution from Doug69 [here](/Doug69Links.html){: .btn  .btn--large .btn--danger}.
 </div >
 {: .notice--success}
   
