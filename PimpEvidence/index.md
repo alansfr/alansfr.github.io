@@ -10,6 +10,7 @@ sidebar:
   - title: Evidence collectons
     image: /assets/images/FBI_investigation_board.png
     nav: evid
+share: true
 ---
 
 RioMaleEscorts is **NSFW**. RioGayGuides, the companion site, is closer to PG-13.
