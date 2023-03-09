@@ -37,4 +37,8 @@ Note first, by way of background information, that RioGayGuides.com was first re
   > "Greenwald was the only individual with whom Haas dealt with regard to the Agreement and creation of the new video business".
 - The sites are promoted a great deal on both HairyStudsVideo and Studmall, sites owned by Glenn and Jason (which Glenn has acknowledged); and also on the first version of the [StudMall Blog](/blogspot.html), which itself was linked from Studmall.com. 
 - In [an interview first published by _Folha_](http://www1.folha.uol.com.br/colunas/monicabergamo/2013/08/1331165-vem-chumbo-grosso-diz-jornalista-que-namora-brasileiro-detido-em-londres.shtml) with [a translation published by WorldCrunch](https://worldcrunch.com/world-affairs/in-rio-with-glenn-greenwald-and-david-miranda-more-snowden-stories-to-come) the third paragraph states:
- > Miranda worked on starting a tour guide company catering to gay Americans.
+  > Miranda worked on starting a tour guide company catering to gay Americans.
+  
+  What does a _tour guide company_ do? It appears that it sold tour guides. 
+- [![Enzuli Corporate Record](/assets/images/EnzuliRecord-2020-09.png){: .align-right .jason}](/assets/images/EnzuliRecord-2020-09.png) Enzuli Viagens e Turismo (_Enzuli Travel and Tourism_) existed for 17 years. It was created jointly by Glenn and David in August 2005 and David's election disclosures show that David owned 1% of the company, with Glenn owning the rest.    
+In 2022 it changed its name to Enzuli Jornalismo Independente.
