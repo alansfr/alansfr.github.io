@@ -10,6 +10,7 @@ sidebar:
   - title: Evidence collectons
     image: /assets/images/FBI_investigation_board.png
     nav: evid
+share: true
 ---
 
 RioMaleEscorts is **NSFW**. RioGayGuides, the companion site, is closer to PG-13.
@@ -40,5 +41,5 @@ Note first, by way of background information, that RioGayGuides.com was first re
   > Miranda worked on starting a tour guide company catering to gay Americans.
   
   What does a _tour guide company_ do? It appears that it sold tour guides. 
-- [![Enzuli Corporate Record](/assets/images/EnzuliRecord-2020-09.png){: .align-right .jason}](/assets/images/EnzuliRecord-2020-09.png) Enzuli Viagens e Turismo (_Enzuli Travel and Tourism_) existed for 17 years. It was created jointly by Glenn and David in August 2005 and David's election disclosures show that David owned 1% of the company, with Glenn owning the rest.    
+- [![Enzuli Corporate Record](/assets/images/EnzuliRecord-2020-09.png){: .align-right .jason}](/assets/images/EnzuliRecord-2020-09.png) Enzuli Viagens e Turismo (_Enzuli Travel and Tourism_) existed for 17 years. It was created jointly by Glenn and David in August 2005 and [David's election disclosures](https://web.archive.org/web/20230310063341/https://eleicoes.poder360.com.br/candidato/307845#2016) show that David owned 1% of the company, with Glenn owning the rest.    
 In 2022 it changed its name to Enzuli Jornalismo Independente.
