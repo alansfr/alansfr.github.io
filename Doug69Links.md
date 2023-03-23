@@ -324,7 +324,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/29435-system-repairs>
 - <https://companyofmen.org/topic/29646-french-fries-or-freedom-fries>
 - <https://companyofmen.org/topic/29778-dubyas-resume>
-- <https://companyofmen.org/topic/29779-bush-action-causes-iraqi-celebration>
+- [Bush Action causes Iraqi celebration](https://web.archive.org/web/20220228010314/https://www.m4m-forum.org/topic/29779-bush-action-causes-iraqi-celebration/) archive version
 - <https://companyofmen.org/topic/29780-republicans-for-dean>
 - <https://companyofmen.org/topic/29789-blacks-democrats-oppose-gay-rights>
 - <https://companyofmen.org/topic/29792-astute-analysis-of-our-current-problems>
