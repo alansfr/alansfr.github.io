@@ -326,7 +326,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/29778-dubyas-resume>
 - [Bush Action causes Iraqi celebration](https://web.archive.org/web/20220228010314/https://www.m4m-forum.org/topic/29779-bush-action-causes-iraqi-celebration/) archive version
 - <https://companyofmen.org/topic/29780-republicans-for-dean>
-- <https://companyofmen.org/topic/29789-blacks-democrats-oppose-gay-rights>
+- [Blacks (Democrats) oppose gay rights](https://web.archive.org/web/20220228043602/https://www.m4m-forum.org/topic/29789-blacks-democrats-oppose-gay-rights/) archive version
 - <https://companyofmen.org/topic/29792-astute-analysis-of-our-current-problems>
 - <https://companyofmen.org/topic/29793-a-liberal-can-win>
 - <https://companyofmen.org/topic/29794-dean-fiscal-conservative-and-social-progressive>
@@ -465,7 +465,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/30254-dean-gets-it-right>
 - <https://companyofmen.org/topic/30261-words-from-the-boss>
 - <https://companyofmen.org/topic/30263-as-only-a-reagan-can-say>
-- <https://companyofmen.org/topic/30266-playing-it-safe-at-the-dnc>
+- [Playing it safe at the DNC :(](https://web.archive.org/web/20211226222517/https://www.m4m-forum.org/topic/30266-playing-it-safe-at-the-dnc/) archive version
 - <https://companyofmen.org/topic/30269-keyes-versus-obama>
 - <https://companyofmen.org/topic/30278-mcgreevys-lovers-statement>
 - <https://companyofmen.org/topic/30279-new-jersey-dem-governor-mcgreevey-resigns-outs-himself>
@@ -502,7 +502,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/30521-victory-fuck>
 - <https://companyofmen.org/topic/30540-the-backlash-begins>
 - <https://companyofmen.org/topic/30548-the-king-is-dead>
-- <https://companyofmen.org/topic/30550-karl-rove-thanks-you>
+- [Karl Rove thanks you](https://web.archive.org/web/20220228044245/https://www.m4m-forum.org/topic/30550-karl-rove-thanks-you/) archive version
 - <https://companyofmen.org/topic/30590-is-this-fucked-up-or-what-welcome-to-totalitarianism-in-american-broadcasting>
 - <https://companyofmen.org/topic/30594-sorryeverybody>
 - <https://companyofmen.org/topic/30597-~wont-see-this-on-fox-news~>
@@ -520,14 +520,14 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/30679-capt-taylor-hiding-under-the-table>
 - <https://companyofmen.org/topic/30680-lets-celebrate-condi>
 - <https://companyofmen.org/topic/30684-take-action>
-- <https://companyofmen.org/topic/30687-howard-dean-as-dnc-chair>
-- <https://companyofmen.org/topic/30688-poor-washed-up-ted-kennedy>
+- [Howard Dean as DNC Chair](https://web.archive.org/web/20220228013750/https://www.m4m-forum.org/topic/30687-howard-dean-as-dnc-chair/) archive version
+- [Poor Washed Up Ted Kennedy](https://web.archive.org/web/20220228014030/https://www.m4m-forum.org/topic/30688-poor-washed-up-ted-kennedy/) archive version
 - <https://companyofmen.org/topic/30689-an-apology-owed>
 - **<https://companyofmen.org/topic/30712-proof-jeff-gannon-is-an-escort>**
 - <https://companyofmen.org/topic/30722-journalists-attack-witch-hunt-defend-gannon>
 - <https://companyofmen.org/topic/30729-ritter-is-right>
 - <https://companyofmen.org/topic/30737-call-your-senators-re-gannon>
-- <https://companyofmen.org/topic/30739-george-bush-and-gays>
+- [George Bush and Gays](https://web.archive.org/web/20220228012702/https://www.m4m-forum.org/topic/30739-george-bush-and-gays/) archive version
 - <https://companyofmen.org/topic/30745-for-your-amusement-ann-coulter-defends-jeff-gannon>
 - <https://companyofmen.org/topic/30746-why-care>
 - <https://companyofmen.org/topic/30754-respect>
