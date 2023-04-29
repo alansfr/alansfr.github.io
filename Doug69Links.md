@@ -39,6 +39,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 
 - [IRAQ sheltered terrorists](https://web.archive.org/web/20220621201635/https://www.companyofmen.org/topic/29712-iraq-sheltered-terrorists/) archive version.
 - [I SUPPORT TYRANNY AND DEATH IN IRAQ](Doug69/29691-i-support-tyranny-and-death-in-iraq/index.html) locally hosted. Now functional but pages 2 and 4 are lost. Most of the links will not work, although the page links near the top should do.
+- [Getting the Message - success with N. Korean & Iran](Doug69/29702-getting-the-message-success-with-n-korean-amp-iran/index.html) locally hosted
 - <https://www.companyofmen.org/topic/4840-only-one-good-thing-can-be-said-about-the-barebacker-sites/>
 - <https://www.companyofmen.org/topic/5536-thats-a-first/>
 - <https://www.companyofmen.org/topic/5561-judge-doesnt-punish-gaybashers/> Glenn's really _off_ here.
