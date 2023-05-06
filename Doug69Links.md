@@ -366,7 +366,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/29885-id-like-to-thank-god>
 - <https://companyofmen.org/topic/29890-muslims-christians-jews>
 - <https://companyofmen.org/topic/29892-yet-another-bush-lie-exposed>
-- **<https://companyofmen.org/topic/29894-israeli-children-expendable>**
+- **[Israeli Children Expendable?](Doug69/29894-israeli-children-expendable/page1.html)** locally hosted
 - <https://companyofmen.org/topic/29898-poll-from-the-guardian-on-bush-visit>
 - <https://companyofmen.org/topic/29899-bush-greatest-threat-to-life-on-planet>
 - <https://companyofmen.org/topic/29900-to-doug69>
