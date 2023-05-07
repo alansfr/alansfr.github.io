@@ -349,7 +349,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/29842-gov-dean-unveils-his-economic-plan>
 - <https://companyofmen.org/topic/29844-makes-you-wonder-about-senators-bob-and-john-kerry-no>
 - <https://companyofmen.org/topic/29845-andrew-sullivans-take-on-civil-unions>
-- <https://companyofmen.org/topic/29847-dean-sharply-criticizes-vote-for-harmful-abortion-ban>
+- [Dean sharply criticizes vote for harmful abortion ban](Doug69/29847-dean-sharply-criticizes-vote-for-harmful-abortion-ban/page1.html) locally hosted
 - <https://companyofmen.org/topic/29850-with-friends-like-these-who-needs-enemies>
 - <https://companyofmen.org/topic/29852-scalia-ridicules-gay-sex-ruling>
 - <https://companyofmen.org/topic/29853-why-people-hate-bush>
@@ -403,7 +403,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/29980-george-schulz-donald-rumsfeld-war-criminals>
 - <https://companyofmen.org/topic/29982-ashcrofts-fallout-from-brazil-what-next>
 - <https://companyofmen.org/topic/29983-hello>
-- <https://companyofmen.org/topic/29989-late-term-aka-partial-birth-abortion-issue-solved>
+- [Late term (AKA partial birth) abortion issue solved?](Doug69/29989-late-term-aka-partial-birth-abortion-issue-solved/page1.html) locally hosted
 - <https://companyofmen.org/topic/29996-hitler-moveon-video-typical-republican-bs>
 - <https://companyofmen.org/topic/30004-things-you-have-to-believe-to-be-a-democrat>
 - <https://companyofmen.org/topic/30006-what-i-have-to-believe-to-be-and-american>
@@ -557,7 +557,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/30952-bill-clinton-panders-to-the-poor>
 - <https://companyofmen.org/topic/30963-miers-flames-from-the-right>
 - <https://companyofmen.org/topic/30967-the-gops-normalization-of-treason>
-- <https://companyofmen.org/topic/30971-abortion>
+- [Abprtion](Doug69/30971-abortion/page2.html) locally hosted
 - <https://companyofmen.org/topic/31544-october-suprise-bomb-iran>
 - **<https://companyofmen.org/topic/33947-establishing-yourself-in-brazil-basic-info>**
 - <https://companyofmen.org/topic/33973-dominant-twinks-and-other-fetishes>
