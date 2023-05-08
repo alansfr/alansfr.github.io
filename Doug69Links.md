@@ -326,7 +326,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/29646-french-fries-or-freedom-fries>
 - <https://companyofmen.org/topic/29778-dubyas-resume>
 - [Bush Action causes Iraqi celebration](https://web.archive.org/web/20220228010314/https://www.m4m-forum.org/topic/29779-bush-action-causes-iraqi-celebration/) archive version
-- <https://companyofmen.org/topic/29780-republicans-for-dean>
+- [Republicans for Dean!](Doug69/29780-republicans-for-dean/page1.html) locally hosted
 - [Blacks (Democrats) oppose gay rights](https://web.archive.org/web/20220228043602/https://www.m4m-forum.org/topic/29789-blacks-democrats-oppose-gay-rights/) archive version
 - <https://companyofmen.org/topic/29792-astute-analysis-of-our-current-problems>
 - <https://companyofmen.org/topic/29793-a-liberal-can-win>
@@ -462,7 +462,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/30208-newsweek-moores-film-full-of-distortions>
 - <https://companyofmen.org/topic/30210-anti-gay-thought-crimes>
 - <https://companyofmen.org/topic/30221-what-vote>
-- <https://companyofmen.org/topic/30235-kerryclinton-aide-steals-911-documents>
+- [Kerry/Clinton Aide Steals 9/11 Documents](Doug69/30235-kerryclinton-aide-steals-911-documents/page1.html) locally hosted
 - <https://companyofmen.org/topic/30254-dean-gets-it-right>
 - <https://companyofmen.org/topic/30261-words-from-the-boss>
 - <https://companyofmen.org/topic/30263-as-only-a-reagan-can-say>
