@@ -10,21 +10,30 @@ page_css:
  - assets/css/links.css
 ---
 
+
+
 ## List of Links
 
-<div markdown="1">
-Just a list of links for now. Included because the search facility on the forum is broken.  
-Some of the threads where Glenn aka Doug69 makes especially interesting contributions are highlighted in the list in green.  
-Note this is currrent address of the chat forum for the site formerly known as male4malescorts.com.  
-**UPDATED**{: .vnew} We have added some links for Glenn's earlier profiles: 
+
+This page is primarily a list of links into the male4malescort discussion forums (currently branded companyofmen.org) where Glenn posted extensively from 2002 to 2005. Included because the search facility on the forum is recently broken. 
+[![DougMising](assets/images/DougMissing.png){: .align-right .jason}](assets/images/DougMissing.png)  
+Some of the threads where Glenn aka Doug69 makes especially interesting contributions are highlighted in the list in green.   
+We have added some links for Glenn's earlier profiles: 
 - DomEscort31NYC whose email address led us to this forum, and
 - HairyDomBraz27 who was even publicly identified on the site as being the same person as Doug69, marketed himself as a Brazilian from HairyStudsVideo who didn't speak English, and went off on extended rants sounding exactly like Glenn.
-</div>
-{: .notice--primary}
 
-[![DougMising](assets/images/DougMissing.png){: .align-right .jason}](assets/images/DougMissing.png)  
-As of February 14, 2023, the political topics have been deleted on the forum. We are working to link to archived versions where these are available, and to make our backup copies online in other cases. This is not totally trivial to do and is in the early stages.   
+
+<div markdown="1">
+### Locally hosted threads.
+As of February 14, 2023, the political topics have been deleted on the forum. This impacts around 20-25% of the links below, the threads where Glenn made a contribution.  
+A few of these deleted pages exist on the Wayback Machine and we have changed a number of links accordingly. Most are not.  
+Fortunately, we have copies. Some work was needed to make them available here (considerable de-duplication, and some removal of dependencies on dead external resources).  
+**UPDATED**{: .vnew} We are now making steady progress with including all the deleted material on this site. Those we have added already have had the links adjusted and are marked _locally hosted_ below.
+- Note that many of the links within the locally hosted pages are broken but most of them are unnecessary.
+- The critical links that should work are to other pages in the same thread, except in cases where the pages are missing.
+- None of the pages with a contribution from Glenn in the form of Doug69 is missing.  
 The real reason for this deletion is unclear, but combined with a number of other changes, the timing is extremely suspicious.
+</div>
 {: .notice--danger}
 
 ### DomEscort31NYC Links
@@ -326,7 +335,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/29646-french-fries-or-freedom-fries>
 - <https://companyofmen.org/topic/29778-dubyas-resume>
 - [Bush Action causes Iraqi celebration](https://web.archive.org/web/20220228010314/https://www.m4m-forum.org/topic/29779-bush-action-causes-iraqi-celebration/) archive version
-- [Republicans for Dean!](Doug69/29780-republicans-for-dean/page1.html) locally hosted
+- [Republicans for Dean!](Doug69/29780-republicans-for-dean/page1.html) locally hosted  
 - [Blacks (Democrats) oppose gay rights](https://web.archive.org/web/20220228043602/https://www.m4m-forum.org/topic/29789-blacks-democrats-oppose-gay-rights/) archive version
 - <https://companyofmen.org/topic/29792-astute-analysis-of-our-current-problems>
 - <https://companyofmen.org/topic/29793-a-liberal-can-win>
@@ -524,7 +533,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - [Howard Dean as DNC Chair](https://web.archive.org/web/20220228013750/https://www.m4m-forum.org/topic/30687-howard-dean-as-dnc-chair/) archive version
 - [Poor Washed Up Ted Kennedy](https://web.archive.org/web/20220228014030/https://www.m4m-forum.org/topic/30688-poor-washed-up-ted-kennedy/) archive version
 - <https://companyofmen.org/topic/30689-an-apology-owed>
-- **<https://companyofmen.org/topic/30712-proof-jeff-gannon-is-an-escort>**
+- **[PROOF JEFF GANNON IS AN ESCORT](Doug69/30712-proof-jeff-gannon-is-an-escort/page1.html)** locally hosted
 - <https://companyofmen.org/topic/30722-journalists-attack-witch-hunt-defend-gannon>
 - <https://companyofmen.org/topic/30729-ritter-is-right>
 - <https://companyofmen.org/topic/30737-call-your-senators-re-gannon>
