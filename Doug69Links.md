@@ -386,7 +386,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/29912-typical-canada>
 - <https://companyofmen.org/topic/29913-bush-won>
 - <https://companyofmen.org/topic/29914-massachusetts-gay-marriage-decison-the-real-issue>
-- <https://companyofmen.org/topic/29920-republicans-hate-gays>
+- [Republicans hate Gays](Doug69/29920-republicans-hate-gays/page1.html) locally hosted
 - <https://companyofmen.org/topic/29924-3-gop-senators-introduce-anti-gay-marriage-amendment>
 - <https://companyofmen.org/topic/29926-more-republican-fiscal-leadership>
 - <https://companyofmen.org/topic/29928-what-is-the-us-military-afraid-of>
@@ -425,7 +425,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/30032-dean-rant-muske-1972-redux>
 - <https://companyofmen.org/topic/30034-dean-cartoon>
 - <https://companyofmen.org/topic/30036-newsflash-cia-warns-of-iraq-civil-war>
-- <https://companyofmen.org/topic/30067-bushies-stellar-record>
+- [Bushies stellar record](Doug69/30067-bushies-stellar-record/page1.html) locally hosted
 - <https://companyofmen.org/topic/30068-remember-when>
 - <https://companyofmen.org/topic/30070-dems-iraq-has-wmds>
 - <https://companyofmen.org/topic/30071-kerrys-intern-explosion>
