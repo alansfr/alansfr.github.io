@@ -349,7 +349,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/29814-coopers-sex-life>
 - <https://companyofmen.org/topic/29815-two-of-the-misadministrations-lies-exposed>
 - <https://companyofmen.org/topic/29816-wesley-clark-off-to-a-great-start>
-- <https://companyofmen.org/topic/29821-so-much-for-the-vacation-in-bali>
+- [So much for the vacation in Bali ...!](Doug69/29821-so-much-for-the-vacation-in-bali/page1.html) locally hosted
 - <https://companyofmen.org/topic/29822-bush-regime-downfall>
 - <https://companyofmen.org/topic/29824-limbaugh-being-investigated-for-purchasing-drugs-illegally>
 - <https://companyofmen.org/topic/29835-yipee-now-that-weve-elected-you>
@@ -390,7 +390,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/29924-3-gop-senators-introduce-anti-gay-marriage-amendment>
 - <https://companyofmen.org/topic/29926-more-republican-fiscal-leadership>
 - <https://companyofmen.org/topic/29928-what-is-the-us-military-afraid-of>
-- <https://companyofmen.org/topic/29933-halliburton-accusations-false>
+- [Halliburton accusations false](Doug69/29933-halliburton-accusations-false/page1.html) locally hosted
 - <https://companyofmen.org/topic/29935-still-more-of-eu-policies>
 - <https://companyofmen.org/topic/29938-janklow-guilty-on-all-counts>
 - <https://companyofmen.org/topic/29939-good-editorial-about-dean-in-the-times>
@@ -466,11 +466,11 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/30188-american-funerals>
 - <https://companyofmen.org/topic/30193-60-minutes-bill-clinton>
 - <https://companyofmen.org/topic/30194-the-only-poll-that-counts-is-the-one-in-november>
-- **<https://companyofmen.org/topic/30201-fahrenheit-911>**
+- **[Fahrenheit 9/11](Doug69/30201-fahrenheit-911/page1.html)** locally hosted
 - <https://companyofmen.org/topic/30205-bush-misleads-about-transfer-of-power-in-iraq>
 - <https://companyofmen.org/topic/30208-newsweek-moores-film-full-of-distortions>
 - <https://companyofmen.org/topic/30210-anti-gay-thought-crimes>
-- <https://companyofmen.org/topic/30221-what-vote>
+- [What vote?](Doug69/30221-what-vote/page1.html) locally hosted
 - [Kerry/Clinton Aide Steals 9/11 Documents](Doug69/30235-kerryclinton-aide-steals-911-documents/page1.html) locally hosted
 - <https://companyofmen.org/topic/30254-dean-gets-it-right>
 - <https://companyofmen.org/topic/30261-words-from-the-boss>
@@ -559,7 +559,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/30838-delay-spins-out-of-control>
 - <https://companyofmen.org/topic/30861-spokane-mayor-outed>
 - <https://companyofmen.org/topic/30869-let-the-people-decide>
-- **<https://companyofmen.org/topic/30873-dont-post-anything-trilingual-doesnt-like>**
+- **[Don't Post Anything Trilingual Doesn't Like](Doug69/30873-dont-post-anything-trilingual-doesnt-like/page1.html)** locally hosted
 - <https://companyofmen.org/topic/30924-god-bless-cindy-sheehan>
 - <https://companyofmen.org/topic/30933-nero-fiddled-while-rome-burned>
 - <https://companyofmen.org/topic/30941-clarence-thomas-to-get-top-job>
