@@ -347,7 +347,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/29808-are-you-satisfied-now>
 - <https://companyofmen.org/topic/29809-running-from-cover-quelle-surprise>
 - <https://companyofmen.org/topic/29814-coopers-sex-life>
-- <https://companyofmen.org/topic/29815-two-of-the-misadministrations-lies-exposed>
+- [Two of the MisAdministration&#039;s Lies exposed](Doug69/29815-two-of-the-misadministrations-lies-exposed/index.html)  locally hosted
 - <https://companyofmen.org/topic/29816-wesley-clark-off-to-a-great-start>
 - [So much for the vacation in Bali ...!](Doug69/29821-so-much-for-the-vacation-in-bali/page1.html) locally hosted
 - <https://companyofmen.org/topic/29822-bush-regime-downfall>
@@ -428,7 +428,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - [Bushies stellar record](Doug69/30067-bushies-stellar-record/page1.html) locally hosted
 - <https://companyofmen.org/topic/30068-remember-when>
 - <https://companyofmen.org/topic/30070-dems-iraq-has-wmds>
-- <https://companyofmen.org/topic/30071-kerrys-intern-explosion>
+- [Kerry&#039;s Intern Explosion](Doug69/30071-kerrys-intern-explosion/page1.html)  locally hosted
 - <https://companyofmen.org/topic/30081-bush-installs-far-right-ideologue-to-court-of-appeals>
 - <https://companyofmen.org/topic/30086-bush-backs-anti-gay-constitutional-amendment>
 - <https://companyofmen.org/topic/30089-kerry-follows-bushs-lead-on-gay-marriage>
