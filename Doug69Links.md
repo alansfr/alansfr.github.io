@@ -387,7 +387,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/29913-bush-won>
 - <https://companyofmen.org/topic/29914-massachusetts-gay-marriage-decison-the-real-issue>
 - [Republicans hate Gays](Doug69/29920-republicans-hate-gays/page1.html) locally hosted
-- <https://companyofmen.org/topic/29924-3-gop-senators-introduce-anti-gay-marriage-amendment>
+- [3 GOP Senators introduce anti-gay marriage amendment](Doug69/29924-3-gop-senators-introduce-anti-gay-marriage-amendment/index.html)  locally hosted
 - <https://companyofmen.org/topic/29926-more-republican-fiscal-leadership>
 - <https://companyofmen.org/topic/29928-what-is-the-us-military-afraid-of>
 - [Halliburton accusations false](Doug69/29933-halliburton-accusations-false/page1.html) locally hosted
@@ -399,7 +399,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/29958-was-saddam-already-a-captive-before-his-capture>
 - <https://companyofmen.org/topic/29959-we-finally-got-our-frankenstein>
 - <https://companyofmen.org/topic/29961-republican-senator-strom-thurmond-rapist-and-racist-rip>
-- <https://companyofmen.org/topic/29963-no-abuse-of-guantanomo-prisoners>
+- [No Abuse of Guantanomo Prisoners](Doug69/29963-no-abuse-of-guantanomo-prisoners/page2.html)  locally hosted
 - <https://companyofmen.org/topic/29966-911-chairman-kean-attack-was-preventable>
 - <https://companyofmen.org/topic/29967-afa-online-poll>
 - <https://companyofmen.org/topic/29968-christians-behind-the-wheel>
@@ -430,7 +430,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/30070-dems-iraq-has-wmds>
 - [Kerry&#039;s Intern Explosion](Doug69/30071-kerrys-intern-explosion/page1.html)  locally hosted
 - <https://companyofmen.org/topic/30081-bush-installs-far-right-ideologue-to-court-of-appeals>
-- <https://companyofmen.org/topic/30086-bush-backs-anti-gay-constitutional-amendment>
+- [Bush backs anti-gay constitutional amendment](Doug69/30086-bush-backs-anti-gay-constitutional-amendment/page1.html)  locally hosted
 - <https://companyofmen.org/topic/30089-kerry-follows-bushs-lead-on-gay-marriage>
 - <https://companyofmen.org/topic/30090-barney-frank-opposes-sf-lawless-marriages>
 - <https://companyofmen.org/topic/30093-rep-corrine-brown-makes-racist-remarks-regarding-haiti>
@@ -440,7 +440,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/30112-the-passion-of-the-christwho-has-seen-it-and-what-did-you-think>
 - <https://companyofmen.org/topic/30113-ashcroft-dead-or-alive>
 - <https://companyofmen.org/topic/30114-log-cabin-republicans-push-back>
-- <https://companyofmen.org/topic/30116-spain>
+- [Spain](Doug69/30116-spain/page2.html)  locally hosted
 - <https://companyofmen.org/topic/30123-more-evil-compliments-of-george-w-bush>
 - <https://companyofmen.org/topic/30136-drug-company-what-weve-done-for-you-lately>
 - <https://companyofmen.org/topic/30138-whos-running-against-bush>
@@ -472,7 +472,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/30210-anti-gay-thought-crimes>
 - [What vote?](Doug69/30221-what-vote/page1.html) locally hosted
 - [Kerry/Clinton Aide Steals 9/11 Documents](Doug69/30235-kerryclinton-aide-steals-911-documents/page1.html) locally hosted
-- <https://companyofmen.org/topic/30254-dean-gets-it-right>
+- [Dean Gets It Right](Doug69/30254-dean-gets-it-right/index.html)  locally hosted
 - <https://companyofmen.org/topic/30261-words-from-the-boss>
 - <https://companyofmen.org/topic/30263-as-only-a-reagan-can-say>
 - [Playing it safe at the DNC :(](https://web.archive.org/web/20211226222517/https://www.m4m-forum.org/topic/30266-playing-it-safe-at-the-dnc/) archive version
