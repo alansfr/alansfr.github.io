@@ -348,7 +348,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/29809-running-from-cover-quelle-surprise>
 - <https://companyofmen.org/topic/29814-coopers-sex-life>
 - [Two of the MisAdministration&#039;s Lies exposed](Doug69/29815-two-of-the-misadministrations-lies-exposed/index.html)  locally hosted
-- <https://companyofmen.org/topic/29816-wesley-clark-off-to-a-great-start>
+- [Wesley Clark off to a GREAT start!](Doug69/29816-wesley-clark-off-to-a-great-start/page1.html)  locally hosted
 - [So much for the vacation in Bali ...!](Doug69/29821-so-much-for-the-vacation-in-bali/page1.html) locally hosted
 - <https://companyofmen.org/topic/29822-bush-regime-downfall>
 - <https://companyofmen.org/topic/29824-limbaugh-being-investigated-for-purchasing-drugs-illegally>
@@ -536,10 +536,10 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - **[PROOF JEFF GANNON IS AN ESCORT](Doug69/30712-proof-jeff-gannon-is-an-escort/page1.html)** locally hosted
 - <https://companyofmen.org/topic/30722-journalists-attack-witch-hunt-defend-gannon>
 - <https://companyofmen.org/topic/30729-ritter-is-right>
-- <https://companyofmen.org/topic/30737-call-your-senators-re-gannon>
+- [CALL YOUR SENATORS RE: GANNON!](Doug69/30737-call-your-senators-re-gannon/page2.html)  locally hosted
 - [George Bush and Gays](https://web.archive.org/web/20220228012702/https://www.m4m-forum.org/topic/30739-george-bush-and-gays/) archive version
 - <https://companyofmen.org/topic/30745-for-your-amusement-ann-coulter-defends-jeff-gannon>
-- <https://companyofmen.org/topic/30746-why-care>
+- [why care????](Doug69/30746-why-care/page1.html)  locally hosted
 - <https://companyofmen.org/topic/30754-respect>
 - <https://companyofmen.org/topic/30756-as-usual-its-bushs-fault>
 - <https://companyofmen.org/topic/30771-last-minute-maneuvers-in-schiavo-case-santorum>
