@@ -339,7 +339,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - [Blacks (Democrats) oppose gay rights](https://web.archive.org/web/20220228043602/https://www.m4m-forum.org/topic/29789-blacks-democrats-oppose-gay-rights/) archive version
 - <https://companyofmen.org/topic/29792-astute-analysis-of-our-current-problems>
 - <https://companyofmen.org/topic/29793-a-liberal-can-win>
-- <https://companyofmen.org/topic/29794-dean-fiscal-conservative-and-social-progressive>
+- [Dean: fiscal conservative and social progressive](Doug69/29794-dean-fiscal-conservative-and-social-progressive/page2.html)  locally hosted
 - <https://companyofmen.org/topic/29795-christian-mud-is-still-mud>
 - <https://companyofmen.org/topic/29797-ahhh-nold>
 - <https://companyofmen.org/topic/29801-how-many-more-must-die>
@@ -389,10 +389,10 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - [Republicans hate Gays](Doug69/29920-republicans-hate-gays/page1.html) locally hosted
 - [3 GOP Senators introduce anti-gay marriage amendment](Doug69/29924-3-gop-senators-introduce-anti-gay-marriage-amendment/index.html)  locally hosted
 - <https://companyofmen.org/topic/29926-more-republican-fiscal-leadership>
-- <https://companyofmen.org/topic/29928-what-is-the-us-military-afraid-of>
+- [What Is The US Military Afraid Of?](Doug69/29928-what-is-the-us-military-afraid-of/page1.html)  locally hosted
 - [Halliburton accusations false](Doug69/29933-halliburton-accusations-false/page1.html) locally hosted
 - <https://companyofmen.org/topic/29935-still-more-of-eu-policies>
-- <https://companyofmen.org/topic/29938-janklow-guilty-on-all-counts>
+- [Janklow Guilty on all counts..........](Doug69/29938-janklow-guilty-on-all-counts/page1.html)  locally hosted
 - <https://companyofmen.org/topic/29939-good-editorial-about-dean-in-the-times>
 - **[why are you here and not over there??????????](https://web.archive.org/web/20220504185846/https://www.companyofmen.org/topic/29940-why-are-you-here-and-not-over-there/)** archive version
 - <https://companyofmen.org/topic/29945-gores-endorsement>
@@ -421,12 +421,12 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/30014-democrats-only-in-this-thread-please>
 - <https://companyofmen.org/topic/30017-interesting-endorsement>
 - <https://companyofmen.org/topic/30023-margaret-chos-hate-mail>
-- <https://companyofmen.org/topic/30026-interesting-column-from-former-nyt-foreign-correspondent>
+- [Interesting column from former NYT Foreign Correspondent](Doug69/30026-interesting-column-from-former-nyt-foreign-correspondent/page2.html)  locally hosted
 - <https://companyofmen.org/topic/30032-dean-rant-muske-1972-redux>
 - <https://companyofmen.org/topic/30034-dean-cartoon>
 - <https://companyofmen.org/topic/30036-newsflash-cia-warns-of-iraq-civil-war>
 - [Bushies stellar record](Doug69/30067-bushies-stellar-record/page1.html) locally hosted
-- <https://companyofmen.org/topic/30068-remember-when>
+- [Remember when?](Doug69/30068-remember-when/index.html)  locally hosted
 - <https://companyofmen.org/topic/30070-dems-iraq-has-wmds>
 - [Kerry&#039;s Intern Explosion](Doug69/30071-kerrys-intern-explosion/page1.html)  locally hosted
 - <https://companyofmen.org/topic/30081-bush-installs-far-right-ideologue-to-court-of-appeals>
