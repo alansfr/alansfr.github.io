@@ -346,41 +346,41 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - [Good Joke](Doug69/29802-good-joke/index.html)  locally hosted
 - [Are you satisfied now?!](Doug69/29808-are-you-satisfied-now/page1.html)  locally hosted
 - [Running from cover: Quelle surprise?!](Doug69/29809-running-from-cover-quelle-surprise/page1.html)  locally hosted
-- <https://companyofmen.org/topic/29814-coopers-sex-life>
+- [Cooper&#039;s  Sex Life](Doug69/29814-coopers-sex-life/index.html)  locally hosted
 - [Two of the MisAdministration&#039;s Lies exposed](Doug69/29815-two-of-the-misadministrations-lies-exposed/index.html)  locally hosted
 - [Wesley Clark off to a GREAT start!](Doug69/29816-wesley-clark-off-to-a-great-start/page1.html)  locally hosted
 - [So much for the vacation in Bali ...!](Doug69/29821-so-much-for-the-vacation-in-bali/page1.html) locally hosted
-- <https://companyofmen.org/topic/29822-bush-regime-downfall>
-- <https://companyofmen.org/topic/29824-limbaugh-being-investigated-for-purchasing-drugs-illegally>
-- <https://companyofmen.org/topic/29835-yipee-now-that-weve-elected-you>
-- <https://companyofmen.org/topic/29837-constitutional-ammendment>
-- <https://companyofmen.org/topic/29839-praise-for-scalia>
-- <https://companyofmen.org/topic/29842-gov-dean-unveils-his-economic-plan>
-- <https://companyofmen.org/topic/29844-makes-you-wonder-about-senators-bob-and-john-kerry-no>
-- <https://companyofmen.org/topic/29845-andrew-sullivans-take-on-civil-unions>
+- [Bush Regime Downfall??](Doug69/29822-bush-regime-downfall/index.html)  locally hosted
+- [Limbaugh being investigated for purchasing drugs illegally](Doug69/29824-limbaugh-being-investigated-for-purchasing-drugs-illegally/page1.html)  locally hosted
+- [Yipee, now that &quot;we&#039;ve&quot; elected you...](Doug69/29835-yipee-now-that-weve-elected-you/page1.html)  locally hosted
+- [Constitutional ammendment](Doug69/29837-constitutional-ammendment/index.html)  locally hosted
+- [praise for scalia](Doug69/29839-praise-for-scalia/index.html)  locally hosted
+- [Gov. Dean unveils his economic plan](Doug69/29842-gov-dean-unveils-his-economic-plan/index.html)  locally hosted
+- [Makes you wonder about Senators Bob and John Kerry, no?](Doug69/29844-makes-you-wonder-about-senators-bob-and-john-kerry-no/page1.html)  locally hosted
+- [Andrew Sullivan&#039;s take on Civil Unions](Doug69/29845-andrew-sullivans-take-on-civil-unions/index.html)  locally hosted
 - [Dean sharply criticizes vote for harmful abortion ban](Doug69/29847-dean-sharply-criticizes-vote-for-harmful-abortion-ban/page1.html) locally hosted
-- <https://companyofmen.org/topic/29850-with-friends-like-these-who-needs-enemies>
-- <https://companyofmen.org/topic/29852-scalia-ridicules-gay-sex-ruling>
-- <https://companyofmen.org/topic/29853-why-people-hate-bush>
-- <https://companyofmen.org/topic/29858-stop-being-terrorists-this-might-interest-rabbi-bahia>
-- <https://companyofmen.org/topic/29865-openly-gay-dean-staffer-harassed-at-gephardt-event>
-- <https://companyofmen.org/topic/29867-booming-economic-growth-under-bush>
-- <https://companyofmen.org/topic/29868-gop-rep-iraq-spin-more-important-than-soldiers-deaths>
-- <https://companyofmen.org/topic/29870-the-truth-about-faux-news-an-ex-fncer-speaks>
-- <https://companyofmen.org/topic/29873-oiling-up-the-draft-machine>
-- <https://companyofmen.org/topic/29874-cbs-cancels-the-reagans>
-- <https://companyofmen.org/topic/29877-i-had-a-hard-time-keeping-them-straight>
-- <https://companyofmen.org/topic/29879-jobs-created-unemployment-falls>
-- <https://companyofmen.org/topic/29880-the-stated-purpose-of-this-site>
-- <https://companyofmen.org/topic/29885-id-like-to-thank-god>
-- <https://companyofmen.org/topic/29890-muslims-christians-jews>
-- <https://companyofmen.org/topic/29892-yet-another-bush-lie-exposed>
+- [With Friends like these who needs Enemies!?](Doug69/29850-with-friends-like-these-who-needs-enemies/page2.html)  locally hosted
+- [Scalia ridicules gay sex  ruling](Doug69/29852-scalia-ridicules-gay-sex-ruling/index.html)  locally hosted
+- [Why People Hate Bush](Doug69/29853-why-people-hate-bush/page1.html)  locally hosted
+- [Stop Being Terrorists! (This might interest Rabbi Bahia...](Doug69/29858-stop-being-terrorists-this-might-interest-rabbi-bahia/index.html)  locally hosted
+- [Openly Gay Dean Staffer Harassed at Gephardt Event](Doug69/29865-openly-gay-dean-staffer-harassed-at-gephardt-event/index.html)  locally hosted
+- [Booming Economic Growth under Bush](Doug69/29867-booming-economic-growth-under-bush/index.html)  locally hosted
+- [GOP Rep: Iraq spin more important than soldiers deaths](Doug69/29868-gop-rep-iraq-spin-more-important-than-soldiers-deaths/index.html)  locally hosted
+- [The truth about Faux news: an ex FNCer speaks](Doug69/29870-the-truth-about-faux-news-an-ex-fncer-speaks/index.html)  locally hosted
+- [Oiling Up the Draft Machine?](Doug69/29873-oiling-up-the-draft-machine/page1.html)  locally hosted
+- [CBS cancels The Reagans](Doug69/29874-cbs-cancels-the-reagans/page1.html)  locally hosted
+- [&quot;I had a hard time keeping them straight&quot;](Doug69/29877-i-had-a-hard-time-keeping-them-straight/index.html)  locally hosted
+- [Jobs created, unemployment falls](Doug69/29879-jobs-created-unemployment-falls/index.html)  locally hosted
+- [The Stated Purpose of this Site](Doug69/29880-the-stated-purpose-of-this-site/page1.html)  locally hosted
+- [I&#039;d Like To Thank God......](Doug69/29885-id-like-to-thank-god/page1.html)  locally hosted
+- [Muslims, Christians, Jews](Doug69/29890-muslims-christians-jews/page1.html)  locally hosted
+- [Yet Another Bush Lie Exposed](Doug69/29892-yet-another-bush-lie-exposed/index.html)  locally hosted
 - **[Israeli Children Expendable?](Doug69/29894-israeli-children-expendable/page1.html)** locally hosted
-- <https://companyofmen.org/topic/29898-poll-from-the-guardian-on-bush-visit>
-- <https://companyofmen.org/topic/29899-bush-greatest-threat-to-life-on-planet>
-- <https://companyofmen.org/topic/29900-to-doug69>
-- <https://companyofmen.org/topic/29901-if-you-think-bush-is-a-moron-shout-retard>
-- <https://companyofmen.org/topic/29903-aarp-is-selling-out-on-medicare>
+- [Poll from the Guardian on Bush Visit](Doug69/29898-poll-from-the-guardian-on-bush-visit/index.html)  locally hosted
+- [Bush &#039;greatest threat to life on planet&#039;](Doug69/29899-bush-greatest-threat-to-life-on-planet/page1.html)  locally hosted
+- [To Doug69](Doug69/29900-to-doug69/index.html)  locally hosted
+- [&quot;If you think Bush is a moron shout &#039;retard&#039;&quot;](Doug69/29901-if-you-think-bush-is-a-moron-shout-retard/index.html)  locally hosted
+- [AARP is selling out on Medicare](Doug69/29903-aarp-is-selling-out-on-medicare/index.html)  locally hosted
 - <https://companyofmen.org/topic/29904-poor-bush>
 - <https://companyofmen.org/topic/29908-iraqi-teens-bludgeon-to-death-us-soldiers>
 - <https://companyofmen.org/topic/29912-typical-canada>
