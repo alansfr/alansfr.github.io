@@ -54,6 +54,9 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://www.companyofmen.org/topic/5561-judge-doesnt-punish-gaybashers/> Glenn's really _off_ here.
 - **<https://www.companyofmen.org/topic/13513-role-playing/>** He reveals himself to be "Max" of HairyStudsVideo, an escort represented by Glenn.
 - <https://www.companyofmen.org/topic/5530-a-yankee-in-shea-stadium/>
+- **<https://www.companyofmen.org/topic/17511-hairiest-escort-on-earth/page/2>** He explains how HairyStudsVideo also acts as an escort agency
+- <https://www.companyofmen.org/topic/5531-axe-to-grind/page/2/>
+- <https://www.companyofmen.org/topic/5502-need-help-on-palm-springs/>
 
 
 ### Doug69 Links
