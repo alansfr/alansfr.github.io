@@ -332,20 +332,20 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/28921-center-city-philly>
 - <https://companyofmen.org/topic/28968-hollywood-motel-review>
 - <https://companyofmen.org/topic/29435-system-repairs>
-- <https://companyofmen.org/topic/29646-french-fries-or-freedom-fries>
-- <https://companyofmen.org/topic/29778-dubyas-resume>
+- [French Fries or  Freedom Fries](Doug69/29646-french-fries-or-freedom-fries/page4.html)  locally hosted
+- [Dubya&#039;s resume](Doug69/29778-dubyas-resume/page1.html)  locally hosted
 - [Bush Action causes Iraqi celebration](https://web.archive.org/web/20220228010314/https://www.m4m-forum.org/topic/29779-bush-action-causes-iraqi-celebration/) archive version
 - [Republicans for Dean!](Doug69/29780-republicans-for-dean/page1.html) locally hosted  
 - [Blacks (Democrats) oppose gay rights](https://web.archive.org/web/20220228043602/https://www.m4m-forum.org/topic/29789-blacks-democrats-oppose-gay-rights/) archive version
-- <https://companyofmen.org/topic/29792-astute-analysis-of-our-current-problems>
-- <https://companyofmen.org/topic/29793-a-liberal-can-win>
+- [Astute Analysis of our current problems](Doug69/29792-astute-analysis-of-our-current-problems/index.html)  locally hosted
+- [A Liberal Can Win](Doug69/29793-a-liberal-can-win/index.html)  locally hosted
 - [Dean: fiscal conservative and social progressive](Doug69/29794-dean-fiscal-conservative-and-social-progressive/page2.html)  locally hosted
-- <https://companyofmen.org/topic/29795-christian-mud-is-still-mud>
-- <https://companyofmen.org/topic/29797-ahhh-nold>
-- <https://companyofmen.org/topic/29801-how-many-more-must-die>
-- <https://companyofmen.org/topic/29802-good-joke>
-- <https://companyofmen.org/topic/29808-are-you-satisfied-now>
-- <https://companyofmen.org/topic/29809-running-from-cover-quelle-surprise>
+- [Christian Mud is Still Mud](Doug69/29795-christian-mud-is-still-mud/page1.html)  locally hosted
+- [Ahhh nold](Doug69/29797-ahhh-nold/page1.html)  locally hosted
+- [How Many More Must Die?](Doug69/29801-how-many-more-must-die/page1.html)  locally hosted
+- [Good Joke](Doug69/29802-good-joke/index.html)  locally hosted
+- [Are you satisfied now?!](Doug69/29808-are-you-satisfied-now/page1.html)  locally hosted
+- [Running from cover: Quelle surprise?!](Doug69/29809-running-from-cover-quelle-surprise/page1.html)  locally hosted
 - <https://companyofmen.org/topic/29814-coopers-sex-life>
 - [Two of the MisAdministration&#039;s Lies exposed](Doug69/29815-two-of-the-misadministrations-lies-exposed/index.html)  locally hosted
 - [Wesley Clark off to a GREAT start!](Doug69/29816-wesley-clark-off-to-a-great-start/page1.html)  locally hosted
@@ -447,7 +447,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/30139-appeasement-in-europe>
 - <https://companyofmen.org/topic/30141-theres-gratitude-for-you>
 - <https://companyofmen.org/topic/30143-true-art>
-- <https://companyofmen.org/topic/30144-bush-administration-blocks-clintons-papers-from-911-panel>
+- [Bush administration blocks Clinton&#039;s papers from 9/11 panel](Doug69/30144-bush-administration-blocks-clintons-papers-from-911-panel/index.html)  locally hosted
 - <https://companyofmen.org/topic/30146-the-wizard-of-oz-letter>
 - <https://companyofmen.org/topic/30148-books>
 - <https://companyofmen.org/topic/30149-if-minnesota-votes-this-way-how-are-the-rest-of-the-states-voting>
@@ -467,7 +467,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/30193-60-minutes-bill-clinton>
 - <https://companyofmen.org/topic/30194-the-only-poll-that-counts-is-the-one-in-november>
 - **[Fahrenheit 9/11](Doug69/30201-fahrenheit-911/page1.html)** locally hosted
-- <https://companyofmen.org/topic/30205-bush-misleads-about-transfer-of-power-in-iraq>
+- [Bush misleads about transfer of power in Iraq](Doug69/30205-bush-misleads-about-transfer-of-power-in-iraq/page1.html)  locally hosted
 - <https://companyofmen.org/topic/30208-newsweek-moores-film-full-of-distortions>
 - <https://companyofmen.org/topic/30210-anti-gay-thought-crimes>
 - [What vote?](Doug69/30221-what-vote/page1.html) locally hosted
