@@ -369,7 +369,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - [Openly Gay Dean Staffer Harassed at Gephardt Event](Doug69/29865-openly-gay-dean-staffer-harassed-at-gephardt-event/index.html)  locally hosted
 - [Booming Economic Growth under Bush](Doug69/29867-booming-economic-growth-under-bush/index.html)  locally hosted
 - [GOP Rep: Iraq spin more important than soldiers deaths](Doug69/29868-gop-rep-iraq-spin-more-important-than-soldiers-deaths/index.html)  locally hosted
-- [The truth about Faux news: an ex FNCer speaks](Doug69/29870-the-truth-about-faux-news-an-ex-fncer-speaks/index.html)  locally hosted
+- [The truth about Faux news: an ex FNCer speaks](Doug69/29870-the-truth-about-faux-news-an-ex-fncer-speaks/page1.html)  locally hosted
 - [Oiling Up the Draft Machine?](Doug69/29873-oiling-up-the-draft-machine/page1.html)  locally hosted
 - [CBS cancels The Reagans](Doug69/29874-cbs-cancels-the-reagans/page1.html)  locally hosted
 - [&quot;I had a hard time keeping them straight&quot;](Doug69/29877-i-had-a-hard-time-keeping-them-straight/index.html)  locally hosted
@@ -384,44 +384,44 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - [To Doug69](Doug69/29900-to-doug69/index.html)  locally hosted
 - [&quot;If you think Bush is a moron shout &#039;retard&#039;&quot;](Doug69/29901-if-you-think-bush-is-a-moron-shout-retard/index.html)  locally hosted
 - [AARP is selling out on Medicare](Doug69/29903-aarp-is-selling-out-on-medicare/index.html)  locally hosted
-- <https://companyofmen.org/topic/29904-poor-bush>
-- <https://companyofmen.org/topic/29908-iraqi-teens-bludgeon-to-death-us-soldiers>
-- <https://companyofmen.org/topic/29912-typical-canada>
-- <https://companyofmen.org/topic/29913-bush-won>
-- <https://companyofmen.org/topic/29914-massachusetts-gay-marriage-decison-the-real-issue>
+- [Poor Bush](Doug69/29904-poor-bush/page1.html)  locally hosted
+- [Iraqi teens bludgeon to death U.S. soldiers](Doug69/29908-iraqi-teens-bludgeon-to-death-us-soldiers/page1.html)  locally hosted
+- [Typical Canada](Doug69/29912-typical-canada/index.html)  locally hosted
+- [bush won...](Doug69/29913-bush-won/page1.html)  locally hosted
+- [Massachusetts Gay Marriage Decison - The Real Issue](Doug69/29914-massachusetts-gay-marriage-decison-the-real-issue/index.html)  locally hosted
 - [Republicans hate Gays](Doug69/29920-republicans-hate-gays/page1.html) locally hosted
 - [3 GOP Senators introduce anti-gay marriage amendment](Doug69/29924-3-gop-senators-introduce-anti-gay-marriage-amendment/index.html)  locally hosted
-- <https://companyofmen.org/topic/29926-more-republican-fiscal-leadership>
+- [More Republican fiscal leadership](Doug69/29926-more-republican-fiscal-leadership/index.html)  locally hosted
 - [What Is The US Military Afraid Of?](Doug69/29928-what-is-the-us-military-afraid-of/page1.html)  locally hosted
 - [Halliburton accusations false](Doug69/29933-halliburton-accusations-false/page1.html) locally hosted
-- <https://companyofmen.org/topic/29935-still-more-of-eu-policies>
+- [Still more of EU policies](Doug69/29935-still-more-of-eu-policies/index.html)  locally hosted
 - [Janklow Guilty on all counts..........](Doug69/29938-janklow-guilty-on-all-counts/page1.html)  locally hosted
-- <https://companyofmen.org/topic/29939-good-editorial-about-dean-in-the-times>
+- [good editorial about Dean in the Times](Doug69/29939-good-editorial-about-dean-in-the-times/index.html)  locally hosted
 - **[why are you here and not over there??????????](https://web.archive.org/web/20220504185846/https://www.companyofmen.org/topic/29940-why-are-you-here-and-not-over-there/)** archive version
-- <https://companyofmen.org/topic/29945-gores-endorsement>
-- <https://companyofmen.org/topic/29958-was-saddam-already-a-captive-before-his-capture>
-- <https://companyofmen.org/topic/29959-we-finally-got-our-frankenstein>
-- <https://companyofmen.org/topic/29961-republican-senator-strom-thurmond-rapist-and-racist-rip>
+- [Gore&#039;s Endorsement](Doug69/29945-gores-endorsement/index.html)  locally hosted
+- [Was Saddam already a captive before his capture?](Doug69/29958-was-saddam-already-a-captive-before-his-capture/page1.html)  locally hosted
+- [We Finally Got Our Frankenstein](Doug69/29959-we-finally-got-our-frankenstein/index.html)  locally hosted
+- [Republican Senator Strom Thurmond Rapist and Racist RIP](Doug69/29961-republican-senator-strom-thurmond-rapist-and-racist-rip/page2.html)  locally hosted
 - [No Abuse of Guantanomo Prisoners](Doug69/29963-no-abuse-of-guantanomo-prisoners/page2.html)  locally hosted
-- <https://companyofmen.org/topic/29966-911-chairman-kean-attack-was-preventable>
-- <https://companyofmen.org/topic/29967-afa-online-poll>
-- <https://companyofmen.org/topic/29968-christians-behind-the-wheel>
-- <https://companyofmen.org/topic/29970-democrats-are-anti-gay-bigots>
-- <https://companyofmen.org/topic/29971-whats-wrong-with-christmas>
-- <https://companyofmen.org/topic/29973-scare-me-once>
-- <https://companyofmen.org/topic/29975-taking-back-the-debate>
-- <https://companyofmen.org/topic/29977-o-canada>
-- <https://companyofmen.org/topic/29979-ashcroft-recuses-himself-from-leak-investigation>
-- <https://companyofmen.org/topic/29980-george-schulz-donald-rumsfeld-war-criminals>
-- <https://companyofmen.org/topic/29982-ashcrofts-fallout-from-brazil-what-next>
-- <https://companyofmen.org/topic/29983-hello>
+- [9/11 Chairman Kean:  Attack Was Preventable](Doug69/29966-911-chairman-kean-attack-was-preventable/index.html)  locally hosted
+- [AFA Online Poll](Doug69/29967-afa-online-poll/page1.html)  locally hosted
+- [Christians behind the wheel...................](Doug69/29968-christians-behind-the-wheel/page1.html)  locally hosted
+- [Democrats are anti-gay bigots](Doug69/29970-democrats-are-anti-gay-bigots/index.html)  locally hosted
+- [WHAT&#039;S WRONG WITH CHRISTMAS?](Doug69/29971-whats-wrong-with-christmas/page1.html)  locally hosted
+- [Scare Me Once...](Doug69/29973-scare-me-once/page1.html)  locally hosted
+- [Taking back the debate?](Doug69/29975-taking-back-the-debate/page1.html)  locally hosted
+- [O Canada](Doug69/29977-o-canada/index.html)  locally hosted
+- [Ashcroft Recuses Himself from Leak Investigation](Doug69/29979-ashcroft-recuses-himself-from-leak-investigation/index.html)  locally hosted
+- [George Schulz/ Donald Rumsfeld- War Criminals?](Doug69/29980-george-schulz-donald-rumsfeld-war-criminals/index.html)  locally hosted
+- [Ashcroft&#039;s fallout from Brazil - What next?](Doug69/29982-ashcrofts-fallout-from-brazil-what-next/page1.html)  locally hosted
+- [Hello](Doug69/29983-hello/page1.html)  locally hosted
 - [Late term (AKA partial birth) abortion issue solved?](Doug69/29989-late-term-aka-partial-birth-abortion-issue-solved/page1.html) locally hosted
-- <https://companyofmen.org/topic/29996-hitler-moveon-video-typical-republican-bs>
-- <https://companyofmen.org/topic/30004-things-you-have-to-believe-to-be-a-democrat>
-- <https://companyofmen.org/topic/30006-what-i-have-to-believe-to-be-and-american>
-- <https://companyofmen.org/topic/30008-bush-planed-invasion-within-days-of-inauguration>
-- <https://companyofmen.org/topic/30013-caption-this>
-- <https://companyofmen.org/topic/30014-democrats-only-in-this-thread-please>
+- [Hitler &quot;MoveOn video&quot; typical Republican BS...](Doug69/29996-hitler-moveon-video-typical-republican-bs/index.html)  locally hosted
+- [Things you have to believe to be a Democrat](Doug69/30004-things-you-have-to-believe-to-be-a-democrat/index.html)  locally hosted
+- [What I have to believe to be and American.](Doug69/30006-what-i-have-to-believe-to-be-and-american/index.html)  locally hosted
+- [Bush Planed Invasion Within Days Of Inauguration](Doug69/30008-bush-planed-invasion-within-days-of-inauguration/page1.html)  locally hosted
+- [Caption This...](Doug69/30013-caption-this/index.html)  locally hosted
+- [Democrats ONLY in This Thread, Please](Doug69/30014-democrats-only-in-this-thread-please/index.html)  locally hosted
 - <https://companyofmen.org/topic/30017-interesting-endorsement>
 - <https://companyofmen.org/topic/30023-margaret-chos-hate-mail>
 - [Interesting column from former NYT Foreign Correspondent](Doug69/30026-interesting-column-from-former-nyt-foreign-correspondent/page2.html)  locally hosted
