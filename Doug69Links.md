@@ -455,48 +455,48 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - [Books](Doug69/30148-books/index.html)  locally hosted
 - [If Minnesota votes this way how are the rest of the states voting](Doug69/30149-if-minnesota-votes-this-way-how-are-the-rest-of-the-states-voting/index.html)  locally hosted
 - **[Abortions cause babies pain](https://web.archive.org/web/20211217044208/https://www.m4m-forum.org/topic/30150-abortions-cause-babies-pain)**  archive version
-- <https://companyofmen.org/topic/30159-this-says-a-lot>
-- <https://companyofmen.org/topic/30160-the-brown-shirts-are-coming>
-- <https://companyofmen.org/topic/30161-bush-thanks-veterans-then-cuts-their-health-care>
+- [This says a lot](Doug69/30159-this-says-a-lot/index.html)  locally hosted
+- [The brown shirts are coming](Doug69/30160-the-brown-shirts-are-coming/index.html)  locally hosted
+- [Bush Thanks Veterans, Then Cuts Their Health Care](Doug69/30161-bush-thanks-veterans-then-cuts-their-health-care/index.html)  locally hosted
 - <https://companyofmen.org/topic/30163-shock-liberals-dominate-the-media>
-- <https://companyofmen.org/topic/30167-the-first-divorced-president>
-- <https://companyofmen.org/topic/30168-france-criminalizes-gay-marriage>
-- <https://companyofmen.org/topic/30169-ronald-reagan>
-- <https://companyofmen.org/topic/30172-one-for-doug69-bush-disses-reagan>
-- <https://companyofmen.org/topic/30175-reagan-hatred-is-international>
-- <https://companyofmen.org/topic/30176-reagan-gays-aids>
-- <https://companyofmen.org/topic/30183-is-it-over-yet>
-- <https://companyofmen.org/topic/30188-american-funerals>
-- <https://companyofmen.org/topic/30193-60-minutes-bill-clinton>
-- <https://companyofmen.org/topic/30194-the-only-poll-that-counts-is-the-one-in-november>
+- [The first divorced President](Doug69/30167-the-first-divorced-president/index.html)  locally hosted
+- [France criminalizes gay marriage](Doug69/30168-france-criminalizes-gay-marriage/index.html)  locally hosted
+- [Ronald Reagan](Doug69/30169-ronald-reagan/page1.html)  locally hosted
+- [One for Doug69:  Bush Disses Reagan](Doug69/30172-one-for-doug69-bush-disses-reagan/index.html)  locally hosted
+- [Reagan Hatred is International!](Doug69/30175-reagan-hatred-is-international/index.html)  locally hosted
+- [Reagan, Gays &amp; AIDS](Doug69/30176-reagan-gays-aids/index.html)  locally hosted
+- [IS IT OVER YET?](Doug69/30183-is-it-over-yet/index.html)  locally hosted
+- [American funerals](Doug69/30188-american-funerals/index.html)  locally hosted
+- [60 Minutes - Bill Clinton](Doug69/30193-60-minutes-bill-clinton/page1.html)  locally hosted
+- [The only poll that counts is the one in November](Doug69/30194-the-only-poll-that-counts-is-the-one-in-november/index.html)  locally hosted
 - **[Fahrenheit 9/11](Doug69/30201-fahrenheit-911/page1.html)** locally hosted
 - [Bush misleads about transfer of power in Iraq](Doug69/30205-bush-misleads-about-transfer-of-power-in-iraq/page1.html)  locally hosted
-- <https://companyofmen.org/topic/30208-newsweek-moores-film-full-of-distortions>
-- <https://companyofmen.org/topic/30210-anti-gay-thought-crimes>
+- [Newsweek:  Moore&#039;s film full of distortions](Doug69/30208-newsweek-moores-film-full-of-distortions/index.html)  locally hosted
+- [Anti-gay Thought Crimes](Doug69/30210-anti-gay-thought-crimes/index.html)  locally hosted
 - [What vote?](Doug69/30221-what-vote/page1.html) locally hosted
 - [Kerry/Clinton Aide Steals 9/11 Documents](Doug69/30235-kerryclinton-aide-steals-911-documents/page1.html) locally hosted
 - [Dean Gets It Right](Doug69/30254-dean-gets-it-right/index.html)  locally hosted
-- <https://companyofmen.org/topic/30261-words-from-the-boss>
-- <https://companyofmen.org/topic/30263-as-only-a-reagan-can-say>
+- [Words from &quot;THE BOSS&quot;](Doug69/30261-words-from-the-boss/index.html)  locally hosted
+- [As only a Reagan can say...](Doug69/30263-as-only-a-reagan-can-say/index.html)  locally hosted
 - [Playing it safe at the DNC :(](https://web.archive.org/web/20211226222517/https://www.m4m-forum.org/topic/30266-playing-it-safe-at-the-dnc/) archive version
-- <https://companyofmen.org/topic/30269-keyes-versus-obama>
-- <https://companyofmen.org/topic/30278-mcgreevys-lovers-statement>
-- <https://companyofmen.org/topic/30279-new-jersey-dem-governor-mcgreevey-resigns-outs-himself>
-- <https://companyofmen.org/topic/30282-oneill-and-scarborough-republican-assholes>
-- <https://companyofmen.org/topic/30284-kerry-favors-war-even-with-no-wmds>
-- <https://companyofmen.org/topic/30290-swift-boat-vets-vs-the-truth>
-- <https://companyofmen.org/topic/30295-cheney-supports-gay-relationships>
-- <https://companyofmen.org/topic/30299-some-insight-into-log-cabin-republicans>
-- <https://companyofmen.org/topic/30310-a-day-in-the-life-of-joe-republican>
-- <https://companyofmen.org/topic/30311-im-a-economic-girlie-man>
-- <https://companyofmen.org/topic/30319-homophobia-is-sweeping-the-country>
-- <https://companyofmen.org/topic/30335-and-wait-til-60-minutes-next-week>
-- <https://companyofmen.org/topic/30340-is-there-a-positive-not-anti-bush-reason-to-vote-for-kerry>
-- <https://companyofmen.org/topic/30341-bushs-death-toll-now-over-1000>
-- <https://companyofmen.org/topic/30342-those-2-votes-for-bush-doug-and-fang>
-- <https://companyofmen.org/topic/30345-fin-fang-foom-on-gay-marriage>
-- <https://companyofmen.org/topic/30350-dan-rather-is-committing-professional-suicide-on-live-television>
-- <https://companyofmen.org/topic/30351-marines-letter>
+- [Keyes versus Obama](Doug69/30269-keyes-versus-obama/index.html)  locally hosted
+- [McGreevy&#039;s Lover&#039;s Statement](Doug69/30278-mcgreevys-lovers-statement/page1.html)  locally hosted
+- [New Jersey Dem Governor McGreevey Resigns, Outs himself.](Doug69/30279-new-jersey-dem-governor-mcgreevey-resigns-outs-himself/page2.html)  locally hosted
+- [O&#039;Neill and Scarborough --  Republican Assholes](Doug69/30282-oneill-and-scarborough-republican-assholes/index.html)  locally hosted
+- [Kerry favors war even with NO WMDs](Doug69/30284-kerry-favors-war-even-with-no-wmds/index.html)  locally hosted
+- [Swift Boat Vets Vs. the Truth](Doug69/30290-swift-boat-vets-vs-the-truth/index.html)  locally hosted
+- [Cheney supports gay relationships](Doug69/30295-cheney-supports-gay-relationships/page1.html)  locally hosted
+- [Some Insight Into Log Cabin Republicans](Doug69/30299-some-insight-into-log-cabin-republicans/index.html)  locally hosted
+- [A Day in the Life of Joe Republican](Doug69/30310-a-day-in-the-life-of-joe-republican/index.html)  locally hosted
+- [I&#039;m a Economic Girlie-Man!](Doug69/30311-im-a-economic-girlie-man/page1.html)  locally hosted
+- [Homophobia is Sweeping the Country](Doug69/30319-homophobia-is-sweeping-the-country/page1.html)  locally hosted
+- [And wait til &#039;60 Minutes&#039; next week!](Doug69/30335-and-wait-til-60-minutes-next-week/index.html)  locally hosted
+- [Is there a positive (not anti-Bush) reason to vote for Kerry?](Doug69/30340-is-there-a-positive-not-anti-bush-reason-to-vote-for-kerry/page1.html)  locally hosted
+- [Bush&#039;s Death Toll now over 1,000](Doug69/30341-bushs-death-toll-now-over-1000/index.html)  locally hosted
+- [Those 2 Votes for Bush -- Doug and Fang?](Doug69/30342-those-2-votes-for-bush-doug-and-fang/page1.html)  locally hosted
+- [Fin Fang Foom On Gay Marriage](Doug69/30345-fin-fang-foom-on-gay-marriage/index.html)  locally hosted
+- [Dan Rather Is Committing Professional Suicide On Live Television](Doug69/30350-dan-rather-is-committing-professional-suicide-on-live-television/page1.html)  locally hosted
+- [marine&#039;s letter](Doug69/30351-marines-letter/index.html)  locally hosted
 - <https://companyofmen.org/topic/30359-bush-hides-drug-use>
 - <https://companyofmen.org/topic/30361-national-guard-typist-speaks-out>
 - <https://companyofmen.org/topic/30364-even-dan-rather-admits-it>
