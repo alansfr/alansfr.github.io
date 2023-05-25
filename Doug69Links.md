@@ -422,38 +422,38 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - [Bush Planed Invasion Within Days Of Inauguration](Doug69/30008-bush-planed-invasion-within-days-of-inauguration/page1.html)  locally hosted
 - [Caption This...](Doug69/30013-caption-this/index.html)  locally hosted
 - [Democrats ONLY in This Thread, Please](Doug69/30014-democrats-only-in-this-thread-please/index.html)  locally hosted
-- <https://companyofmen.org/topic/30017-interesting-endorsement>
-- <https://companyofmen.org/topic/30023-margaret-chos-hate-mail>
+- [Interesting endorsement](Doug69/30017-interesting-endorsement/index.html)  locally hosted
+- [Margaret Cho&#039;s hate mail](Doug69/30023-margaret-chos-hate-mail/page1.html)  locally hosted
 - [Interesting column from former NYT Foreign Correspondent](Doug69/30026-interesting-column-from-former-nyt-foreign-correspondent/page2.html)  locally hosted
-- <https://companyofmen.org/topic/30032-dean-rant-muske-1972-redux>
-- <https://companyofmen.org/topic/30034-dean-cartoon>
-- <https://companyofmen.org/topic/30036-newsflash-cia-warns-of-iraq-civil-war>
+- [Dean Rant - Muske 1972 Redux?](Doug69/30032-dean-rant-muske-1972-redux/page1.html)  locally hosted
+- [Dean cartoon](Doug69/30034-dean-cartoon/index.html)  locally hosted
+- [NEWSFLASH:  CIA warns of Iraq civil war](Doug69/30036-newsflash-cia-warns-of-iraq-civil-war/index.html)  locally hosted
 - [Bushies stellar record](Doug69/30067-bushies-stellar-record/page1.html) locally hosted
 - [Remember when?](Doug69/30068-remember-when/index.html)  locally hosted
-- <https://companyofmen.org/topic/30070-dems-iraq-has-wmds>
+- [Dems:  Iraq has WMD&#039;s](Doug69/30070-dems-iraq-has-wmds/index.html)  locally hosted
 - [Kerry&#039;s Intern Explosion](Doug69/30071-kerrys-intern-explosion/page1.html)  locally hosted
-- <https://companyofmen.org/topic/30081-bush-installs-far-right-ideologue-to-court-of-appeals>
+- [Bush installs far-right ideologue to Court of Appeals](Doug69/30081-bush-installs-far-right-ideologue-to-court-of-appeals/page1.html)  locally hosted
 - [Bush backs anti-gay constitutional amendment](Doug69/30086-bush-backs-anti-gay-constitutional-amendment/page1.html)  locally hosted
-- <https://companyofmen.org/topic/30089-kerry-follows-bushs-lead-on-gay-marriage>
-- <https://companyofmen.org/topic/30090-barney-frank-opposes-sf-lawless-marriages>
-- <https://companyofmen.org/topic/30093-rep-corrine-brown-makes-racist-remarks-regarding-haiti>
-- <https://companyofmen.org/topic/30101-dean-campaign-not-a-pretty-picture>
-- <https://companyofmen.org/topic/30102-obl-already-caught>
-- <https://companyofmen.org/topic/30108-hehe-abomination>
-- <https://companyofmen.org/topic/30112-the-passion-of-the-christwho-has-seen-it-and-what-did-you-think>
-- <https://companyofmen.org/topic/30113-ashcroft-dead-or-alive>
-- <https://companyofmen.org/topic/30114-log-cabin-republicans-push-back>
+- [Kerry follows Bush&#039;s lead on Gay Marriage](Doug69/30089-kerry-follows-bushs-lead-on-gay-marriage/index.html)  locally hosted
+- [Barney Frank Opposes SF Lawless Marriages](Doug69/30090-barney-frank-opposes-sf-lawless-marriages/index.html)  locally hosted
+- [Rep. Corrine Brown makes racist remarks regarding Haiti](Doug69/30093-rep-corrine-brown-makes-racist-remarks-regarding-haiti/index.html)  locally hosted
+- [Dean Campaign: Not a Pretty Picture](Doug69/30101-dean-campaign-not-a-pretty-picture/index.html)  locally hosted
+- [OBL already caught??](Doug69/30102-obl-already-caught/index.html)  locally hosted
+- [Hehe... abomination.](Doug69/30108-hehe-abomination/index.html)  locally hosted
+- [The Passion of the Christ...Who has seen it and what did you think?](Doug69/30112-the-passion-of-the-christwho-has-seen-it-and-what-did-you-think/page2.html)  locally hosted
+- [Ashcroft:  Dead or Alive?](Doug69/30113-ashcroft-dead-or-alive/index.html)  locally hosted
+- [Log Cabin Republicans push back](Doug69/30114-log-cabin-republicans-push-back/index.html)  locally hosted
 - [Spain](Doug69/30116-spain/page2.html)  locally hosted
-- <https://companyofmen.org/topic/30123-more-evil-compliments-of-george-w-bush>
-- <https://companyofmen.org/topic/30136-drug-company-what-weve-done-for-you-lately>
-- <https://companyofmen.org/topic/30138-whos-running-against-bush>
-- <https://companyofmen.org/topic/30139-appeasement-in-europe>
-- <https://companyofmen.org/topic/30141-theres-gratitude-for-you>
-- <https://companyofmen.org/topic/30143-true-art>
+- [More evil compliments of George W. Bush](Doug69/30123-more-evil-compliments-of-george-w-bush/index.html)  locally hosted
+- [Drug Company:  What we&#039;ve done for you lately.](Doug69/30136-drug-company-what-weve-done-for-you-lately/page1.html)  locally hosted
+- [Whos running against Bush?](Doug69/30138-whos-running-against-bush/index.html)  locally hosted
+- [Appeasement in Europe](Doug69/30139-appeasement-in-europe/page1.html)  locally hosted
+- [THERE&#039;S GRATITUDE FOR YOU. . .](Doug69/30141-theres-gratitude-for-you/page1.html)  locally hosted
+- [True Art](Doug69/30143-true-art/index.html)  locally hosted
 - [Bush administration blocks Clinton&#039;s papers from 9/11 panel](Doug69/30144-bush-administration-blocks-clintons-papers-from-911-panel/index.html)  locally hosted
-- <https://companyofmen.org/topic/30146-the-wizard-of-oz-letter>
-- <https://companyofmen.org/topic/30148-books>
-- <https://companyofmen.org/topic/30149-if-minnesota-votes-this-way-how-are-the-rest-of-the-states-voting>
+- [The Wizard of Oz letter](Doug69/30146-the-wizard-of-oz-letter/index.html)  locally hosted
+- [Books](Doug69/30148-books/index.html)  locally hosted
+- [If Minnesota votes this way how are the rest of the states voting](Doug69/30149-if-minnesota-votes-this-way-how-are-the-rest-of-the-states-voting/index.html)  locally hosted
 - **[Abortions cause babies pain](https://web.archive.org/web/20211217044208/https://www.m4m-forum.org/topic/30150-abortions-cause-babies-pain)**  archive version
 - <https://companyofmen.org/topic/30159-this-says-a-lot>
 - <https://companyofmen.org/topic/30160-the-brown-shirts-are-coming>
