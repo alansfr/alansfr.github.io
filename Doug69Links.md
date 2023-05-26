@@ -570,7 +570,6 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - [Miers -- Flames from the Right](Doug69/30963-miers-flames-from-the-right/index.html)  locally hosted
 - [The GOP&#039;s Normalization of Treason](Doug69/30967-the-gops-normalization-of-treason/page1.html)  locally hosted
 - [Abprtion](Doug69/30971-abortion/page2.html) locally hosted
-- <https://companyofmen.org/topic/31544-october-suprise-bomb-iran>
 - **<https://companyofmen.org/topic/33947-establishing-yourself-in-brazil-basic-info>**
 - <https://companyofmen.org/topic/33973-dominant-twinks-and-other-fetishes>
 - <https://companyofmen.org/topic/34002-watersports-question>
