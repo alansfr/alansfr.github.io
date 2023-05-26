@@ -458,7 +458,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - [This says a lot](Doug69/30159-this-says-a-lot/index.html)  locally hosted
 - [The brown shirts are coming](Doug69/30160-the-brown-shirts-are-coming/index.html)  locally hosted
 - [Bush Thanks Veterans, Then Cuts Their Health Care](Doug69/30161-bush-thanks-veterans-then-cuts-their-health-care/index.html)  locally hosted
-- <https://companyofmen.org/topic/30163-shock-liberals-dominate-the-media>
+- [SHOCK:  Liberals dominate the media](Doug69/30163-shock-liberals-dominate-the-media/index.html)  locally hosted
 - [The first divorced President](Doug69/30167-the-first-divorced-president/index.html)  locally hosted
 - [France criminalizes gay marriage](Doug69/30168-france-criminalizes-gay-marriage/index.html)  locally hosted
 - [Ronald Reagan](Doug69/30169-ronald-reagan/page1.html)  locally hosted
@@ -526,49 +526,49 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - [got shame?](Doug69/30627-got-shame/page1.html)  locally hosted
 - [Church Thanks God for Tsunami](Doug69/30630-church-thanks-god-for-tsunami/index.html)  locally hosted
 - [European Bastards](Doug69/30632-european-bastards/page1.html)  locally hosted
-- <https://companyofmen.org/topic/30633-old-democrats-never-die-they-just-fade-away>
-- <https://companyofmen.org/topic/30636-john-conyers-mental-giant>
-- <https://companyofmen.org/topic/30642-islam-and-democracycontradictory-terms>
-- <https://companyofmen.org/topic/30678-hows-this-for-a-tax-deduction>
-- <https://companyofmen.org/topic/30679-capt-taylor-hiding-under-the-table>
-- <https://companyofmen.org/topic/30680-lets-celebrate-condi>
-- <https://companyofmen.org/topic/30684-take-action>
+- [Old Democrats Never Die They Just Fade Away...](Doug69/30633-old-democrats-never-die-they-just-fade-away/index.html)  locally hosted
+- [John Conyers - Mental Giant](Doug69/30636-john-conyers-mental-giant/index.html)  locally hosted
+- [Islam and Democracy...contradictory terms??](Doug69/30642-islam-and-democracycontradictory-terms/index.html)  locally hosted
+- [How&#039;s this for a tax deduction](Doug69/30678-hows-this-for-a-tax-deduction/index.html)  locally hosted
+- [Capt. taylor, hiding under the table](Doug69/30679-capt-taylor-hiding-under-the-table/index.html)  locally hosted
+- [Let&#039;s Celebrate Condi!!!!!!!!!](Doug69/30680-lets-celebrate-condi/page1.html)  locally hosted
+- [Take action!](Doug69/30684-take-action/index.html)  locally hosted
 - [Howard Dean as DNC Chair](https://web.archive.org/web/20220228013750/https://www.m4m-forum.org/topic/30687-howard-dean-as-dnc-chair/) archive version
 - [Poor Washed Up Ted Kennedy](https://web.archive.org/web/20220228014030/https://www.m4m-forum.org/topic/30688-poor-washed-up-ted-kennedy/) archive version
-- <https://companyofmen.org/topic/30689-an-apology-owed>
+- [An Apology Owed](Doug69/30689-an-apology-owed/index.html)  locally hosted
 - **[PROOF JEFF GANNON IS AN ESCORT](Doug69/30712-proof-jeff-gannon-is-an-escort/page1.html)** locally hosted
-- <https://companyofmen.org/topic/30722-journalists-attack-witch-hunt-defend-gannon>
-- <https://companyofmen.org/topic/30729-ritter-is-right>
+- [Journalists attack witch hunt, defend Gannon](Doug69/30722-journalists-attack-witch-hunt-defend-gannon/index.html)  locally hosted
+- [Ritter is right.](Doug69/30729-ritter-is-right/index.html)  locally hosted
 - [CALL YOUR SENATORS RE: GANNON!](Doug69/30737-call-your-senators-re-gannon/page2.html)  locally hosted
 - [George Bush and Gays](https://web.archive.org/web/20220228012702/https://www.m4m-forum.org/topic/30739-george-bush-and-gays/) archive version
-- <https://companyofmen.org/topic/30745-for-your-amusement-ann-coulter-defends-jeff-gannon>
+- [For your  amusement  &gt;&gt; Ann Coulter defends Jeff Gannon&lt;&lt;&lt;](Doug69/30745-for-your-amusement-ann-coulter-defends-jeff-gannon/index.html)  locally hosted
 - [why care????](Doug69/30746-why-care/page1.html)  locally hosted
-- <https://companyofmen.org/topic/30754-respect>
-- <https://companyofmen.org/topic/30756-as-usual-its-bushs-fault>
-- <https://companyofmen.org/topic/30771-last-minute-maneuvers-in-schiavo-case-santorum>
-- <https://companyofmen.org/topic/30780-does-anyone-have-a-link-to-the-actual>
-- <https://companyofmen.org/topic/30789-real-conservatives-v-the-religious-right>
-- <https://companyofmen.org/topic/30792-the-utter-hyprocrisy-of-bill-frist>
-- <https://companyofmen.org/topic/30793-flogged-and-blogged>
-- <https://companyofmen.org/topic/30795-conservatives-claimed-that-liberals-want-schiavo-to-die>
-- <https://companyofmen.org/topic/30799-judge-greer>
-- <https://companyofmen.org/topic/30803-a-voice-of-sanity-speaks-out>
-- <https://companyofmen.org/topic/30806-mad-dog-santorum-the-charade-continues>
-- <https://companyofmen.org/topic/30808-seeing-the-light-on-jesse-jackson>
-- <https://companyofmen.org/topic/30811-israeli-rabbis-anti-gay-bigotry>
-- <https://companyofmen.org/topic/30825-stranger-things-than-this-have-happened>
-- <https://companyofmen.org/topic/30828-threat-to-the-judiciary>
-- <https://companyofmen.org/topic/30830-conclave>
-- <https://companyofmen.org/topic/30838-delay-spins-out-of-control>
-- <https://companyofmen.org/topic/30861-spokane-mayor-outed>
-- <https://companyofmen.org/topic/30869-let-the-people-decide>
+- [respect](Doug69/30754-respect/index.html)  locally hosted
+- [As usual, it&#039;s BUSH&#039;S FAULT](Doug69/30756-as-usual-its-bushs-fault/page1.html)  locally hosted
+- [Last Minute Maneuvers in Schiavo Case &amp; Santorum](Doug69/30771-last-minute-maneuvers-in-schiavo-case-santorum/page1.html)  locally hosted
+- [Does anyone have a link to the actual ....](Doug69/30780-does-anyone-have-a-link-to-the-actual/index.html)  locally hosted
+- [Real conservatives v. the Religious Right](Doug69/30789-real-conservatives-v-the-religious-right/index.html)  locally hosted
+- [The Utter Hyprocrisy of Bill Frist](Doug69/30792-the-utter-hyprocrisy-of-bill-frist/index.html)  locally hosted
+- [Flogged and Blogged](Doug69/30793-flogged-and-blogged/page1.html)  locally hosted
+- [Conservatives claimed that liberals &quot;want&quot; Schiavo to die!](Doug69/30795-conservatives-claimed-that-liberals-want-schiavo-to-die/index.html)  locally hosted
+- [Judge Greer](Doug69/30799-judge-greer/page1.html)  locally hosted
+- [A Voice of Sanity Speaks Out](Doug69/30803-a-voice-of-sanity-speaks-out/index.html)  locally hosted
+- [Mad Dog Santorum:  The charade continues](Doug69/30806-mad-dog-santorum-the-charade-continues/page1.html)  locally hosted
+- [Seeing the Light on Jesse Jackson](Doug69/30808-seeing-the-light-on-jesse-jackson/index.html)  locally hosted
+- [Israeli Rabbis&#039; Anti-Gay Bigotry](Doug69/30811-israeli-rabbis-anti-gay-bigotry/index.html)  locally hosted
+- [Stranger things than this have happened.......](Doug69/30825-stranger-things-than-this-have-happened/page2.html)  locally hosted
+- [Threat to the Judiciary](Doug69/30828-threat-to-the-judiciary/index.html)  locally hosted
+- [Conclave](Doug69/30830-conclave/index.html)  locally hosted
+- [DeLay Spins Out of Control](Doug69/30838-delay-spins-out-of-control/page1.html)  locally hosted
+- [Spokane Mayor Outed](Doug69/30861-spokane-mayor-outed/page1.html)  locally hosted
+- [Let the people decide](Doug69/30869-let-the-people-decide/index.html)  locally hosted
 - **[Don't Post Anything Trilingual Doesn't Like](Doug69/30873-dont-post-anything-trilingual-doesnt-like/page1.html)** locally hosted
-- <https://companyofmen.org/topic/30924-god-bless-cindy-sheehan>
-- <https://companyofmen.org/topic/30933-nero-fiddled-while-rome-burned>
-- <https://companyofmen.org/topic/30941-clarence-thomas-to-get-top-job>
-- <https://companyofmen.org/topic/30952-bill-clinton-panders-to-the-poor>
-- <https://companyofmen.org/topic/30963-miers-flames-from-the-right>
-- <https://companyofmen.org/topic/30967-the-gops-normalization-of-treason>
+- [God Bless Cindy Sheehan](Doug69/30924-god-bless-cindy-sheehan/page2.html)  locally hosted
+- [Nero fiddled while Rome burned.](Doug69/30933-nero-fiddled-while-rome-burned/page2.html)  locally hosted
+- [Clarence Thomas To Get Top Job](Doug69/30941-clarence-thomas-to-get-top-job/index.html)  locally hosted
+- [Bill Clinton Panders To The Poor](Doug69/30952-bill-clinton-panders-to-the-poor/index.html)  locally hosted
+- [Miers -- Flames from the Right](Doug69/30963-miers-flames-from-the-right/index.html)  locally hosted
+- [The GOP&#039;s Normalization of Treason](Doug69/30967-the-gops-normalization-of-treason/page1.html)  locally hosted
 - [Abprtion](Doug69/30971-abortion/page2.html) locally hosted
 - <https://companyofmen.org/topic/31544-october-suprise-bomb-iran>
 - **<https://companyofmen.org/topic/33947-establishing-yourself-in-brazil-basic-info>**
