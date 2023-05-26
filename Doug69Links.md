@@ -518,7 +518,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - [Karl Rove thanks you](https://web.archive.org/web/20220228044245/https://www.m4m-forum.org/topic/30550-karl-rove-thanks-you/) archive version
 - [Is this fucked up or what?  Welcome to totalitarianism in American broadcasting](Doug69/30590-is-this-fucked-up-or-what-welcome-to-totalitarianism-in-american-broadcasting/page1.html)  locally hosted
 - [SorryEverybody](Doug69/30594-sorryeverybody/page1.html)  locally hosted
-- [~Won&#039;t see this on Fox News~](Doug69/30597-~wont-see-this-on-fox-news~/page1.html)  locally hosted
+- [~Won&#039;t see this on Fox News~](Doug69/30597-wont-see-this-on-fox-news/page1.html)  locally hosted
 - [Blue Versus Red, Part 2,983](Doug69/30599-blue-versus-red-part-2983/index.html)  locally hosted
 - [Look into Your Crystal Balls...](Doug69/30604-look-into-your-crystal-balls/index.html)  locally hosted
 - [More Musings by Morford](Doug69/30605-more-musings-by-morford/index.html)  locally hosted
