@@ -29,9 +29,10 @@ show_date: true
 
 <!-- by room16 -->
 
-## Translated from: _Um Sexual Predador Chamado Glenn Greenwald Ato I_  
-{: .notice--success}
+## Translated from: [_Um Sexual Predador Chamado Glenn Greenwald Ato I_](https://web.archive.org/web/20190803233836/https://bettercallglenn.com/um-predador-sexual-chamado-glenn-greenwald-ato-i) 
 
+This is a translation of an article that was published on a Brazilian website in 2019. Unlike much of the content of _MasterNotions_, we have not seen solid evidence for this, which claims to be primarily sourced by interview conducted by a Brazilian journalist. However a remarkable number of background details have turned out be verifiable despite being not publicly known, as explained [here](MoreBCG.md).
+{: .notice--danger}
 
 
 

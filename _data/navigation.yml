@@ -5,6 +5,9 @@ main:
   - title: Rio Sites
     description: sites Glenn owned & operated in Brazil
     url: /RioG.html
+  - title: Alts
+    description: Glenn's hidden profiles
+    url: /Doug69Links.html
   - title: Imagined Wins
     description: Pulitzers, Elections and Top of His Class.
     url: /SunSentinel.html    
@@ -17,9 +20,6 @@ main:
   - title: BetterCallGlenn
     description: Sites From Brazil
     url: /predator-part-1.html
-  - title: Evidence
-    description: Many paper trails
-    url: /boxcovers/  
   - title: Jake Jaxson
     description: Glenn's business partner 
     url: /Jason.html
@@ -29,6 +29,9 @@ main:
   - title: Glenn's Denials
     description: Interviews where Glenn mentions his porn business
     url: /interviews/
+  - title: Paper trails
+    description: Assorted documentary evidence
+    url: /boxcovers/  
   - title: Keira Knightley
     description: Creepy Billionaires in Crocs
     url: /Yuri.html
