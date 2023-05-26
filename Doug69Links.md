@@ -497,35 +497,35 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - [Fin Fang Foom On Gay Marriage](Doug69/30345-fin-fang-foom-on-gay-marriage/index.html)  locally hosted
 - [Dan Rather Is Committing Professional Suicide On Live Television](Doug69/30350-dan-rather-is-committing-professional-suicide-on-live-television/page1.html)  locally hosted
 - [marine&#039;s letter](Doug69/30351-marines-letter/index.html)  locally hosted
-- <https://companyofmen.org/topic/30359-bush-hides-drug-use>
-- <https://companyofmen.org/topic/30361-national-guard-typist-speaks-out>
-- <https://companyofmen.org/topic/30364-even-dan-rather-admits-it>
-- <https://companyofmen.org/topic/30365-log-cabin-repubs-kerry-better-than-bush-on-gay-issues>
-- <https://companyofmen.org/topic/30373-dan-blather-eats-crow>
-- <https://companyofmen.org/topic/30377-a-muslim-in-favor-of-peace-must-be-a-big-threat>
-- <https://companyofmen.org/topic/30383-man-of-peace-lets-murder-authors>
-- <https://companyofmen.org/topic/30389-your-choice-on-iraq>
-- <https://companyofmen.org/topic/30417-kerry-bush-and-i-are-the-same-on-gay-marriage>
-- <https://companyofmen.org/topic/30418-democratic-senator-calls-gop-faggots>
-- <https://companyofmen.org/topic/30421-pro-iraq-war-prime-minister-triumphs-in-election>
-- <https://companyofmen.org/topic/30438-canadian-gays-destroy-free-speech>
-- <https://companyofmen.org/topic/30518-victory-fuck>
-- <https://companyofmen.org/topic/30519-advice-for-you-suicidal-liberals>
-- <https://companyofmen.org/topic/30520-confess-your-paranoia-and-stupidity>
-- <https://companyofmen.org/topic/30521-victory-fuck>
-- <https://companyofmen.org/topic/30540-the-backlash-begins>
-- <https://companyofmen.org/topic/30548-the-king-is-dead>
+- [BUSH HIDES DRUG USE?](Doug69/30359-bush-hides-drug-use/page1.html)  locally hosted
+- [National Guard Typist Speaks Out](Doug69/30361-national-guard-typist-speaks-out/index.html)  locally hosted
+- [Even Dan Rather admits it](Doug69/30364-even-dan-rather-admits-it/index.html)  locally hosted
+- [Log Cabin Repubs: Kerry better than Bush on gay issues](Doug69/30365-log-cabin-repubs-kerry-better-than-bush-on-gay-issues/index.html)  locally hosted
+- [Dan Blather Eats Crow](Doug69/30373-dan-blather-eats-crow/index.html)  locally hosted
+- [A Muslim &quot;in favor of peace&quot; must be a big threat](Doug69/30377-a-muslim-in-favor-of-peace-must-be-a-big-threat/page1.html)  locally hosted
+- [Man of Peace:  Let&#039;s murder authors](Doug69/30383-man-of-peace-lets-murder-authors/index.html)  locally hosted
+- [Your choice on Iraq](Doug69/30389-your-choice-on-iraq/index.html)  locally hosted
+- [Kerry:  ;Bush and  I are the same on gay marriage](Doug69/30417-kerry-bush-and-i-are-the-same-on-gay-marriage/index.html)  locally hosted
+- [Democratic Senator calls GOP &quot;faggots&quot;](Doug69/30418-democratic-senator-calls-gop-faggots/index.html)  locally hosted
+- [Pro-Iraq-War Prime Minister Triumphs in Election](Doug69/30421-pro-iraq-war-prime-minister-triumphs-in-election/index.html)  locally hosted
+- [Canadian Gays Destroy Free Speech](Doug69/30438-canadian-gays-destroy-free-speech/index.html)  locally hosted
+- [Victory Fuck!!!!!!!!!!!!!!](Doug69/30518-victory-fuck/index.html)  locally hosted
+- [Advice for you suicidal liberals](Doug69/30519-advice-for-you-suicidal-liberals/index.html)  locally hosted
+- [Confess your paranoia and stupidity](Doug69/30520-confess-your-paranoia-and-stupidity/index.html)  locally hosted
+- [Victory Fuck!!!!](Doug69/30521-victory-fuck/index.html)  locally hosted
+- [The Backlash Begins](Doug69/30540-the-backlash-begins/page2.html)  locally hosted
+- [The King is Dead!!](Doug69/30548-the-king-is-dead/index.html)  locally hosted
 - [Karl Rove thanks you](https://web.archive.org/web/20220228044245/https://www.m4m-forum.org/topic/30550-karl-rove-thanks-you/) archive version
-- <https://companyofmen.org/topic/30590-is-this-fucked-up-or-what-welcome-to-totalitarianism-in-american-broadcasting>
-- <https://companyofmen.org/topic/30594-sorryeverybody>
-- <https://companyofmen.org/topic/30597-~wont-see-this-on-fox-news~>
-- <https://companyofmen.org/topic/30599-blue-versus-red-part-2983>
-- <https://companyofmen.org/topic/30604-look-into-your-crystal-balls>
-- <https://companyofmen.org/topic/30605-more-musings-by-morford>
-- <https://companyofmen.org/topic/30624-ding-dong-reggie-white-is-dead>
-- <https://companyofmen.org/topic/30627-got-shame>
-- <https://companyofmen.org/topic/30630-church-thanks-god-for-tsunami>
-- <https://companyofmen.org/topic/30632-european-bastards>
+- [Is this fucked up or what?  Welcome to totalitarianism in American broadcasting](Doug69/30590-is-this-fucked-up-or-what-welcome-to-totalitarianism-in-american-broadcasting/page1.html)  locally hosted
+- [SorryEverybody](Doug69/30594-sorryeverybody/page1.html)  locally hosted
+- [~Won&#039;t see this on Fox News~](Doug69/30597-~wont-see-this-on-fox-news~/page1.html)  locally hosted
+- [Blue Versus Red, Part 2,983](Doug69/30599-blue-versus-red-part-2983/index.html)  locally hosted
+- [Look into Your Crystal Balls...](Doug69/30604-look-into-your-crystal-balls/index.html)  locally hosted
+- [More Musings by Morford](Doug69/30605-more-musings-by-morford/index.html)  locally hosted
+- [Ding Dong Reggie White is dead](Doug69/30624-ding-dong-reggie-white-is-dead/index.html)  locally hosted
+- [got shame?](Doug69/30627-got-shame/page1.html)  locally hosted
+- [Church Thanks God for Tsunami](Doug69/30630-church-thanks-god-for-tsunami/index.html)  locally hosted
+- [European Bastards](Doug69/30632-european-bastards/page1.html)  locally hosted
 - <https://companyofmen.org/topic/30633-old-democrats-never-die-they-just-fade-away>
 - <https://companyofmen.org/topic/30636-john-conyers-mental-giant>
 - <https://companyofmen.org/topic/30642-islam-and-democracycontradictory-terms>
