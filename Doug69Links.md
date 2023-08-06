@@ -3,8 +3,9 @@ layout: single
 classes: wide
 title: The Forgotten Posts of Glenn Greenwald
 header:
-  og_image: /assets/images/RT.jpg
-excerpt: There is absolutely no more justification for murdering a baby if conceived due to rape or incest as...
+  overlay_image: /assets/images/RTLarge.jpg
+  overlay_filter: linear-gradient(9deg, rgba(150,0,0,0.16), rgba(220,0,0,0.01))
+excerpt: \"There is absolutely no more justification for murdering a baby if conceived due to rape or incest as...\"
 description: Threads with contributions from Doug69
 page_css:
  - assets/css/links.css
