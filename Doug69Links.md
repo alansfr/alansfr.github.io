@@ -58,6 +58,7 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - **<https://www.companyofmen.org/topic/17511-hairiest-escort-on-earth/page/2>** He explains how HairyStudsVideo also acts as an escort agency
 - <https://www.companyofmen.org/topic/5531-axe-to-grind/page/2/>
 - <https://www.companyofmen.org/topic/5502-need-help-on-palm-springs/>
+- <https://www.companyofmen.org/topic/5545-modesto-manure-man-scott-peterson/>, where Glenn aka Max describes his clients as "old pigs".
 
 
 ### Doug69 Links
