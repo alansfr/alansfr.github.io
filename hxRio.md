@@ -58,7 +58,7 @@ HX was an influential magazine and the kind of publicity these promotional puff 
 
 
 <div>
-<iframe src="/hxRio/web.archive.org/web/20060323124950if_/http:/www.hx.com/features/indexRio.html" width="100%" height="1500px" allow-forms="false" scrolling="no" id="NameIsRio"></iframe>
+<iframe src="/hxRio/web.archive.org/web/20060323124950if_/http:/www.hx.com/features/indexRio.html" width="100%" height="1500px" allow-forms="false" scrolling="yes" id="NameIsRio"></iframe>
 </div>
 
 
