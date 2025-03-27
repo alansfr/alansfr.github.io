@@ -136,7 +136,7 @@ The court documents showed that Master Notions, which operated the porn brands H
 _One of the very few published updates to this story, which appeared in Washington Babylon in 2021,   we've put here too._{: .notice--info}
 
 {% include feature_row id="feature_row2" %}
-[Alternative Link to NY Daily News article](https://www.pressreader.com/usa/new-york-daily-news/20130627/281616712946068)
+[Alternative Link to NY Daily News article](https://archive.ph/2HKKM)
 
 
 
