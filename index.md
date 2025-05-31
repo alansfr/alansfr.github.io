@@ -53,7 +53,7 @@ feature_row2:
     btn_class: "btn--danger"
     title: "NY Daily News, 2013"
   - image_path: assets/images/Babylon.png
-    url: "https://washingtonbabylon.com/you-remember-carlos-danger-right-meet-hairy-studs-glenn-greenwalds-alter-ego-it-matters/"
+    url: "https://archive.ph/9Emcf"
     btn_label: "Meet Hairy Studs"
     btn_class: "btn--info"
     title: "Washington Babylon 2021"
