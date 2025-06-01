@@ -9,7 +9,7 @@ canoncial_url: https://greenwald.sobstack.com
 og_url: greenwald.sobstack.com
 header:
   overlay_image: assets/images/CrazyDesk.jpg
-  og_image: assets/images/GlennDeskSharp.jpg
+  og_image: assets/images/GlennDeskQuote.jpg
   og_url: greenwald.sobstack.com
   url: greenwald.sobstack.com
   actions:
