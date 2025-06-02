@@ -5,9 +5,9 @@
 {% capture video_src %}
   {% case video_provider %}
   {% when "vimeo" %}
-    https://vimeo.com/{{ video_id }}
+    https://player.vimeo.com/video/{{ video_id }}?dnt=true
   {% when "youtube" %}
-    https://www.youtube.com/watch?v={{ video_id }}
+    https://www.youtube-nocookie.com/embed/{{ video_id }}
   {% when "google-drive" %}
     https://drive.google.com/file/d/{{ video_id }}/preview
   {% when "local" %}

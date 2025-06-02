@@ -29,7 +29,7 @@ atom_feed:
   hide: true
 after_footer_scripts:
   - assets/js/videogal.js
-    assets/js/afoot.js
+  - assets/js/afoot.js
 analytics:
   provider: "google-gtag"
   google:

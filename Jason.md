@@ -46,7 +46,7 @@ videogallery:
     excerpt: In this 2013 interview, Jason talks about his business partner.
     im: interview.png
 after_footer_scripts:
-  - /assets/js/videogal.js
+  - assets/js/videogal.js
 ---
 
 

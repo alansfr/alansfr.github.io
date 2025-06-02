@@ -1,10 +1,10 @@
 $(document).ready(function() {
     $('.popup-youtube, .popup-vimeo, .popup-local').magnificPopup({
         type: 'iframe',
-        disableOn: 350,
+        disableOn: 700,
         mainClass: 'mfp-fade',
 		removalDelay: 160,
-		preloader: true,
+		preloader: false,
         key: 'vids',
 		fixedContentPos: false,
         gallery:{

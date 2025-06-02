@@ -64,7 +64,7 @@ pop-video:
     provider: local
 share: true
 after_footer_scripts:
-  - /assets/js/videogal.js
+  - assets/js/videogal.js
 ---
 
 
