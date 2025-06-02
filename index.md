@@ -70,7 +70,7 @@ after_footer_scripts:
 
 
 
-We are here to chronicle the life of our antihero, Glenn Greenwald, especially the parts he either avoids talking about, or disguises with elaborate lies.
+Anyone looking for the video posted to X by Master Ferraz and Retweeted by Glenn can find a link to a copy someone posted to Rumble [below](#maid). **NEW**{: .vnew} 
 
 
 # Glenn's Pornography and Prostitution Businsesses 
@@ -79,7 +79,7 @@ We are here to chronicle the life of our antihero, Glenn Greenwald, especially t
 
 To start, take a look at [His Name is Rio](hxRio.md){: .btn .btn--success} written under Glenn's own byline in 2006.
 
-Even after we knew it existed, it was one of the hardest things to find on the Internet Archive, By then, we already knew that the owner and operator of RioGayGuides and RioMaleEscorts which it promotes [was really Glenn](/PimpEvidence/) **NEW**{: .vnew}.
+Even after we knew it existed, it was one of the hardest things to find on the Internet Archive, By then, we already knew that the owner and operator of RioGayGuides and RioMaleEscorts which it promotes [was really Glenn](/PimpEvidence/).
 {: .notice--warning}
 
 
@@ -95,8 +95,12 @@ The sites themselves describe the owners, and David Miranda's email address and 
 {% include feature_row %}
 
 
-<br>{: .cl}
 
+### Hairy Studs Video and Studmall
+
+In progress. Currently we don't have much content from these, Glenn's main porn sites from the 00s, on here. Much of it is preserved on the Internet archive, although do note the [New York Daily News article](https://archive.ph/2HKKM) described below incorrectly gives the address as _hairystuds.com_. A revealing page to start with is [here](https://web.archive.org/web/20030414183117/http://www.hairystudsvideo.com/riotrip.htm).
+
+<br>{: .cl}
 
 Before delving further into Glenn's involvement with Studmall, and the manifest lie that he was the legal coffee boy who left the porn business behind in 2004 before leaving for Brazil, we note one detail that leads to a whole lot more, including **Glenn's cheering on the Iraq War as it happened**.
 
@@ -122,7 +126,20 @@ Highlights include:
 </div >
 {: .notice--success}
   
+## What's Glenn's Best Movie?
+{: #maid}
 
+We're not really a movie review site.  
+More of a _This Movie Really Exists and Glenn Really Produced It?_ site. 
+
+But _Foot In Mouth_ starring Maid Glenn and Master Ferraz is the most in-demand right now. **NEW**{: .vnew .align-right}  
+Finally Glenn got us to include a video on Rumble!
+
+
+
+<div class="vide">
+{% include video id="v6rvoz3" provider="rumble" %}
+</div>
 
 
 
@@ -186,8 +203,7 @@ and the [Gay Erotic Video Index Studmall listing](https://www.gayeroticvideoinde
 > For the original uncensored image see the [Gallery of Box Covers](/boxcovers/.)
 {: .align-left}
 
-<br>
-{: .cl}
+<br>{: .cl}
 
 ## Brazilian Reporting
 
@@ -262,15 +278,6 @@ but we just call him [Jason Sketchy](Jason.md).
 
 
 
-### What's Glenn's Best Movie?
-
-We're not really a movie review site.  
-More of a _This Movie Really Exists and Glenn Really Produced It?_ site.
-
-But since you asked, we're currently fond of this. 
-<video controls width="720">
-<source src="/assets/video/GreenCat.mp4" type="video/mp4">
-</video>
 
 # Other Sites About Glenn
 
