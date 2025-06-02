@@ -23,7 +23,7 @@ videogallery:
     im: floor.jpg
     title: "Full Q&A" 
 after_footer_scripts:
-  - /assets/js/videogal.js
+  - assets/js/videogal.js
 ---
 Many others have devoted webpages, or in some cases entire sites, to pointing out Glenn's faults: his anti-fans.  In fact the only people with more devoted anti-fans than Glenn are, or have at some point been, autocratic dictators of fair-sized nations.  
 Here we catalog some of those pages and similar material, loosely arranged by subject matter.

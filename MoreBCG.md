@@ -37,18 +37,19 @@ We have found strong supporting evidence for many of these details, in some case
 | --- | --- | --- | --- |
 | Employed undocumented immigrants  with poor English, taking advantage of them | Max. "Drop the Minder" | Likely |  |
 | Some Workers were engaged on an ongoing basis rather than the norm of one-off porn scenes. Work included other more general commerical sexual activity(\"erotic experiments\") | Max | Proven |  |
-| Extensively into heavy bondage S/M | Reference to keeping slaves | Conclusive | |
+| Strong emphasis on heavy BDSM | Reference to keeping slaves on M4M forums. Heavy D/S scence released on video with Glenn | Conclusive, now (2025) public. | |
 | Glenn demanded to be called by an assumed **master** name, specifially Herr Dom or DomMascHry31 | Some evidence in M4M chat including DomBrazHry27 | Some supporting evidence | |
 | Commericial offerings involved Cam sex perfomances under Glenn's directed | [Advertised on HSV](/assets/images/TuckerChat.png) | Proven | Highly Unusual |
 | Glenn blackmailed Peter Haas | None specific, for or against | Unproven | |
 | Greenwald dressed as an SS General | Obsession with keeping sex slaves and clearly advertising through discreet channels; also painting of Glenn in military uniform (but not SS) exists, which seems odd | Unproven. Mild evidence in favor |  |
-| Glenn sometimes referred to his performers as slaves | M4M chat | Proven | Highly unusual |
+| Glenn sometimes referred to his performers as slaves | [M4M chat](https://www.companyofmen.org/topic/3656-hairy-athlete-types/) (fifth item down) | Proven | Highly unusual |
 | Commerical activities involved violent, non-consensual, sex | hinted at in M4M forums  and theme is present in some porn output from NYC and Sauna Boys 3 | Considerable | |
 | Sexual obsession with Nazis | No direct evidence, but Glenn was definitely a Nazi defender. Also allegedly claimed by another witness |
-| Glenn was a terrifying monster but sometimes \"practiced sex being dominated and passive\" |  Supported by DataLounge gossip, independent | Plausible |  |
+| Glenn was a terrifying monster but sometimes \"practiced sex being dominated and passive\" |  Supported by DataLounge gossip, demonstrated on video released to Twitter by Master Ferraz, May 2025 | Proven |  |
 | Clients for the business were found in chat rooms | admitted by Glenn in Hairwire of M4M | very strong support | |
 | Glenn's aim in Rio in early 2005 was to find Studmall actors | Video output in Mid-2005 | Proven beyonnd a doubt | not at all what Glenn told _NY Daily News_ |
 | Glenn felt he would struggle in Rio in 2005 with full-time assistance of a trustworhy assistant who could recruit and blend in | Very very plausible, but something only a gay gringo would know, unlikely to have been invented by a BCG journalist | Strong evidence this wasn't casually invented but not consistent with having David's full-time support guaranteed | |
+| Drug use during sex | Some support from Doug69 familiarity on M4M forums. Clear on Master Ferraz video 2025 | Proven | Common |
 
 
 ---

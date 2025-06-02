@@ -54,7 +54,7 @@ After meeting at a nightclub, Greenwald gave his card to RZ, a card from Master 
 
 The place where RZ was supposed to film, with a director specializing in actors and actresses not yet 'experts' in adult films and how to behave to and from the camera, was a typical cruising bar hellhole. The amount of products used for the practice of Sadomasochism, or BDSM, as it is better known, captured  the attention of RZ.
 
-In the presentation, Greenwald demanded to be called solely and solely: Herr DomMascHry31, or just Herr DOM. The [obsession nazistóide][1] Greenwald (a Jew who hates Judaism, Israel, Christianity, but with a strong penchant for Islam and the idea of submission and domination ... is already public knowledge domain and the face Jeffrey Dahmer Glenn).
+In the presentation, Greenwald demanded to be called solely and solely: Herr DomMascHry31, or just Herr DOM. The [obsession nazistóide][1] Greenwald (a Jew who hates Judaism, Israel, Christianity, but with a strong penchant for Islam and the idea of submission and domination ... The Jeffrey Dahmer face of Glenn is already well-known.).
 
 'I didn't know his real name and continued not knowing until I saw him on TV years and years later in an NBC story on George W Bush's elections. After years of good health without panic attacks, the sight of Greenwald triggered all the perverse memories that Verdevaldo and his partner Buchtel had inflicted on the then young 20-something.'
 
