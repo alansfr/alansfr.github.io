@@ -1,0 +1,10 @@
+/* Colors */
+
+html > * {
+	background-color: #100010;
+	color: #240000;
+}
+
+#site-nav  {
+	background-color: #dc4f00 !important;
+}

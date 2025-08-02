@@ -15,8 +15,11 @@ $sans-serif: "Helvetica Neue","Gill Sans", -apple-system, BlinkMacSystemFont, "R
 
 
 
-
+{% if page.minimal_mistakes_skin %}
+@import "minimal-mistakes/skins/{{ page.minimal_mistakes_skin }}";
+{% else %}
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+{% endif %}
 @import "minimal-mistakes"; // main partials
 
 
@@ -55,9 +58,13 @@ $sans-serif: "Helvetica Neue","Gill Sans", -apple-system, BlinkMacSystemFont, "R
 video {
     /* override other styles to make responsive */
     max-width: 100%    !important;
+    max-height: 100%    !important;
     height: auto   !important;
   }
 
+.video-content {
+  height:95vh;
+} 
 
 .vidtitle {
   text-align: center !important; 
