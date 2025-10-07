@@ -60,11 +60,20 @@ video {
     max-width: 100%    !important;
     max-height: 100%    !important;
     height: auto   !important;
+    display: block;
+    margin: 10px;
   }
 
 .video-content {
-  height:95vh;
+  height:90vh;
 } 
+
+::cue {
+  background-color: rgba(0.0,0.0,0.1,0.6);
+  color: lightgoldenrodyellow;
+}
+
+
 
 .vidtitle {
   text-align: center !important; 

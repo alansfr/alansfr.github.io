@@ -11,5 +11,6 @@ page_css:
 <div class="video-content">
 <video width="720" controls="">
     	<source src="assets/video/foot.mp4" type="video/mp4">
+		<track kind="subtitles" src="assets/video/foot.pt.vtt" srclang="pt" default />
  </video>
  </div>
