@@ -8,3 +8,7 @@ html > * {
 #site-nav  {
 	background-color: #dc4f00 !important;
 }
+
+.page__footer  {
+	background-color: #dc5f00 !important;
+}
