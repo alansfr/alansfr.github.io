@@ -61,15 +61,25 @@ video {
     max-height: 100%    !important;
     height: auto   !important;
     display: block;
-    margin: 10px;
+    padding: 10px;
   }
 
 .video-content {
   height:92vh;
 } 
 
+.video-content video:playing {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  height: 100vh !important;
+  min-width: 100%;
+  overflow:visible;
+}
+
 ::cue {
-  background-color: rgba(0.0,0.0,0.1,0.6);
+  background-color:rgba(#003322,0.5) !important;
   color: lightgoldenrodyellow;
 }
 
