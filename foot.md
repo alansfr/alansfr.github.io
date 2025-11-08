@@ -15,6 +15,8 @@ videogallery:
       - file: foot.pt.vtt
         lang: pt
         default: true
+      - file: foot.en.vtt
+        lang: en  
 excerpt: Glenn's famous retweet.
 pv:
   id: foot.mp4
