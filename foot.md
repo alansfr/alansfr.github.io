@@ -32,5 +32,5 @@ after_footer_scripts:
 
 
 
-{% include videogallery %}
+{% include videogallery type="center" %}
 

@@ -35,6 +35,11 @@ $sans-serif: "Helvetica Neue","Gill Sans", -apple-system, BlinkMacSystemFont, "R
     }
   }
 
+.openVideo img {
+  max-height: 600px;
+  width: auto;
+}
+
 
 
 
@@ -67,6 +72,15 @@ video {
 .video-popup video {
   max-height: 98vh !important;
 }
+
+.feature__item--center.vwrap {
+  max-height: 60vh;
+  display:grid;
+};
+
+.feature__item--center img {
+  height: 100%;
+};
 
 .fill {
   object-fit: fill;
