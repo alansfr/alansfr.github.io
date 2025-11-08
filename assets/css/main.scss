@@ -61,14 +61,45 @@ video {
     max-height: 100%    !important;
     height: auto   !important;
     display: block;
-    padding: 10px;
+    padding: 5px;
   }
+
+.video-popup video {
+  max-height: 98vh !important;
+}
+
+.fill {
+  object-fit: fill;
+}
+
+.contain {
+  object-fit: contain;
+}
+
+.cover {
+  object-fit: cover;
+}
+
+.none {
+  object-fit: none;
+}
+
+.scale-down {
+  object-fit: scale-down;
+}  
 
 .video-content {
   height:92vh;
 } 
 
-.video-content video:playing {
+.video-popup {
+  max-height: 95vh !important;
+  padding: 5px;
+  position: relative;
+  width: auto;
+}
+
+ .video-content video:playing {
   position: fixed;
   top: 0;
   left: 0;

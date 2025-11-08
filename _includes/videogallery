@@ -15,7 +15,7 @@
         {% endif %}
 
           <div class="feature__item-teaser">
-              {% include pop-video id=f.id provider=f.provider im=f.im title=f.title %}
+              {% include pop-video id=f.id provider=f.provider im=f.im title=f.title subtitles=f.subtitles %}
           </div>  
 
       

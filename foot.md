@@ -9,14 +9,28 @@ page_css:
 videogallery:
   - id: foot.mp4
     provider: local
-    im: oz.jpg
+    im: MaidGlenn.jpg
     title: Master Ferraz
-    excerpt: Glenn's famous retweet.
+    subtitles: 
+      - file: foot.pt.vtt
+        lang: pt
+        default: true
+excerpt: Glenn's famous retweet.
+pv:
+  id: foot.mp4
+  provider: local
+  im: MaidGlenn.jpg
+  title: Master Ferraz
+  subtitles: 
+    - file: foot.pt.vtt
+      lang: pt
+      default: true
+after_footer_scripts:
+  - assets/js/videogal.js
 ---
 
-<div class="video-content">
-<video width="720" controls="">
-    	<source src="/assets/video/foot.mp4" type="video/mp4">
-		<track kind="subtitles" src="assets/video/foot.pt.vtt" srclang="pt" default />
- </video>
- </div>
+
+
+
+{% include videogallery %}
+

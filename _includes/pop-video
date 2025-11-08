@@ -2,6 +2,7 @@
 {% capture video_provider %}{{ include.provider }}{% endcapture %}
 {% capture video_danmaku %}{{ include.danmaku | default: 0 }}{% endcapture %}
 
+
 {% capture video_src %}
   {% case video_provider %}
   {% when "vimeo" %}
@@ -21,10 +22,32 @@
 <!-- Courtesy of embedresponsively.com //-->
 {% unless video_src == "" %}
 
+{% if video_provider == "local" %}
+
+<a href="#video-01" class="openVideo">
+<img src="/assets/images/{{include.im}}">
+</a>
+<div id="video-01" class="video-popup mfp-hide">
+    <video controls preload="metadata" poster="/assets/images/{{include.im}}">
+        <source src="{{ video_src }}" type="video/mp4">
+        {% if include.subtitles %}
+          {% for sub in include.subtitles %}
+            <track kind="subtitles" src="assets/video/{{sub.file}}"
+            srclang="{{sub.lang}}" {% if sub.default %} default {% endif %}/>
+          {% endfor %}
+        {% endif %}
+    </video>
+</div>
+
+
+{% else %}
+
   <a href="{{ video_src }}" class="popup-{{include.provider}} videolink" >
     <img src="/assets/images/{{include.im}}" class="modcard">
     <div class="video__overlay">
       <img src="assets/images/playbutton.png" class="videobutton">
     </div>
   </a>
+
+  {% endif %}
 {% endunless %}
