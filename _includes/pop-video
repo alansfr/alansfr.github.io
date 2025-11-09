@@ -33,7 +33,7 @@
         {% if include.subtitles %}
           {% for sub in include.subtitles %}
             <track kind="subtitles" src="assets/video/{{sub.file}}"
-            srclang="{{sub.lang}}" {% if sub.default %} default {% endif %}/>
+            srclang="{{sub.lang}}" {% if sub.default %} default id="deftrack" {% endif %}/>
           {% endfor %}
         {% endif %}
     </video>
