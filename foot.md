@@ -15,6 +15,8 @@ videogallery:
       - file: foot.pt.vtt
         lang: pt
         default: true
+      - file: foot.en.vtt
+        lang: en  
 excerpt: Glenn's famous retweet.
 pv:
   id: foot.mp4
@@ -40,18 +42,27 @@ after_footer_scripts:
 <script>
 // if the page url has a query string
 $( document ).ready(function(){
+
+var trp = document.getElementById("track-pt");
+var tre = document.getElementById("track-en");
+var vid = document.querySelector("video");
+var lang = "pt";
 if(window.location.search){
   // get all url search params from the query string
   const urlParams = new URLSearchParams(window.location.search);
+  urllang = urlParams.get('lang');
+  if(urllang && urllang == "en")
+    lang = "en";
+}
 
-  const lang = urlParams.get('lang');
-  if(lang == "en"){
-    var tr = document.getElementById("deftrack");
-    tr.srclang = "en";
-    tr.src = "assets/video/foot.en.vtt"
+if(lang == "en"){
+  trp.remove();
+  tre.default = true;
+  var track = vid.textTracks && vid.textTracks[0];
+  track.mode = "showing";
   }
-  // get the value of the 'company' search param
- 
+else{
+  tre.remove();    
 }
 });
 </script>
