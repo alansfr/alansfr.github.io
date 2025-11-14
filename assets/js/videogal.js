@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $('.popup-youtube, .popup-vimeo').magnificPopup({
+    $('.popup-youtube, .popup-vimeo, .popup-embed, .popup-legacy').magnificPopup({
         type: 'iframe',
         disableOn: 700,
         mainClass: 'mfp-fade',
@@ -15,7 +15,7 @@ $(document).ready(function() {
     $('.openVideo').magnificPopup({
     type: 'inline',
     key: "mainvid",
-    fixedContentPos: false,
+    fixedContentPos: true,
     alignTop: true,
     preloader: false,
     removalDelay: 100,

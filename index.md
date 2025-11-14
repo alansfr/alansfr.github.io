@@ -57,11 +57,12 @@ feature_row2:
     btn_label: "Meet Hairy Studs"
     btn_class: "btn--info"
     title: "Washington Babylon 2021"
-pop-video:
-  - id: davidcor.mp4
+videogallery:
+  - id: foot.mp4
+    provider: legacy
     im: oz.jpg
-    title: "David is Canceled"
-    provider: local
+    title: David is Canceled
+    excerpt: Candidacy withdrawn
 share: true
 after_footer_scripts:
   - assets/js/videogal.js
@@ -319,25 +320,29 @@ The Sun Sentinel in 1985 [reported](SunSentinel.md) on Glenn's attempts to win h
 That's the _self-taught, deprived childhood_ myth, shattered.
 Other links to news articles from Glenn's early life are also here.
 
+
+
 # Further Info
   _This site is incomplete_.  
 
 For those in search of further details and evidence, here are some starting points with [threads about Glenn on Twitter](TwitterThreads.md){: .btn .btn--success}.
 
 
-{::comment}
+
 # Breaking News
 
+{% include videogallery  %}
 <figure class="feature__item">
 <div class="feature_item-teaser">
-include pop-video id="davidcor.mp4" provider="local" im="oz.jpg" prev="Glennvid.png" 
+{% include pop-video  %}
 </div>
 </figure>
 On September 20, 2022, Glenn's announced that David's candidacy for re-election has been withdrawn.  
 David allegedly remains in ICU, where he has been for the past six weeks,  
 although the only source for thie is Glenn.
 
-{:/}
+
+
 
 # Under Development
 

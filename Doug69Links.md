@@ -262,7 +262,8 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 - <https://companyofmen.org/topic/13680-defining-party-in-2003>
 - <https://companyofmen.org/topic/13696-threading-the-needle>
 - **<https://companyofmen.org/topic/13701-shaving>**
-- <https://companyofmen.org/topic/13703-dealing-with-tweaker-clients>
+- **<https://companyofmen.org/topic/13703-dealing-with-tweaker-clients>**  
+<span>In which Glenn explains "escorts can make lots and lots of money from sexually hungry, eager guys using crystal", twenty-one years before he paid someone R$10,000 to lick his foot.</span>{: .notice--info}
 - <https://companyofmen.org/topic/13781-411-on-rimchairsseats>
 - <https://companyofmen.org/topic/13790-life-after-escorting>
 - <https://companyofmen.org/topic/13918-would-you-out-scott-mcclellan>
