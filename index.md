@@ -71,7 +71,11 @@ after_footer_scripts:
 
 
 
-Anyone looking for the video posted to X by Master Ferraz and Retweeted by Glenn can find a link to a copy someone posted to Rumble [below](#maid). **NEW**{: .vnew} 
+
+
+Anyone looking for the video posted to X by Master Ferraz, Retweeted by Glenn, and deleted from Xitter with blinding speed by Elon, can find a link to a copy on Rumble [below](#maid).  
+A version with subtitle available (in English and Portuguese) will be available, by popular request, in the next day or two. **COMING VERY SOON**{: .vnew}
+{: .notice--danger}
 
 
 # Glenn's Pornography and Prostitution Businsesses 
@@ -325,9 +329,13 @@ Other links to news articles from Glenn's early life are also here.
 # Further Info
   _This site is incomplete_.  
 
-For those in search of further details and evidence, here are some starting points with [threads about Glenn on Twitter](TwitterThreads.md){: .btn .btn--success}.
+For those in search of further details and evidence, here are some starting points with [threads about Glenn on Twitter](TwitterThreads.md){: .btn .btn--success}.  
+If you wish to speed this process up, you know what to do!
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="masternotions" data-color="#40d5a8" data-emoji="☕"  data-font="Comic" data-text="Site development accelerator" data-outline-color="#ddffee" data-font-color="#221111" data-coffee-color="#773f22" ></script>
 
 
+
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="masternotions" data-description="Support me on Buy me a coffee!" data-message="New Tip Feature!" data-color="#28e0af" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
 
 
