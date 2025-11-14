@@ -19,3 +19,9 @@
     <link rel="stylesheet" href="{{ stylesheet | relative_url }}">
   {% endfor %}
 {% endif %}
+
+{% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+    <script type="text/javascript" src="{{ js_file }}" defer></script>
+  {% endfor %}
+{% endif %}

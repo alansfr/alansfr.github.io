@@ -6,7 +6,8 @@
 
 $notice-background-mix: 80%;
 $right-sidebar-width: 300px;
-$right-sidebar-width-narrow: 200px; 
+$right-sidebar-width-narrow: 200px;
+$primary-color: #4fafb9;
 $max-width: 1440px; 
 $mfp-iframe-max-width: 1280px;
 $serif: Georgia, Times, serif;
@@ -35,7 +36,7 @@ $sans-serif: "Helvetica Neue","Gill Sans", -apple-system, BlinkMacSystemFont, "R
     }
   }
 
-.openVideo img {
+.openVideo > img {
   max-height: 600px;
   width: auto;
 }
@@ -67,6 +68,7 @@ video {
     height: auto   !important;
     display: block;
     padding: 5px;
+
   }
 
 .video-popup video {
@@ -413,8 +415,7 @@ blockquote.twitter-tweet a:focus {
 }
 
 .videobutton {
-
+  object-fit: contain;
   max-height: 50%;
-  width: auto;
   opacity: 0.45;
 }

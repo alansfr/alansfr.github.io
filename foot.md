@@ -36,6 +36,16 @@ after_footer_scripts:
 
 {% include videogallery type="center" %}
 
+
+
+
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="masternotions" data-color="#a93c00" data-emoji="☕"  data-font="Comic" data-text="More of this please!" data-outline-color="#222222" data-font-color="#000000" data-coffee-color="#996600" ></script>
+
+
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="masternotions" data-description="Support me on Buy me a coffee!" data-message="New Tip Feature!" data-color=" #dc4f00" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+
+
 <!-- F’in sweet Webflow Hacks -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 

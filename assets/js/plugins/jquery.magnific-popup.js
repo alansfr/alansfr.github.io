@@ -1571,7 +1571,7 @@
     options: {
       markup: '<div class="mfp-iframe-scaler">'+
             '<div class="mfp-close"></div>'+
-            '<iframe class="iframemfp-" src="//about:blank" frameborder="0" allowfullscreen></iframe>'+
+            '<iframe class="iframemfp" src="//about:blank" frameborder="0" allowfullscreen></iframe>'+
           '</div>',
 
       srcAction: 'iframe_src',
@@ -1586,15 +1586,20 @@
         vimeo: {
           index: 'vimeo.com/',
           id: '/',
-          src: '//player.vimeo.com/video/%id%?autoplay=1'
+          src: 'https://player.vimeo.com/video/%id%?autoplay=1'
         },
         gmaps: {
           index: '//maps.google.',
           src: '%id%&output=embed'
         },
-        local: {
+        legacy: {
           index: '/assets/video',
           src: '/assets/video/%id%'
+        },
+        embed: {
+          index: '/embed',
+          id: '',
+          src: '%id%'
         }
       }
     },

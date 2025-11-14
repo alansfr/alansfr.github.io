@@ -38,39 +38,43 @@ This is a translation of an article that was published on a Brazilian website in
 
 <!-- ![image-center](/assets/images/Predador1.jpg){: .align-center} -->
 
-Corner of Lorimer Street and Devoe Street in Brooklyn, New York. I leave the station and an SMS (yes, the good old SMS) informs me that my guest is already waiting at the agreed place. The place is not far from another spot that almost sixteen years ago brought RZ, 37 years old, three nights that for a measly $560, cost him sleep, anxiety disorders, depression, humiliation and suicidal thoughts.
+Corner of Lorimer Street and Devoe Street in Brooklyn, New York. I leave the station and an SMS (yes, the good old SMS) informs me that my guest is already waiting at the agreed place. The place is not far from another spot that almost sixteen years ago brought RZ, 37, three nights that, for a measly $560, cost him sleep, anxiety disorders, depression, humiliation and suicidal thoughts.
 
 The New York-based Dominican arrived in the United States in 1999 with his brother, then a top baseball prospect in the ranks of the New York Mets. From a strict Catholic family, RZ saw his brother walk away after catching him with another man in a humble apartment they both shared with his older sister in Upper Falls, Rochester, NY.
 
-A regular on the gay scene in New York, RZ turned to prostitution for a few months. He tried to reconnect with the family, especially the mother he loved as a deity; for her efforts in raising the three children in the midst of absolute misery and a father who is sometimes absent, sometimes alcoholic and violent.
+A regular on the gay scene in New York, RZ turned to prostitution for a few months. He tried to reconnect with the family, especially his mother, whom he loved like a goddess, for her efforts in raising the three children in the midst of absolute misery and a father who was sometimes absent, sometimes alcoholic and violent.
 
 'My mother's rejection even today causes me pain, but I forgive and love her.' I do not wish my brothers any harm despite the humiliations, and I would like to be able to meet my nephews and nieces that I only know from photos. '
 
-RZ does not like to talk about his months in prostitution because it was in a hookup with Peter Haas that his eternal nightmare began. Haas, former owner of a porn studio for a gay audience, added Glenn Greenwald as a partner in 2003, along with Greenwald's ex-boyfriend: Jason Buchtel, Haas's partner at Master Notions Inc.
+RZ does not like to talk about his months in prostitution because it was in a hookup with Peter Haas that his eternal nightmare began. Haas, former owner of a porn studio for a gay audience, added Glenn Greenwald as a partner in 2003, along with Greenwald's ex-boyfriend: Jason Buchtel, Haas's partner at Master Notions Inc.  
+<span>Translated as written, but should read "...Greenwald's partner at Master Notions".</span>{: .notice--warning}
 
-After meeting at a nightclub, Greenwald gave his card to RZ, a card from Master Notions Inc. with his phone number on the back.
 
-'The proposal was pornographic films and erotic experiments. I always valued my intimacy and discretion so I was not interested in having my face in films from all the gay corners of the world. ' RZ's partner at the time was the one who broke down the wall of fear and convinced the partner to participate in the auditions.
+After meeting at a nightclub, Greenwald gave his card to RZ, a card from Master Notions Inc., with his phone number on the back.
 
-The place where RZ was supposed to film, with a director specializing in actors and actresses not yet 'experts' in adult films and how to behave to and from the camera, was a typical cruising bar hellhole. The amount of products used for the practice of Sadomasochism, or BDSM, as it is better known, captured  the attention of RZ.
+'The offer was for pornographic films and erotic photoshoots. I always valued my privacy and discretion so I was not interested in having my face in films from all the gay corners of the world. ' RZ's partner at the time was the one who broke down the wall of fear and convinced him to participate in the auditions.
 
-In the presentation, Greenwald demanded to be called solely and solely: Herr DomMascHry31, or just Herr DOM. The [obsession nazistóide][1] Greenwald (a Jew who hates Judaism, Israel, Christianity, but with a strong penchant for Islam and the idea of submission and domination ... The Jeffrey Dahmer face of Glenn is already well-known.).
+The place where RZ was supposed to film, with a director specializing in actors and actresses not yet 'experts' in adult films and in how to behave in front of the camera, was a dive typical of a cruising bar. The amount of products used for the practice of Sadomasochism, or BDSM, as it is better known, captured  the attention of RZ.
+
+In the presentation, Greenwald demanded to be addressed solely and exclusively as Herr DomMascHry31, or just Herr DOM. The [Nazi obsession][1] of Greenwald (a Jew who hates Judaism, Israel, Christianity, but with a strong penchant for Islam and the idea of submission and domination ... The Jeffrey Dahmer face of Glenn is already well-known.).
 
 'I didn't know his real name and continued not knowing until I saw him on TV years and years later in an NBC story on George W Bush's elections. After years of good health without panic attacks, the sight of Greenwald triggered all the perverse memories that Verdevaldo and his partner Buchtel had inflicted on the then young 20-something.'
 
-Still not fluent in English, RZ asked Greenwald why so many computers and a room next to the 'studio' with several people on the phones that didn't stop ringing. It was a sex chat, from which attendants drew interested parties to a site known as hairystuds.com - the same site that sparked a legal war between Glenn Greenwald and his former partner Peter Haas.
+Still not fluent in English, RZ asked Greenwald why there were so many computers and a room next to the 'studio' with several people on the phones that didn't stop ringing. It was a phone sex service, from which attendants drew interested parties to a site known as hairystuds.com – the same site that sparked a legal war between Glenn Greenwald and his former partner Peter Haas.  
+<span>"hairystuds.com" above almost certainly should say hairystuds**video**.com - Ed.</span>{: .notice--primary}
 
-Haas accused Greenwald of stealing his entire clientele behind the scenes through a service he had created by relating disk sex to subscribers for audio content, photos and pronographic videos aimed at gay male audiences. In 2004, Greenwald caused Haas to close the case with threats to spread amateur video of Haas and several of his friends; some of them, high-ranking men on Wall Street.
+Haas accused Greenwald of stealing his entire clientele behind the scenes through a service he had created connecting phone sex with subscribers for audio content, photos and pornographic videos aimed at gay male audiences. In 2004, Greenwald forced Haas to drop the case with threats to spread amateur video of Haas and several of his friends; some of them, high-ranking men on Wall Street.
 
 ## Greenwald 'The Professor' DomMascHry31
 
-After a long photo session, Butchel promised RZ a substantial amount since, in the opinion of him and his partner, the boy would have a fabulous, meteoric career and with gains previously unimaginable for the young man.
+After a long photo session, Butchel promised RZ a substantial amount since, in the opinion of him and his partner, the boy would have a fabulous, meteoric career with earnnigs previously unimaginable to him.
 
-Before the legal part of the thing, a contract of about 80 pages on use of image and other topics that practically exempted Greenwald and Buchtel from any rigor of the law, there would be the final proof, his sexual and artistic performance should be examined.
+Before the legal part of the deal, a contract of about 80 pages on use of image and other topics that practically exempted Greenwald and Buchtel from any legal scrutiny, there would be the final test: his sexual and artistic performance would have to be examined.
 
-Herr DomMascHry31, as he REQUIRED to be called, brought in other actors from the production company. RZ saw Greenwald dressed as an SS general, the Nazi paramilitaries. The sessions of Sadomasochism, Blasphemy and other horrors, lasted uninterrupted five hours.
+Herr DomMascHry31, as he REQUIRED to be called, brought in other actors from the production company. RZ saw Greenwald dressed as an SS general, the Nazi paramilitary. The sessions of Sadomasochism, Blasphemy and other horrors, lasted uninterrupted five hours.
 
-Accordingly, totally in agreement with RZ, it is not convenient for the reader to know the details, that would be purely cheap sensationalism about the nefarious identity; __a subject treated as a hero by those who do not know him and did not suffer in his hands the sick and criminal sexuality of those who have defended Nazis__ with tooth and nail... and for free, bearing the procedural costs himself.
+I agree completely with with RZ, it is not necessary for the reader to know the details, that would be purely cheap sensationalism about the nefarious identity; __a subject treated as a hero by those who don't know him and haven't suffered in the hands of the sick and criminal sexuality of someone who defended Nazis__ tooth and nail... and for free, bearing the legal costs himself.  
+<span>Emphasis in the original, as is the erractic punctuation. – Ed.</span>{: .notice}
 
 Pro bono!
 
