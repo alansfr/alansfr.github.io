@@ -329,17 +329,6 @@ For those in search of further details and evidence, here are some starting poin
 
 
 
-# Breaking News
-
-{% include videogallery  %}
-<figure class="feature__item">
-<div class="feature_item-teaser">
-{% include pop-video  %}
-</div>
-</figure>
-On September 20, 2022, Glenn's announced that David's candidacy for re-election has been withdrawn.  
-David allegedly remains in ICU, where he has been for the past six weeks,  
-although the only source for thie is Glenn.
 
 
 

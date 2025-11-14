@@ -68,7 +68,8 @@ video {
     height: auto   !important;
     display: block;
     padding: 5px;
-
+    object-position: center;
+    margin: auto;
   }
 
 .video-popup video {

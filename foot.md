@@ -1,6 +1,6 @@
 ---
 layout: single
-classes: wide
+classes: splash
 title: The Foot Scene
 description: Video famously retweeted by Glenn
 minimal_mistakes_skin: dark
