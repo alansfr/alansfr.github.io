@@ -8,7 +8,9 @@ whitelist:
   - jekyll-redirect-from
 remote_theme: mmistakes/minimal-mistakes
 title: Master Notions
-source: empty
+exclude:
+  - "**"
+  - "*"
 description: "Behind The Mythology of Glenn Greenwald"
 header:
   image: assets/images/twitter-cardbr.jpg
