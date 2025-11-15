@@ -4,6 +4,9 @@ classes: splash
 title: The Foot Scene
 description: Video famously retweeted by Glenn
 minimal_mistakes_skin: dark
+header:
+  og_image: /assets/images/foot/headern.jpg
+  overlay_color: "#311"
 page_css:
  - assets/css/darkpage.css
 videogallery:
@@ -17,7 +20,7 @@ videogallery:
         default: true
       - file: foot.en.vtt
         lang: en  
-excerpt: Glenn's famous retweet.
+excerpt: \"escorts can make lots and lots of money from sexually hungry, eager guys using crystal...\" (Glenn Greenwald, 2003)
 pv:
   id: foot.mp4
   provider: local
