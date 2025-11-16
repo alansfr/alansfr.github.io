@@ -400,22 +400,26 @@ blockquote.twitter-tweet a:focus {
    /* Take full size */
    height: 100%;
    width: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
 
    /* Center the content */
 
 
    /* Add a dark background */
-   background-color: rgba(0, 0, 0, 0.0);
+   background-color: rgba(0, 0, 0, 0.2  );
 
 }
 
 .videolink {
   position: relative;
-  height: 240px;
+
+
 }
 
 .videobutton {
   object-fit: contain;
   max-height: 50%;
-  opacity: 0.45;
+  opacity: 0.4;
 }

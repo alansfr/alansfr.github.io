@@ -7,7 +7,7 @@
 <div class="feature__wrapper">
 
     {% for f in vid_gal %}
-    <figure class="feature__item{% if include.type %}--{{ include.type }}{% endif %} vwrap">
+    <figure class="feature__item{% if include.type %}--{{ include.type }}{% endif %} ">
       <div class="archive__item">
 
         {% if f.title %}
