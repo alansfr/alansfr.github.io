@@ -30,7 +30,7 @@
 
 <a href="#video-01" class="openVideo videolink">
 <img src="/assets/images/{{include.im}}">
-    <div class="video__overlay">
+    <div class="video__overlay modcard">
       <img src="assets/images/playbutton.png" class="videobutton">
     </div>
 </a>
@@ -50,10 +50,10 @@
 {% else %}
 
   <a href="{{ video_src }}" class="popup-{{include.provider}} videolink" >
-    <img src="/assets/images/{{include.im}}" class="modcard">
-    <div class="video__overlay">
+    <div class="video__overlay modcard">
       <img src="assets/images/playbutton.png" class="videobutton">
     </div>
+    <img src="/assets/images/{{include.im}}" class="modcard">
   </a>
 
   {% endif %}
