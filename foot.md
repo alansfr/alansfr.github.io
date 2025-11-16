@@ -5,7 +5,7 @@ title: The Foot Scene
 description: Video famously retweeted by Glenn
 author: Glenn
 header:
-  og_image: /assets/images/foot/headern.jpg
+  og_image: /assets/images/foot/header3.jpg
   overlay_image: /assets/images/foot/headern.jpg
   overlay_filter: linear-gradient(90deg, rgba(128,0,0,0.6), rgba(128,0,0,0.1))
 page_css:
