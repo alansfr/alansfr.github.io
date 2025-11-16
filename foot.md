@@ -1,26 +1,33 @@
 ---
 layout: single
-classes: splash
+classes: wide
 title: The Foot Scene
 description: Video famously retweeted by Glenn
-minimal_mistakes_skin: dark
+author: Glenn
 header:
   og_image: /assets/images/foot/headern.jpg
-  overlay_color: "#311"
+  overlay_image: /assets/images/foot/headern.jpg
+  overlay_filter: linear-gradient(90deg, rgba(128,0,0,0.6), rgba(128,0,0,0.1))
 page_css:
  - assets/css/darkpage.css
 videogallery:
   - id: foot.mp4
     provider: local
     im: MaidGlenn.jpg
-    title: Master Ferraz
+    title: Now with subtitles
     subtitles: 
       - file: foot.pt.vtt
         lang: pt
-        default: true
       - file: foot.en.vtt
-        lang: en  
-excerpt: \"escorts can make lots and lots of money from sexually hungry, eager guys using crystal...\" (Glenn Greenwald, 2003)
+        lang: en
+        default: true
+excerpt: '"escorts can make lots and lots of money from <br>sexually hungry, eager guys using crystal.."<br>(Glenn Greenwald, 2003)'
+sidebar:
+  - title: Prequels
+    image: /assets/images/foot/NYCEscort.jpg
+    imagelink: true
+    nav: Foot
+author_profile: true
 pv:
   id: foot.mp4
   provider: local
@@ -32,7 +39,32 @@ pv:
       default: true
 after_footer_scripts:
   - assets/js/videogal.js
+
 ---
+
+
+<style>
+html > * {
+	background-color: #400000;
+	color: #bb3400;;
+}
+#site-nav  {
+	background-color: #cd3f00 !important;
+}
+body {	
+	background-image: url("/assets/images/bg.gif");
+}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:Batang;
+	color:white;} 
+</style>
 
 
 
@@ -59,23 +91,33 @@ $( document ).ready(function(){
 var trp = document.getElementById("track-pt");
 var tre = document.getElementById("track-en");
 var vid = document.querySelector("video");
-var lang = "pt";
+var tracke = vid.textTracks && vid.textTracks.getTrackById("track-en");
+var trackp = vid.textTracks && vid.textTracks.getTrackById("track-pt");
+
+let lang = "x";
 if(window.location.search){
   // get all url search params from the query string
   const urlParams = new URLSearchParams(window.location.search);
   urllang = urlParams.get('lang');
-  if(urllang && urllang == "en")
-    lang = "en";
+  if(urllang){
+    if(urllang == "en")
+      lang = "en";
+    if(urllang == "pt")
+      lang = "pt";
+  }
 }
 
 if(lang == "en"){
   trp.remove();
   tre.default = true;
-  var track = vid.textTracks && vid.textTracks[0];
-  track.mode = "showing";
+  tracke.mode = "showing";
+  trackp.mode = "disabled";
   }
-else{
-  tre.remove();    
+if(lang == "pt"){
+  tre.remove();
+  trp.default = true;
+  trackp.mode = "showing";
+  tracke.mode = "disabled";
 }
 });
 </script>
