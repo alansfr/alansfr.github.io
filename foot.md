@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: The Foot Scene
+title: Glenn and his "Black God" – subtitled 
 description: Video famously retweeted by Glenn
 author: Glenn
 header:
