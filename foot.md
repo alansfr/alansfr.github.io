@@ -34,9 +34,11 @@ pv:
   im: MaidGlenn.jpg
   title: Master Ferraz
   subtitles: 
-    - file: foot.pt.vtt
-      lang: pt
-      default: true
+      - file: foot.pt.vtt
+        lang: pt
+      - file: foot.en.vtt
+        lang: en
+        default: true
 after_footer_scripts:
   - assets/js/videogal.js
 
@@ -69,10 +71,20 @@ p
 
 
 
+
 {% include videogallery type="center" %}
 
+# Glenn worships his _Deus Negro_
 
+<div class="feature__item-teaser">
+{% include pop-video id=page.pv.id subtitles=page.pv.subtitles provider=page.pv.provider im=page.pv.im %}
+</div>
+{: .align-left}
+**What is this and why it is on this site?**  
+Tweeted by Glenn in May 2025.
 
+<br>
+{: .cl}
 
 
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="masternotions" data-color="#a93c00" data-emoji="☕"  data-font="Comic" data-text="More of this please!" data-outline-color="#222222" data-font-color="#000000" data-coffee-color="#996600" ></script>
