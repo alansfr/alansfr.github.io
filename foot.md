@@ -55,7 +55,7 @@ after_footer_scripts:
 </div>
 {: .align-left}
 
-## What is this and why it is on this site?
+## What is this and why is it on this site?
 
 This video was a surprise to many when Glenn retweeted it on May 30, 2025. Glenn's allies rushed to defend him, while simultaneously insisting no defense was necessary, despite having no idea whet was going on.
 
