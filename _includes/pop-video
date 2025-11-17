@@ -31,7 +31,7 @@
 <a href="#video-01" class="openVideo videolink">
 <img src="/assets/images/{{include.im}}">
     <div class="video__overlay">
-      <img src="assets/images/playbutton.png" class="videobutton">
+      <img src="assets/images/playbutton2.png" class="videobutton">
     </div>
 </a>
 <div id="video-01" class="video-popup mfp-hide">
