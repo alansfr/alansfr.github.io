@@ -72,11 +72,18 @@ after_footer_scripts:
 
 
 
+# Latest From Master Notions
 
-Anyone looking for the video posted to X by Master Ferraz, Retweeted by Glenn, and deleted from Xitter with blinding speed by Elon, can find a link to a copy on Rumble [below](#maid).  
-A version with subtitle available (in English and Portuguese) will be available, by popular request, in the next day or two. **COMING VERY SOON**{: .vnew}
-{: .notice--danger}
+## That Foot Vid -- Now with Subtitles
 
+If you saw the video Glenn retweeted on May 30, 2025  -- the one with Glenn licking a foot he was renting at great expense -- and suspected it was even worse if you could understand what was being said, you're in luck!
+
+By popular demand, and thanks to the assistance of our Eminent Scribe in Brazil, this can now be viewed on this site with subtitles available in English or Portuguese. [Take Me To the Video](/foot.md){: .btn .btn--danger}
+
+## Support and feedback
+
+The subtitles took considerable time and some expense, so for those who can afford to contribute a modest tip and find this site informative we have introduced a [new support feature](https://buymeacoffee.com/masternotions). Feedback, complaints and requests in the "Say something nice..." box will be taken seriously, in which case "clear" and "constructive" could replace "nice".
+{: .notice--success}
 
 # Glenn's Pornography and Prostitution Businsesses 
 
