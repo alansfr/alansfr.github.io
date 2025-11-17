@@ -1,14 +1,34 @@
 /* Colors */
 
-html > * {
-	background-color: #100010;
-	color: #240000;
-}
-
-#site-nav  {
-	background-color: #dc4f00 !important;
-}
 
 .page__footer  {
 	background-color: #dc5f00 !important;
+}	
+
+html > * {
+	background-color: #400000;
+	color: #dd8855;;
+}
+#site-nav  {
+	background-color: #cd3f00 !important;
+}
+body {	
+	background-image: url("/assets/images/bg.gif");
+}
+p
+	{
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:Batang;
+	color: #f0c0c0;
+}
+
+.notice--info {
+	 background-color: #112233;
+	 color: white;
 }
