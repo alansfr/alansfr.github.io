@@ -48,7 +48,7 @@ feature_row:
     btn_class: "btn--warning"
 feature_row2:
   - image_path: assets/images/NYDN.jpg
-    url: "https://www.nydailynews.com/news/national/greenwald-reporter-broke-nsa-story-lawyer-sued-porn-biz-article-1.1383448"
+    url: "https://archive.ph/2HKKM"
     btn_label: "Secrets of Mr Secret"
     btn_class: "btn--danger"
     title: "NY Daily News, 2013"
@@ -80,6 +80,9 @@ If you saw the video Glenn retweeted on May 30, 2025  -- the one with Glenn lick
 
 By popular demand, and thanks to the assistance of our Eminent Scribe in Brazil, this can now be viewed on this site with subtitles available in English or Portuguese. [Take Me To the Video](/foot.md){: .btn .btn--danger}
 
+The video was deleted from Twitter with extraordinary speed, including copies that various users had made and reposted, despite the fact it is not "revenge porn", or indeed "porn" of any kind under several legal definitions we checked. Nor does it seem likely a copyright infringement claim was made as absolutely no one seems to be admitting to producing it.
+
+We did have a link on this page to a copy someone posted on Rumble until, in mid-November,that copy disappeared without explanation. A subsequent internet search eventually revealed one other copy, on YouTube, posted by an antisemitic conspiracy theorist with very low visibility.
 ## Support and feedback
 
 The subtitles took considerable time and some expense, so for those who can afford to contribute a modest tip and find this site informative we have introduced a [new support feature](https://buymeacoffee.com/masternotions). Feedback, complaints and requests in the "Say something nice..." box will be taken seriously, in which case "clear" and "constructive" could replace "nice".
@@ -138,20 +141,6 @@ Highlights include:
 </div >
 {: .notice--success}
   
-## What's Glenn's Best Movie?
-{: #maid}
-
-We're not really a movie review site.  
-More of a _This Movie Really Exists and Glenn Really Produced It?_ site. 
-
-But _Foot In Mouth_ starring Maid Glenn and Master Ferraz is the most in-demand right now. **NEW**{: .vnew .align-right}  
-Finally Glenn got us to include a video on Rumble!
-
-
-
-<div class="vide">
-{% include video id="v6rvoz3" provider="rumble" %}
-</div>
 
 
 
@@ -165,29 +154,18 @@ The court documents showed that Master Notions, which operated the porn brands H
 _One of the very few published updates to this story, which appeared in Washington Babylon in 2021,   we've put here too._{: .notice--info}
 
 {% include feature_row id="feature_row2" %}
-[Alternative Link to NY Daily News article](https://archive.ph/2HKKM)
 
 
 
 
+It appears Glenn tried to get ahead of the _NY Daily News_ revelations by inventing a story that minimized his involvement and publishing it elsewhere, and with assorted variations and embellishments since. We look at the most significant of [Glenn's responses.](/interviews/){: .btn .btn--primary} They turn out to be largely lies.
 
 
+Although Glenn admitted to co-ownership of _Hairy Studs Video_ and _Studmall_, he falsely suggested there were several co-owners rather than just two, and
+**explicitly stated that he was involved only in legal issues and his involvement in the porn industry ended in 2004 before he moved to Brazil, 2-3 years after it started**. These statements are not even close to being true, although _NY Daily News_ did not have the evidence to disprove them and does not appear to have looked for it.
 
+Furthemore his role as a pimp, in both NYC and subsequently in Rio, was entirely buried until we discovered it in 2021, and Glenn has never had to address it directly.
 
-It appears Glenn tried to get ahead of the _NY Daily News_ revelations by publishing his account,
-which he has repeated with multiple variations in profiles and interviews since. See [Key Excerpts and links](/interviews/){: .btn .btn--danger} for some of these.
-
-
-<div markdown="1">
-He admitted to co-ownwership of Hairy Studs Video and Studmall
-**but stated that his involvement in the porn industry ended in 2004, 2-3 years after it started**  .
-
-**But is Glenn's claim true?**
-
-If it is, then Glenn's Blue Period would be exactly 100 years after Picasso's.  
-Had _New York Daily News_, _Buzzfeed_, _The Guardian_ and others not been too shy to check, they might have quickly realized there is overwhelming evidence against Glenn's version of events. 
-</div>
-{: .notice--warning}
 
 ## Documentary evidence
 
