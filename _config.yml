@@ -25,7 +25,7 @@ sidebar:
 repository: alansfr/alansfr.github.io
 url: "https://masternotions.com"
 baseurl: "/"
-logo: assets/images/hippopotamus-head.svg
+logo: assets/images/hippopotamus-head3.png
 atom_feed:
   hide: true
 after_footer_scripts:
