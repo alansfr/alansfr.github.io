@@ -62,7 +62,7 @@ sidebar:
 permalink: /boxcovers/
 ---
 
-_This new page is still a work in progess_
+_This page is still a work in progess_
 {: .notice--warning}  
 
 ## The Custodian of Records

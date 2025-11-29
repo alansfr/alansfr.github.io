@@ -8,7 +8,7 @@ minimal_mistakes_skin: "dark"
 header:
   og_image: /assets/images/foot/header3.jpg
   overlay_image: /assets/images/foot/headern.jpg
-  overlay_filter: linear-gradient(90deg, rgba(128,0,0,0.6), rgba(128,0,0,0.1))
+  overlay_filter: linear-gradient(90deg, rgba(70,0,10,0.7), rgba(80,0,0,0.3))
 page_css:
  - assets/css/darkpage.css
 videogallery:

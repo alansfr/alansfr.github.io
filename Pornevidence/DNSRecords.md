@@ -48,7 +48,7 @@ sidebar:
    nav: evid
 ---
 
-_Yes, Glenn's first domain name record really did mispell the name of his own company as "Masters Notion" rather than Master Notions._
+_Yes, Glenn's first domain name record really did misspell the name of his own company as "Masters Notion" rather than Master Notions._
 {: .notice--warning}
 
 
