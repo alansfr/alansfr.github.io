@@ -17,8 +17,9 @@ twitter:
   username: "ggreenwald"
   title: Master Notions
   description: Mythology of GG
+og_image: assets/images/twitter-card2.jpg
 google_analytics: G-J73QXGV4YW
-minimal_mistakes_skin: "mint"
+minimal_mistakes_skin: "dark"
 sidebar:
  - image: /assets/images/EshEH_WU4AE7WXV.jpg
 repository: alansfr/alansfr.github.io
