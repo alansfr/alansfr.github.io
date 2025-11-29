@@ -66,7 +66,7 @@ Note that we chose a 2012 version of the site for recommended browsing as in the
 # Brazil, August 2013
 
 In an [interview](https://www1.folha.uol.com.br/colunas/monicabergamo/2013/08/1331165-vem-chumbo-grosso-diz-jornalista-que-namora-brasileiro-detido-em-londres.shtml) in _Folha de São Paulo_, published in English by Worldcrunch,
-[In Rio With Glenn Greenwald And David Miranda](https://worldcrunch.com/world-affairs/in-rio-with-glenn-greenwald-and-david-miranda-more-snowden-stories-to-come/glenn-greenwald-david-miranda-guardian-edward-snowden-whistleblower/c1s13223), they describe how they met.
+[In Rio With Glenn Greenwald And David Miranda](https://web.archive.org/web/20201218044234/https://worldcrunch.com/world-affairs/in-rio-with-glenn-greenwald-and-david-miranda-more-snowden-stories-to-come/glenn-greenwald-david-miranda-guardian-edward-snowden-whistleblower/c1s13223), they describe how they met.
 
 [![Enzuli](/assets/images/Enzuli.png){: .modcard .align-right}](/assets/images/Enzuli.png)
 > Just one week after that meeting on the beach, the two were living together.
