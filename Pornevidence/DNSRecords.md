@@ -94,5 +94,5 @@ _The most striking thing about these records are the home page screenshots, part
 
 {% include feature_row id="feature_row2" %}
 
-Note that our reproducations of [Rio Gay Guides](/RioG.html) and [Rio Male Escorts](/RioE.html) take all of their material from the Wayback Machine. However in a small number of cases embedded images are missing from the archive: we have substituted reasonably equivalent images (also from the archive of the the same sites). This is why the screenshot captured above by DomainTools has a different picture of David in the center from the one we have reconstructed. Those are the only changes we have made, and the Wayback Machine links to critical pages are provided in the sidebars.
+Note that our reproductions of [Rio Gay Guides](/RioG.html) and [Rio Male Escorts](/RioE.html) take all of their material from the Wayback Machine. However in a small number of cases embedded images are missing from the archive: we have substituted reasonably equivalent images (also from the archive of the the same sites). This is why the screenshot captured above by DomainTools has a different picture of David in the center from the one we have reconstructed. Those are the only changes we have made, and the Wayback Machine links to critical pages are provided in the sidebars.
 {: .notice--info}
