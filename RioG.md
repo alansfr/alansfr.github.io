@@ -5,7 +5,10 @@ title: Rio Gay Guides
 sidebar:
   - image: /rion/images/ourguideservices004.jpg
   - title: GG historic websites
-    nav: RioGuides      
+    nav: RioGuides
+  - title: Interviews mention Gay Guides
+    image: /assets/images/HaplessDavid2.jpg
+    nav: GuidesInterviews        
 header:
   og_image: rion/images/banalto002.jpg
 share: true

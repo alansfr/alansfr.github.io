@@ -140,6 +140,13 @@ RioGuides:
       url : /blogspot.html
     - title: SM Blogspot on The Wayback Machine
       url:  https://web.archive.org/web/20051215143803/http://studmall.blogspot.com/
+GuidesInterviews:      
+  - title: Folha de S.Paulo, 2013
+    url: https://archive.ph/IbbO4
+  - title: English translation (WorldCrunch)
+    url: https://archive.ph/TkJ2P
+  - title: Corruption questions, 2019
+    url: https://oglobo.globo.com/politica/coaf-aponta-movimentacoes-atipicas-de-25-milhoes-de-david-miranda-23940737
 Jason:
  - title: Intro to Jason Sketchy
    url: /Jason.html
