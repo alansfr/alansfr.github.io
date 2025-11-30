@@ -7,6 +7,9 @@ excerpt: A quick tour of key evidence
 permalink: /RioGExplainer/
 header:
   overlay_image: assets/images/twitter-card2red.jpg
+sidebar:
+  - title: Explainers & Excuses
+    nav: evid
 feature_row: 
   - image_path: /assets/images/RGGMarkedUp.jpg
     url: /RioG.html
