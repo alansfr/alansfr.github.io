@@ -5,6 +5,9 @@ main:
   - title: Rio Sites
     description: sites Glenn owned & operated in Brazil
     url: /RioG.html
+  - title: Explainers
+    description: Evidence explainers and Glenn's excuses
+    url: /RioGExplainer
   - title: Alts
     description: Glenn's hidden profiles
     url: /Doug69Links.html
@@ -26,15 +29,12 @@ main:
   - title: Twitter Threads
     description: Links to Twitter threads with more details
     url: /TwitterThreads.html
-  - title: Glenn's Denials
-    description: Interviews where Glenn mentions his porn business
-    url: /interviews/
   - title: Paper trails
     description: Assorted documentary evidence
     url: /boxcovers/  
-  - title: Keira Knightley
-    description: Creepy Billionaires in Crocs
-    url: /Yuri.html
+  - title: Matt Taibbi bonus
+    description: "In Exile: Abuse in Moscow"
+    url: /Exile6
 BCG1:
  - title: Intro & Home page
    url: /BCG.html
@@ -76,14 +76,16 @@ BrazMisc:
      - title: Original article (Portuguese)
        url: "https://emribeirao.com/policial/glenn-greenwald-humilhava-judeus-em-producoes-pornograficas-nazistas-nos-eua-37125/"
 evid:
- - title: RioMaleEscorts evidence
-   url: /PimpEvidence/
+ - title: Quick Evidence Walkthrough
+   urL: /RioGExplainer/
  - title: Glenn's Interviews
    url: /interviews/
  - title: DNS Records
    url: /DNS/
  - title: Video Packaging
    url: /boxcovers/
+ - title: RioMaleEscorts evidence
+   url: /PimpEvidence/
  - title: Master Notions court case
    url: /cases/PeterHaas.html
 HX:
