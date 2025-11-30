@@ -73,3 +73,10 @@ The primary medium was the printed magazine, and we are still working on finding
         iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
     }
 </script>
+
+<script data-name="BMC-Widget" data-cfasync="false"
+src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="masternotions"
+data-description="Support me on Buy me a coffee!"
+data-message="The best value Greenwald repellent on the entire internet."
+data-color="#BD5FFF" data-position="Right" data-x_margin="18" data-y_margin="18">
+</script>

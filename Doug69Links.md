@@ -593,3 +593,10 @@ Note that the email address used by "Guest DomEscort31NYC" is one identified as 
 
 ### Also Noteworthy
 - <https://www.companyofmen.org/topic/27656-hx-article-on-rio/#comment-259038>
+
+<script data-name="BMC-Widget" data-cfasync="false"
+src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="masternotions"
+data-description="Support me on Buy me a coffee!"
+data-message="The best value Greenwald repellent on the entire internet."
+data-color="#BD5FFF" data-position="Right" data-x_margin="18" data-y_margin="18">
+</script>
