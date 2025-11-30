@@ -21,6 +21,21 @@ permalink: /motley/
 This judgement can also be found on some publicly accessible legal sites, such as [Court Listener](https://www.courtlistener.com/opinion/2297092/scanlon-v-kessler).
 {: .notice--info}
 
+This is a must-read shredding of Glenn's fee submission by one of the legends of the federal bench.
+
+It starts with "Plaintiff claims that he is entitled to $78,475.00 in attorney’s fees" and she reduces them to $1,897.50 for reasons including
+  * "The court finds it patently unreasonable that... [Greenwald]... can demand such an exorbitant rate". 
+  * "the court finds that this case should have only required one attorney and a moderate amount of pretrial preparation time. Greenwald claims to have spent a total of 271.2 hours on this case"
+  * "the district court should only award that amount of fees that is reasonable in relation to the results achieved"
+  
+and further shreds the claims for costs
+  * "Greenwald’s affidavit included expenses for expedited mailing and courier services like Federal Express and various transportation costs.... All the parties in this action live in New York."
+  * "Other noncompensable, vague entries"
+
+For a quicker read of the highlights, search the text for "Greenwald".
+
+
+<div markdown="1">
 # Scanlon v. Kessler, 23 F. Supp. 2d 413
 
 
@@ -157,3 +172,14 @@ SO ORDERED.
 [8] The court reached this figure by calculating the lodestar figure for plaintiff's counsel (46 hours × $125/hr= $5750) and reducing it by 67%.
 
 [9] This figure represents plaintiff's original request for costs ($5877.34) less the two-thirds deduction (67%).
+
+</div>
+{: .notice--success}
+
+
+<script data-name="BMC-Widget" data-cfasync="false"
+src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="masternotions"
+data-description="Support me on Buy me a coffee!"
+data-message="The best value Greenwald repellent on the entire internet."
+data-color="#BD5FFF" data-position="Right" data-x_margin="18" data-y_margin="18">
+</script>
